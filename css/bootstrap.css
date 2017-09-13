@@ -26,7 +26,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  margin: auto;
+  margin: 0;
 }
 article,
 aside,
@@ -220,7 +220,7 @@ html {
 }
 body {
   margin: auto;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Arial;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
