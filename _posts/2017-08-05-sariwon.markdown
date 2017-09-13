@@ -1,0 +1,10 @@
+---
+layout: post
+title:  ">>"
+date:   2017-08-05 15:39:40
+preview: https://arai-youn.github.io/eunjibriller/img/6.png
+---
+
+![Picture 1](https://arai-youn.github.io/eunjibriller/img/6.png)
+
+불고기 넘넘 마이쪙!
