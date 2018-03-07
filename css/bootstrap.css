@@ -15,7 +15,11 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 @font-face{
-  font-family:"Arial";
+  font-family:"Iropke Batang","Georgia";
+  src:url('/fonts/IropkeBatangM.eot');
+  src:url('/fonts/IropkeBatangM.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/IropkeBatangM.woff') format('woff'),
+  url('/fonts/Georgia.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -219,8 +223,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  margin: auto;
-  font-family: Arial;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -2265,4 +2268,18 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 .affix {
   position: fixed;
+}
+
+#intro-img {
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  z-index: 1001;
+  width: 100%
+}
+.show-img {
+  display: none;
+}
+.hide-img {
+  display: hidden;
 }
