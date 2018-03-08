@@ -2,7 +2,7 @@
 layout: post
 title:  ">"
 date:   2015-10-06 15:39:40
-preview: https://arai-youn.github.io/mename/img/1.png
+preview: https://brillerkim.github.io/img/1.png
 ---
 
 ![Picture 1](https://unsplash.it/800/600)
