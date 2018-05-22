@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ">"
+title:  "제목입니다."
 date:   2015-10-06 15:39:40
-preview: https://brillerkim.github.io/img/1.png
+preview: https://brillerkim.github.io/img/8_tumblr.jpg
 ---
 
 ![Picture 1](https://unsplash.it/800/600)
