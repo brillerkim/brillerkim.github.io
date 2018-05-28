@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /contact/
+permalink: /about/
 ---
 
 /exhibition
