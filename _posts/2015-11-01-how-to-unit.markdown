@@ -16,4 +16,7 @@ preview: https://brillerkim.github.io/img/a3_1/2015-3_2.jpg
 ![Picture 5](https://brillerkim.github.io/img/a3_1/2015-3_6.png)
 
 
-text
+Seoul @UE7<br>
+[<U>7TH UNLIMITED EDITION – SEOUL ART BOOK FAIR 2015</U>](http://unlimited-edition.org/archives/category/ue7)
+<br>
+2015 도시사물키트 things in the Seoul 
