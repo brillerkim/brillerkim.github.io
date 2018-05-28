@@ -19,7 +19,9 @@ preview: https://brillerkim.github.io/img/a5/2017-2_7.jpg
 
 ![Picture 7](https://brillerkim.github.io/img/a5/2017-2_7.jpg)
 
-![Picture 8](https://brillerkim.github.io/img/a5/2017-2_8.jpg)
+![Picture 8](https://brillerkim.github.io/img/a5/2017-2_9.jpg)
+
+![Picture 9](https://brillerkim.github.io/img/a5/2017-2_8.jpg)
 
 
 text
