@@ -19,5 +19,7 @@ preview: https://brillerkim.github.io/img/a3/2015-2_6.png
 
 ![Picture 7](https://brillerkim.github.io/img/a3/2015-2_7.png)
 
+![Picture 8](https://brillerkim.github.io/img/a3/2015-2_8.jpg)
+
 
 text
