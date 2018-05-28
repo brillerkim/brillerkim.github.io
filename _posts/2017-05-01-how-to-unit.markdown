@@ -22,4 +22,5 @@ preview: https://brillerkim.github.io/img/a3_2/2017-3_6.jpg
 ![Picture 8](https://brillerkim.github.io/img/a3_2/2017-3_8.jpg)
 
 
-text
+Seoul @Substance<br>
+2017 #howtounit
