@@ -24,8 +24,10 @@ preview: https://brillerkim.github.io/img/a3/2015-2_6.png
 
 It was an exhibition that many people visited. Many images are uploaded on the Internet. I've attached a internet image. 
 <br>
+<br>
 Seoul @굿-즈 Goods 2015<br>
-[굿-즈 2015 Homepage link](http://goods2015.com/goods_01.html)<br>
-[an interview link](http://goods2015.com/artist_20.html)<br>
+<br>
+[<U>굿-즈 2015 Homepage link</U>](http://goods2015.com/goods_01.html)<br>
+[<U>an interview link</U>](http://goods2015.com/artist_20.html)<br>
 <br>
 2015 #howtounit
