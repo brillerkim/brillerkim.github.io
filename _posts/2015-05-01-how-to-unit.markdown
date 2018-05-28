@@ -26,7 +26,7 @@ preview: https://brillerkim.github.io/img/a2/2015-1_6.jpg
 ![Picture 10](https://brillerkim.github.io/img/a2/2015-1_10.jpg)
 
 
-Gwangju @Barim media space 
+Gwangju @Barim media space. 
 2015 #howtounit
-[“8요일에 눈이 밝아진다 8yoil noons” project](https://neolook.com/archives/20150505h)   
+[“8요일에 눈이 밝아진다 8yoil noons” project](https://neolook.com/archives/20150505h)<<   
 
