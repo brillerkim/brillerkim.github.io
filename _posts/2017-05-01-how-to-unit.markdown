@@ -22,5 +22,10 @@ preview: https://brillerkim.github.io/img/a3_2/2017-3_6.jpg
 ![Picture 8](https://brillerkim.github.io/img/a3_2/2017-3_8.jpg)
 
 
+This is works of computing and 3D printing and ceramic.
+<br>
 Seoul @Substance<br>
+<br>
+[<U>CC BY-NC thingiverse.com link</U>](https://www.thingiverse.com/thing:2301712)
+<br>
 2017 #howtounit
