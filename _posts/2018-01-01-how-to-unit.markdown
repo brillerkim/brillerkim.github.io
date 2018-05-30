@@ -30,4 +30,13 @@ preview: https://brillerkim.github.io/img/a5_1/2018-1_1.jpg
 ![Picture 12](https://brillerkim.github.io/img/a5_1/2018-1_12.jpg)
 
 
-text
+Seoul @Studio Pie
+<br>
+<br>
+<도자로 다른 것 만들기> 워크샵<br> 
+low-tech의 도자 정보와 기술을 공유하는 워크샵입니다. 다른 기술과 결합해보고, 흙을 처음 만져보는 것처럼 탐구해봅니다. 그릇이 아닌, 다른 것들을 만듭니다. 흙의 특성을 관찰합니다.<br> 
+<br>
+망원동 스튜디오 파이. 매주 월요일 7시. 5주 과정
+[<U>'다른 것 만들기' 워크샵 link</U>](http://studiopie.net/?p=2045)<br>
+<br>
+2018 다른 것 만들기 
