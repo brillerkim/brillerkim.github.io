@@ -23,8 +23,8 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 
 
 [![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
-<br>
-On-demand streaming. archive
+
+On-demand streaming work in 2017. You can watch short.ver video. This work was exhibited in '10th Cheongju Craft Biennale'.
 <br>
 <br>
 Seoul @Archive Bomm
