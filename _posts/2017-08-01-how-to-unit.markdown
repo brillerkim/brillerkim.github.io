@@ -22,14 +22,14 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 ![Picture 8](https://brillerkim.github.io/img/a4/2017_8.jpg)
 
 
+[![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
+<br>
 On-demand streaming. Archive
 <br>
 Seoul @Archive Bomm
 <br>
-[![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
-<br>
-video. Nam dong hyun 
-sound. hoonida Kim
-poster. Seo ji na
+video. Nam dong hyun<br> 
+sound. hoonida Kim<br>
+poster. Seo ji na<br>
 <br>
 2017 #howtounit 
