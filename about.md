@@ -6,6 +6,9 @@ permalink: /about/
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 Eunji Briller Kim<br> 
 김 은지<br>
 <br>
@@ -15,6 +18,7 @@ Eunji Briller Kim<br>
 [<U>instagram.com/eunji_briller</U>](https://www.instagram.com/eunji_briller)<br>
 <br>
 brillerkim@gmail.com
+<br>
 <br>
 <br>
 Exhibitions<br>
