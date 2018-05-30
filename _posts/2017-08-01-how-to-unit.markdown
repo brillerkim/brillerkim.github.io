@@ -24,9 +24,11 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 
 [![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
 <br>
-On-demand streaming. Archive
+On-demand streaming. archive
+<br>
 <br>
 Seoul @Archive Bomm
+<br>
 <br>
 video. Nam dong hyun<br> 
 sound. hoonida Kim<br>
