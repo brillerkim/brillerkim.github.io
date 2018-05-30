@@ -11,13 +11,17 @@ preview: https://brillerkim.github.io/img/a5/2017-2_7.jpg
 
 ![Picture 3](https://brillerkim.github.io/img/a5/2017-2_3.jpg)
 <br>
-PLA. 3D Print
+<br>
+Pla. 3D Print
+<br>
 <br>
 ![Picture 4](https://brillerkim.github.io/img/a5/2017-2_4.jpg)
 
 ![Picture 5](https://brillerkim.github.io/img/a5/2017-2_5.jpg)
 <br>
+<br>
 Ceramic
+<br>
 <br>
 ![Picture 6](https://brillerkim.github.io/img/a5/2017-2_6.jpg)
 
