@@ -10,9 +10,13 @@ permalink: /about/
 Eunji Briller Kim<br> 
 김 은지<br>
 <br>
-Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim continues to make art while experimenting with new technology.<br>
+brillerkim@gmail.com<br>
 <br>
-brillerkim@gmail.com
+<br>
+<br>
+Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim continues to make art while experimenting with new technology.
+<br>
+<br>
 <br>
 <br>
 *Exhibitions<br>
