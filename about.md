@@ -11,12 +11,13 @@ Eunji Briller Kim<br>
 김 은지<br>
 <br>
 <br>
-[<U>brillerkim.github.io</U>](https://brillerkim.github.io)<br>
-[<U>facebook.com/eunjibrillerkim</U>](https://www.facebook.com/eunjibrillerkim)<br>
-[<U>instagram.com/eunji_briller</U>](https://www.instagram.com/eunji_briller)<br>
+[<U>homepage</U>](https://brillerkim.github.io)<br>
+[<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
+[<U>instagram</U>](https://www.instagram.com/eunji_briller)<br>
 <br>
+<br>
+Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim continues to make art while experimenting with new technology.<br>
 brillerkim@gmail.com
-<br>
 <br>
 <br>
 *Exhibitions<br>
