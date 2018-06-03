@@ -14,9 +14,6 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim continues to make art while experimenting with new technology.
-<br>
-<br>
 <br>
 <br>
 *Exhibitions<br>
@@ -35,6 +32,9 @@ Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim 
 *Workshop<br>
 <br>
 2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) Studio Pie, Seoul, South Korea<br>
+<br>
+<br>
+Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim continues to make art while experimenting with new technology.
 <br>
 <br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
