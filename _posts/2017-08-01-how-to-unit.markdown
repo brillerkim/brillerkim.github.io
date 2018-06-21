@@ -22,12 +22,14 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 ![Picture 8](https://brillerkim.github.io/img/a4/2017_8.jpg)
 
 
+{% include youtubePlayer.html id=VdLwv_WltMI&feature=youtu.be %}
+
 [![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
 
 On-demand streaming work in 2017. You can watch short.ver video. This work was exhibited in '10th Cheongju Craft Biennale'.
 <br>
 
-{% include youtubePlayer.html id=VdLwv_WltMI&feature=youtu.be %}
+
 
 <br>
 Seoul @Archive Bomm
