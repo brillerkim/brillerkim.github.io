@@ -26,7 +26,6 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 =======
 {% include youtubePlayer.html id="VdLwv_WltMI" %}
 
-[![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
 >>>>>>> b59f73e5d39f64856712119a99e86721657d246e
 
 On-demand streaming work in 2017. You can watch short.ver video. This work was exhibited in '10th Cheongju Craft Biennale'.
