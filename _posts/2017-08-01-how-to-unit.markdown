@@ -22,7 +22,7 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 ![Picture 8](https://brillerkim.github.io/img/a4/2017_8.jpg)
 
 
-{% include youtubePlayer.html id="watch?v=VdLwv_WltMI&feature=youtu.be" %}
+{% include youtubePlayer.html id="watch?v=VdLwv_WltMI" %}
 
 [![Video Label](http://img.youtube.com/vi/VdLwv_WltMI/0.jpg)](https://youtu.be/VdLwv_WltMI)
 
