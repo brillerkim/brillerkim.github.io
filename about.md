@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: about
+permalink: /about/
 ---
 <br>
 <br>
@@ -24,7 +24,8 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 *Projects<br>
-<br> 
+<br>
+2018 Artists’ Residency Exchange Programme. Arts Council England, Manchester, UK<br> 
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, South Korea<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, South Korea<br>
 <br>
