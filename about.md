@@ -25,14 +25,14 @@ brillerkim@gmail.com<br>
 <br>
 *Projects<br>
 <br>
-2018 Artists’ Residency Exchange Programme. Arts Council England, Manchester, UK<br> 
+2018 Artists’ Residency Exchange Programme. Supported by Castlefield gallery, Barim, and British Art Council, Manchester, UK<br> 
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, South Korea<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, South Korea<br>
 <br>
 <br>
 *Workshop<br>
 <br>
-2018 Play & Process Summer Workshops. Plant Noma(Curated Barim/ Castlefield Gallery), Manchester, UK<br>
+2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Castlefield gallery), Manchester, UK<br>
 2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) Studio Pie, Seoul, South Korea<br>
 <br>
 <br>
