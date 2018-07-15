@@ -13,7 +13,11 @@
     right:15%;
     display: inline-block;
     border:2px solid #2e3192;
-    background-color:#fff;
+    background-color:#2e3192;
+}
+
+.font-color {
+    color: #fff;
 }
 
 
@@ -61,6 +65,10 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.site-title {
+    padding-left: 25%;
 }
 
 @include media-query($on-laptop) {
