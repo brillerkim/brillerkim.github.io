@@ -36,7 +36,10 @@ brillerkim@gmail.com<br>
 2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) Studio Pie, Seoul, South Korea<br>
 <br>
 <br>
-Eunji Briller Kim majored in fine art at Kaywon University of Art & Design. Kim continues to make art while experimenting with new technology.
+Based in Korea, Kim creates art works using clay and ceramic. Majored in fine art, she also learned traditional ceramic
+making. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
+she creates narrative and context. As below, Kim creates a single form of clay/ceramic and transforms that form,
+combining with other medium.
 <br>
 <br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
