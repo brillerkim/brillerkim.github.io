@@ -2,7 +2,6 @@
 title: eunji briller kim
 email: brillerkim@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  W
 baseurl: "https://brillerkim.github.io" # the subpath of your site, e.g. /blog/
 url: "https://brillerkim.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
