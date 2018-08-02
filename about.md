@@ -36,8 +36,7 @@ brillerkim@gmail.com<br>
 2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) Studio Pie, Seoul, South Korea<br>
 <br>
 <br>
-Based in Korea, Kim creates art works using clay and ceramic. Majored in fine art, she also learned traditional ceramic
-making. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
+Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
 she creates narrative and context. As below, Kim creates a single form of clay/ceramic and transforms that form,
 combining with other medium.
 <br>
