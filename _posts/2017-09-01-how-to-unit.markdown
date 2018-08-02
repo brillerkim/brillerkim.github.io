@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2017-09-01 00:00:00
-preview: https://brillerkim.github.io/img/a5/2017-2_7.jpg
+preview: https://brillerkim.github.io/img/a5/2017-2_10.jpg
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a5/2017-2_1.jpg)
