@@ -1,43 +1,128 @@
 ---
 layout: post
 title:  ""
-date:   2018-01-01 00:00:00
-preview: https://brillerkim.github.io/img/a5_1/2018-1_pront.jpg
+date:   2018-06-27 00:00:00
+preview: https://brillerkim.github.io/img/a5_1/2018-2_pront.jpg
 ---
 
-![Picture 1](https://brillerkim.github.io/img/a5_1/2018-1_1.jpg)
-
-![Picture 2](https://brillerkim.github.io/img/a5_1/2018-1_2.jpg)
-
-![Picture 3](https://brillerkim.github.io/img/a5_1/2018-1_3.jpg)
-
-![Picture 4](https://brillerkim.github.io/img/a5_1/2018-1_4.jpg)
-
-![Picture 5](https://brillerkim.github.io/img/a5_1/2018-1_5.jpg)
-
-![Picture 6](https://brillerkim.github.io/img/a5_1/2018-1_6.jpg)
-
-![Picture 7](https://brillerkim.github.io/img/a5_1/2018-1_7.jpg)
-
-![Picture 8](https://brillerkim.github.io/img/a5_1/2018-1_8.jpg)
-
-![Picture 9](https://brillerkim.github.io/img/a5_1/2018-1_9.jpg)
-
-![Picture 10](https://brillerkim.github.io/img/a5_1/2018-1_10.jpg)
-
-![Picture 11](https://brillerkim.github.io/img/a5_1/2018-1_11.jpg)
-
-![Picture 12](https://brillerkim.github.io/img/a5_1/2018-1_12.jpg)
-
-
-Seoul @Studio Pie
+![Picture 1](https://brillerkim.github.io/img/a5_1/2018-2_1.jpg)
 <br>
 <br>
-'도자로 다른 것 만들기' 워크샵<br> 
-low-tech의 도자 정보와 기술을 공유하는 워크샵입니다. 다른 기술과 결합해보고, 흙을 처음 만져보는 것처럼 탐구해봅니다. 그릇이 아닌, 다른 것들을 만듭니다. 흙의 특성을 관찰합니다.<br> 
+Session 1
 <br>
-망원동 스튜디오 파이. 매주 월요일 7시. 5주 과정
 <br>
-[<U>다른 것 만들기. 워크샵 link</U>](http://studiopie.net/?p=2045)<br>
+![Picture 2](https://brillerkim.github.io/img/a5_1/2018-2_4.jpg)
 <br>
-2018 다른 것 만들기 
+<br>
+Session 2
+<br>
+<br>
+![Picture 3](https://brillerkim.github.io/img/a5_1/2018-2_5.jpg)
+
+![Picture 4](https://brillerkim.github.io/img/a5_1/2018-2_6.jpg)
+
+![Picture 5](https://brillerkim.github.io/img/a5_1/2018-2_7.jpg)
+
+![Picture 6](https://brillerkim.github.io/img/a5_1/2018-2_10.jpg)
+
+![Picture 7](https://brillerkim.github.io/img/a5_1/2018-2_12.jpg)
+
+![Picture 8](https://brillerkim.github.io/img/a5_1/2018-2_14.jpg)
+
+![Picture 9](https://brillerkim.github.io/img/a5_1/2018-2_15.jpg)
+
+![Picture 10](https://brillerkim.github.io/img/a5_1/2018-2_16.jpg)
+
+![Picture 11](https://brillerkim.github.io/img/a5_1/2018-2_19.jpg)
+<br>
+<br>
+Session 3
+<br>
+<br>
+![Picture 12](https://brillerkim.github.io/img/a5_1/2018-2_20.jpg)
+
+![Picture 13](https://brillerkim.github.io/img/a5_1/2018-2_22.jpg)
+
+![Picture 14](https://brillerkim.github.io/img/a5_1/2018-2_25.jpg)
+<br>
+<br>
+Session 4
+<br>
+<br>
+![Picture 15](https://brillerkim.github.io/img/a5_1/2018-2_26.jpg)
+
+![Picture 16](https://brillerkim.github.io/img/a5_1/2018-2_27.jpg)
+
+![Picture 17](https://brillerkim.github.io/img/a5_1/2018-2_28.jpg)
+
+![Picture 18](https://brillerkim.github.io/img/a5_1/2018-2_29.jpg)
+<br>
+<br>
+Session 5
+<br>
+<br>
+![Picture 19](https://brillerkim.github.io/img/a5_1/2018-2_31.jpg)
+
+![Picture 20](https://brillerkim.github.io/img/a5_1/2018-2_32.jpg)
+
+
+Manchester, UK @PLANT NOMA<br>
+<br>
+*이 워크샵은 Arts Council England와 Barim, Castlefiled Gallery 지원. Artists’ Residency Exchange Programme 일환의 프로젝트입니다. Joe Hartley와 함께 PLANT NOMA에서 진행되었습니다.<br>  
+<br>
+(Session 1) WEDNESDAY 27 JUNE , 6pm – 9pm<br>
+5주차 워크샵을 위한 오리엔테이션<br> 
+<br>
+(Session 2) SATURDAY 30 JUNE – choose from either 11am – 12noon, 1-2pm, 2-3pm or 3-4pm<br>
+<br>
+Eunji Briller Kim<br>
+젖은 흙, 마른 흙, 도자. 성질이 다른 3가지 재료의 전도성을 테스트하는 과정입니다. 랩탑과 아두이노/ 프로세싱의 디지털 화면으로 변환하여 실험하는 워크샵입니다.
+4가지 종류의 흙을 만지고 이미 만들어진 흙 작업을 부수며 참가자들과 함께 흙의 상태를 관찰합니다. 이 과정에서 눈을 감고, 흙을 먹기도 하며 다른 종류의 흙을 섞는 등 다양한 과정으로 진행됩니다. 참가자들이 관찰하던 흙으로 전도성을 테스트합니다. 아두이노/ 프로세싱, 센서가 이용되며 전도성의 여부가 모니터의 픽셀로 나타나게 됩니다. 재료의 성질을 관찰하는 워크샵이며, 구체적인 과학적 결론은 도출하지 않는 방향으로 진행됩니다. 성질이 다른 매체와 흙을 연결하는 지점의 가능성을 보여주는 시간이었으며, 흙으로 픽셀 이미지를 얻어낼 수 있었습니다.<br> 
+Joe Hartley<br>
+흙을 자르는 도구로 ‘줄(wire)’을 소개하며 줄을 변형하여 만드는 방식을 공유합니다. 이 과정에서 나온 결과물은 마치 3d 프린터에서 프린팅된 형태를 가지고 있습니다. 흙을 많이 만지지 않는 방식의 과정이 간단한 방법으로 공유하며 재료를 연구합니다. 워크샵을 진행하며 도구의 사용을 최소한으로 줄이는 워크샵 방향을 추구하였으며, 결과물을 한 곳에 나열하여 전시합니다.<br>
+<br>
+(Session 3) TUESDAY 3 JULY, 6pm – 9pm 
+<br>
+Eunji Briller Kim<br>
+3d 프린팅 된 컨테이너의 사용을 제안합니다. 흙을 성형하는 과정에서 3d 프린팅 된 컨테이너의 사용을 제시하며 오픈소스 키워드의 방식을 실험해봅니다. 흙을 만드는 과정에 오픈소스 개념의 확장이 가능한 것인지, 함께 고민해봅니다.   
+<br>
+Joe Hartley<br>
+조는 기존에 제시했던 줄로 흙을 자른 표면에 흠집을 내어 부수는 방식으로 워크샵을 진행합니다. 반 건조 된 흙을 손으로 부수고, 표면을 관찰하는 등의 방식을 제안합니다. 잘린 흙의 표면을 관찰하며 유기적인 형태를 만들어내는 방식을 공유합니다. 흙을 손으로 부수며 발생되는 ‘감각’을 전달합니다. 
+<br>
+(Session 4) SATURDAY 7 JULY  – choose from either 11am – 12noon, 1-2pm, 2-3pm or 3-4pm<br>
+<br>
+Eunji Briller Kim<br>
+완전히 건조된 흙을 부순 뒤, 물이 담긴 볼에 흙을 넣어 발생되는 소리를 관찰하는 워크샵을 진행합니다.
+소리를 관찰한 뒤 발생되는 소리를 핸드폰 혹은 녹음기로 녹음합니다. 이 과정에서 다른 매체와 흙을 결합하여 작업을 만들어내는 방식을 제안합니다. 흙 워크샵에서 흙을 최대한 만지지 않는 방식의 워크샵을 진행해봅니다.    
+<br>
+Joe Hartley<br>
+녹인 흙에 철이 함유 된 파우더를 섞은 뒤, 그 흙을 짜내어 드로잉을 하는 워크샵을 진행합니다. 이 과정에서 참가자들은 흙에 넣을 수 있는 변수의 재료에 대해서 인지하고, 흙의 색이 바뀔 수 있는 지점을 파악합니다. 
+<br>
+Session 5) Tuesday 10 JULY, 6pm – 9pm
+Guest. Hyun Min Shin<br>
+<br>
+Eunji Briller Kim<br>
+4가지 종류의 흙으로 원하는 형태의 벽을 쌓은 후, 그 안에 물처럼 찐득한 상태의 흙을 붓고 벽을 없애 형태가 무너지는 방식을 진행합니다.
+흙물은 그동안 참가자들이 사용했던 흙을 섞은 것이며, 이 과정은 흙이 리사이클링되는 방법입니다. 참가자들은 자연스레 흙이 리싸이클링되는 과정과 순환이 가능한 재료임을 인지하게 됩니다.  
+<br>
+Joe Hartley<br>
+시간이 흐르며 자연스레 건조 될 흙의 모습을 상상하며 형태를 만듭니다. 또한, 건조된 후 관찰하고 싶은 부분을 고려하여 각자의 형태를 만듭니다.
+<br>
+<br>
+*****
+일반적으로 도자를 위한 재료로 인지되는 흙의 성질을 다르게 관찰, 쓰임을 위한 흙(도자)의 워크샵과 다른 방식으로 접근하였습니다. 고유한 ‘흙’의 성질을 파악하고 실험해보는 방식의 새로운 워크샵 과정을 제안하였습니다. 흙을 다른 매체와 결합하여 작업할 수 있는 접근법을 제시하고, 그에 대한 가능성을 다각도로 공유하는 워크샵이었습니다. KOREA-UK Artists’ Residency Exchange Programme으로 각 나라의 문화를 공유하고 한계점을 인지하며 인식을 변화하는 계기를 마련했던 5주차 워크샵이었습니다. 
+5주차 워크샵에서 실험되었던 것과 Exchange Programme을 통해 공유되었던 생각의 결과물이 9월 Castlefiled Gallery에서 전시로 진행됩니다.            
+<br>
+<br>
+Organization. Barim/ Castlefield gallery
+Workshop Partner. Joe Hartley
+Space. PLANT NOMA (UK)
+Translator. Min Hyung Kang
+Support. Arts Council England
+Code. Seung Bum Kim
+<br>
+<br>
+[<U>castlefield gallery link</U>](https://www.castlefieldgallery.co.uk/event/play-process-summer-workshops/)<br>
+<br>
+<br>
+2018 KOREA-UK Artists’ Residency Exchange Programme
