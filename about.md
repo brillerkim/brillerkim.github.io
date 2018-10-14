@@ -18,6 +18,8 @@ brillerkim@gmail.com<br>
 <br>
 *Exhibitions<br>
 <br>
+2018 Exhibition/Fair. Union Art Fair, Seoul, South Korea<br>
+2018 Group Exhibition. Castlefield Gallery, Manchester, UK<br> 
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, South Korea<br>
 2015 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, South Korea<br> 
 2015 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, South Korea<br>
@@ -25,7 +27,7 @@ brillerkim@gmail.com<br>
 <br>
 *Projects<br>
 <br>
-2018 Artists’ Residency Exchange Programme. Supported by Castlefield gallery, Barim, and British Art Council, Manchester, UK<br> 
+2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK<br> 
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, South Korea<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, South Korea<br>
 <br>
