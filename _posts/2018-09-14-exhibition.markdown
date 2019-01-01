@@ -16,7 +16,8 @@ preview: https://brillerkim.github.io/img/a7/2018-3_pront.jpg
 ![Picture 5](https://brillerkim.github.io/img/a7/2018-3_6.jpg)
 
 
-
+<br>
+<br>
 Manchester, UK @Castlefield Gallery<br>
 Curated by Barim (Korea) & Castlefield Gallery (UK)<br> 
 <br>
@@ -33,7 +34,7 @@ At Castlefield Gallery, SUBI 수비 brings together a diverse group of experimen
 The work of Eunji Briller Kim combines traditional pottery skills with techniques and tools from other disciplines, including 3D printing, sound and digital technology. Kim first met Hartley and Buckley during their residency in Gwangju (Korea) in 2017. Following this, Kim and Hartley co-designed and delivered a series of public workshops at PLANT NOMA, Manchester during her residency in 2018. Members of the public were encouraged to pay close attention to the materiality of clay, for example using their mobile phones and other technology to listen to the sounds it makes whilst rehydrating, and testing its electrical conductivity at different stages of the drying process. During her residency Kim also looked into the history of UK ceramics, visiting the Manchester Art Gallery collection and Middleport Pottery (Stoke-on-Trent). Kim’s experiences in the UK have informed plans for the production of a new large-scale clay sculpture for the exhibition at Castlefield Gallery, which will echo her smaller fired works produced in Korea, examples of which will also feature in the exhibition.<br>
 <br>
 <br>
-[<U>Castlefield Gallery[Website]. (2018,sep 14).</U>](https://www.castlefieldgallery.co.uk/event/subi-%EC%88%98%EB%B9%84/)
+[<U>By Castlefield Gallery[Website]. (2018,sep 14).</U>](https://www.castlefieldgallery.co.uk/event/subi-%EC%88%98%EB%B9%84/)
 <br>
 <U>본 설치 작업에 이용된 소설은 한국문예학술저작권협회에 허가를 받은 저작물입니다.</U>  
 <br>
