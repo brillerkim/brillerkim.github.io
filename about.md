@@ -18,6 +18,7 @@ brillerkim@gmail.com<br>
 <br>
 *Exhibitions<br>
 <br>
+2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, South Korea<br>
 2018 Exhibition/Fair. Union Art Fair, Seoul, South Korea<br>
 2018 Group Exhibition. Castlefield Gallery, Manchester, UK<br> 
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, South Korea<br>
@@ -36,6 +37,11 @@ brillerkim@gmail.com<br>
 <br>
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Castlefield gallery), Manchester, UK<br>
 2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) Studio Pie, Seoul, South Korea<br>
+<br>
+<br>
+*Collections<br> 
+<br>
+2018 Manchester art gallery, Manchester, UK<br> 
 <br>
 <br>
 Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
