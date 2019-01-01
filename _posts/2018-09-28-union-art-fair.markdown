@@ -16,8 +16,7 @@ preview: https://brillerkim.github.io/img/a8/2018-4_pront.jpg
 <br>
 <br>
 Seoul @Union Art Fair<br>
-<br>
-2018.9.28-10.7 'S Factory'
+2018.9.28-10.7 'S Factory'<br>
 <br>
 <br>
 2018 Union Art Fair
