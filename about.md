@@ -36,7 +36,7 @@ brillerkim@gmail.com<br>
 *Workshops<br>
 <br>
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Castlefield gallery), Manchester, UK<br>
-2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) Studio Pie, Seoul, South Korea<br>
+2018.01~ 도자로 다른 것 만들기. Let's make something other than a dish. (Ceramic Workshop) 스튜디오 파이 Studio Pie, Seoul, South Korea<br>
 <br>
 <br>
 *Collections<br> 
