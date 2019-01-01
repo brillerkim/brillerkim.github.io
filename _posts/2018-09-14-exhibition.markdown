@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ""
-date:   2015-05-01 00:00:00
+date:   2018-09-14 00:00:00
 preview: https://brillerkim.github.io/img/a7/2018-3_pront.jpg
 ---
 
@@ -35,7 +35,7 @@ The work of Eunji Briller Kim combines traditional pottery skills with technique
 <br>
 [<U>Castlefield Gallery[Website]. (2018,sep 14).</U>](https://www.castlefieldgallery.co.uk/event/subi-%EC%88%98%EB%B9%84/)
 <br>
-[<U>본 설치 작업에 이용된 소설은 한국문예학술저작권협회에 허가를 받은 저작물입니다.</U>]  
+<U>본 설치 작업에 이용된 소설은 한국문예학술저작권협회에 허가를 받은 저작물입니다.</U>  
 <br>
 <br>
 2018 Exhibition. At Castlefield Gallery
