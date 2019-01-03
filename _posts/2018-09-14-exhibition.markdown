@@ -46,4 +46,5 @@ Support. Arts Council England<br>
 <U>본 설치 작업에 이용된 소설은 한국문예학술저작권협회에 허가를 받은 저작물입니다.</U>  
 <br>
 <br>
-2018 Exhibition. At Castlefield Gallery
+2018 Separated Ones<br>
+2018 First Person Narrative by Briller<br>
