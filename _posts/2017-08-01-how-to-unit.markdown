@@ -34,8 +34,10 @@ On-demand streaming work in 2017. You can watch short.ver video. This work was e
 
 
 <br>
-Seoul @Archive Bomm
+Seoul @아카이브봄 Archive Bomm
 <br>
-video. Nam dong hyun/ sound. hoonida Kim/ poster. Seo ji na<br>
+Video. Nam dong hyun<br>
+Sound. hoonida Kim<br> 
+Poster. Seo ji na<br>
 <br>
 2017 #howtounit 
