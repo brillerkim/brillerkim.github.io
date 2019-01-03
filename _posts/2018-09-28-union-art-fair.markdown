@@ -19,4 +19,4 @@ Seoul @Union Art Fair<br>
 2018.9.28-10.7 'S Factory'<br>
 <br>
 <br>
-2018 Union Art Fair
+2018 Separated Ones
