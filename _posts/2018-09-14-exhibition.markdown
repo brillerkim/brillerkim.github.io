@@ -21,6 +21,15 @@ preview: https://brillerkim.github.io/img/a7/2018-3_pront.jpg
 Manchester, UK @Castlefield Gallery<br>
 <br>
 <br>
+2018년 7월, 바림의 기획으로 Artists’ Residency Exchange Programme을 시작, 
+영국 맨체스터의 Castlefield Gallery에 파견되어 리서치 및 워크샵, 교류 전시에 참여했습니다. 김은지와 Joe Hartley는 맨체스터의 Plant Noma에서 일반인 대상의 워크샵을 시리즈로 
+진행했습니다. 워크샵에 참여한 사람들은 흙의 물질성에 주목했고, 핸드폰과 다른 기술을 이용해 흙의
+소리를 들어보거나, 굳은 흙을 다시 물에 녹여 전도성을 실험하며, 흙의 다양한 성질을 관찰했습니다.
+한국 그리고 영국에서의 경험을 투영하여 김은지 작가는 전시장에서 큰 규모의 스컬프쳐를 제작하고,
+작품에 황순원의 단편 “독짓는 늙은이”(1944)에서 발췌한 글을 일부 이용했습니다. 김은지 작가는 한국과 영국에서 전통적인 도자, 도자 장인, 도자기 기술의 전수 방법의 차이점과 비슷한 점에 관심을
+가지고, 특히 영국과 비교해 낭만적으로 묘사되는 한국의 ‘장인 정신’과 자신의 작업을 연결하고자 
+했습니다. (2018 바림 도록 발췌) 
+<br>
 Castlefield Gallery, Manchester Art Gallery, and Manchester Craft and Design Centre present SUBI 수비, a programme in three parts located across the city of Manchester. The programme features artists, designers and makers from Korea and the UK working with or inspired by clay, its uses and materiality.<br> 
 SUBI 수비 is presented to be timed with Asia Triennial Manchester, 5-21 October 2018.<br> 
 The Korean word SUBI 수비 has a particular meaning in the context of ceramics, relating to the refining of clay; whether purifying the raw material or the processes needed to rehydrate and filter dried clay so that it can be reused. The SUBI 수비 programme has been informed by a series of international artist exchange residencies* that have connected the artistic communities of Manchester and the North West of England with those of Busan and Gwangju in South Korea. As a result, cross-cultural influences are apparent in many of the exhibited works.<br>
