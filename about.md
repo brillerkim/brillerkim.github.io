@@ -44,7 +44,9 @@ brillerkim@gmail.com<br>
 2018 Manchester art gallery, Manchester, UK<br> 
 <br>
 <br>
- 
+*Award<br>
+<br>
+2013 10회 대한민국 도예공모전 입상 수상 Honorable Mention, 10th Ceramic Arts Award of Korea, Incheon, South Korea  
 <br>
 <br>
 Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
