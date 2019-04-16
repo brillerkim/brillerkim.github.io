@@ -21,7 +21,7 @@ brillerkim@gmail.com<br>
 2019 DEGITAL – in your hands. 다시세운광장 하부 세운홀 Sewoon Sangga, Seoul, South Korea 
 2018 무형, 디지털, 파인아트 & 페어 Intangibility Digital Fine art & Fair. 뽕뽕브릿지 Space Ppong, Gwangju, South Korea<br>
 2018 Exhibition/Fair. Union Art Fair, Seoul, South Korea<br>
-2018 Group Exhibition. Castlefield Gallery, Manchester, UK<br> 
+2018 'SUBI' Group Exhibition. Castlefield Gallery, Manchester, UK<br> 
 2017 10회 청주공예비엔날레 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, South Korea<br>
 2015 굿-즈 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, South Korea<br> 
 2015 8요일에 눈이 밝아진다 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, South Korea<br>
