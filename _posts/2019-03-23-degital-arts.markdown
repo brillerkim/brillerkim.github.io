@@ -22,6 +22,7 @@ preview: https://brillerkim.github.io/img/a10/2019-1_2.jpg
 Seoul, South Korea @다시세운광장 하부 세운홀 Sewoon Sangga<br>
 <br>
 <br>
+*<br>
 DEGITAL – in your hands 전시 소개<br> 
 이 전시는 디지털 기술을 다루는 예술의 다른 형태를 고민합니다.<br>
 <br>
