@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "2015"
 date:   2015-09-01 00:00:00
 preview: https://brillerkim.github.io/img/a3/2015-2_pront.jpg
 ---
