@@ -35,7 +35,7 @@ DEGITAL – in your hands 전시 소개<br>
 <br>
 이 전시의 작품은 degitalarts.xyz 에서 구매, 소장하실 수 있습니다.<br>
 <br>
-전시 제목의 뜻<br>
+-전시 제목의 뜻<br>
 Degital은 digital의 철자를 고의적으로 틀리게 바꾼 것으로, 기존의 디지털 예술의 개념을 확장시키고 대안을 제시하면서도 유희성을 유지하며 흥미로운 작품의 라인업을 제시하고자 고안된 단어입니다. 또한 디지털 아트, 미디어 아트 영역에 있어서의 다양성 이슈 (젠더, 교육 등) 를 의식하기 위해, 페미니즘 등에서 철자를 고의적으로 바꿔 새로운 시각을 제시하는 방법 (woman 대신 womyn) 에서 가져온 것이기도 합니다.<br>
 <br>
 Digital은 본래 손가락을 뜻하는 라틴어 digit에서 유래한 것으로 숫자를 차례대로 세는데 쓰였으며, 이에 따라 이산적 수치를 이용하여 처리하는 것을 digital로 불러 왔으나, 고의적 철자오류 degital은 반대, 결여, 부정을 뜻하는 접두어 de-를 적어, 같은 발음이지만 다른 뜻을 지시하기 위해 만들어졌습니다.<br>
@@ -57,7 +57,7 @@ www.facebook.com/Degitalarts<br>
 www.twitter.com/degitalarts<br>
 www.instagram.com/degitalarts<br>
 <br>
-전시 연계 프로그램<br>
+-전시 연계 프로그램<br>
 전시와 연계하여 총 2개의 토크와 2개의 워크샵이 진행됩니다. 오프닝이 따로 없는 대신 4/6 토크를 마치고 클로징 파티가 있습니다. 토크는 전시기간 중 토요일인 3/30과 4/6 오후 3시에 각각 열리고, 워크샵은 전시 기간 중 일요일인 3/31 과 4/7 오후 3시에 각각 진행됩니다.<br>
 <br>
 [토크 1] 을지로 · 청계천 지금 여기의 아티스트들<br>
@@ -91,7 +91,7 @@ www.instagram.com/degitalarts<br>
 이 전시의 작품은 degitalarts.xyz 에서 구매하실 수 있습니다.<br>
 <br>
 <br>
-*<br>
+**<br>
 <br>
 金銀智(김은지)<br>
 最新遺物(최신유물)<br>
@@ -107,9 +107,10 @@ www.instagram.com/degitalarts<br>
 <br>
 3D 디자인: 고산홍<br> 
 킨츠키: 김수미<br>
-사진: 하상철<br>
-<br>  
+사진: 하상철<br>  
 <br>
 [<U>degitalarts.xyz link</U>](https://degitalarts.xyz)
+<br>
+<br>
 <br>
 2019 最新遺物(최신유물)<br>
