@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "2018"
 date:   2018-09-28 00:00:00
 preview: https://brillerkim.github.io/img/a8/2018-4_8.jpg
 ---
