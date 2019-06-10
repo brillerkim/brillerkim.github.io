@@ -7,6 +7,9 @@ permalink: /contact/
 <br>
 <br>
 <br>
+**“저는 흙과 도자의 전통적인 밈을 거부하고자 해요. 흙과 도자엔 다양한 재료적 가능성이 존재하거든요. 흙과 도자를 재해석하여 작업합니다. 워크샵을 하기도 하고요. 흙과 도자의 전도성을 테스트하기도 하고요. 흙의 소리를 듣기도 합니다. 도자 기술을 워크샵으로 전달하기도 하는데, 기존의 흙과 도자의 밈이 아닌 다른 방식의 표현을 추구하기 위해 ‘도자 기술’ 이라는 단어에 집중하고 있습니다. 실제로 기술적인 부분이 중요한 분야이기도 하고요. 도자 기술과 컴퓨팅 기술에 관심이 많습니다. 최근엔, 두 기술의 이야기로 <최신 유물>을 만들고 있어요.” 2019. 06**<br>
+<br>
+<br>
 Eunji Briller Kim<br> 
 김 은지<br>
 <br>
@@ -48,6 +51,9 @@ brillerkim@gmail.com<br>
 *Award<br>
 <br>
 2013 10회 대한민국 도예공모전 입상 수상 Honorable Mention, 10th Ceramic Arts Award of Korea, Incheon, South Korea  
+<br>
+<br>
+<br>
 <br>
 <br>
 Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
