@@ -15,6 +15,14 @@ Eunji Briller Kim<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
+흙과 도자의 매체성에 집중하고 그에 따른 재료의 밈을 재해석하며 작업합니다. 흙과 도자, 그 밖의 재료를 혼합하여 표현합니다. 주로 전시, 워크샵을 진행합니다.<br>
+-2019. 11월 개인전이 예정되어 있습니다.   
+<br>
+<br>
+<br>
+<br>
+<br>
+계원예술대학교 매체예술과 졸업 
 <br>
 <br>
 <br>
@@ -67,7 +75,11 @@ brillerkim@gmail.com<br>
 (ENG)
 <br>
 <br>
-<br> 
+<br>
+BFA in Media art, Kaywon school of art & design, Gyeonggi-do, KR  
+<br>
+<br>
+<br>
 *Exhibitions
 <br> 
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
