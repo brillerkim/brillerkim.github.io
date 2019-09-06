@@ -33,7 +33,6 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-<br>
 *Projects<br>
 <br>
 2018 한-영 국제 교류 레지던시 프로그램 참여. 바림-Castlefield gallery, 영국    
@@ -57,7 +56,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Award<br>
+*Awards<br>
 <br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양문화재단     
 2013 10회 대한민국 도예공모전 입상 수상. 인천광역시 서구 
@@ -65,7 +64,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-ENG
+(ENG)
 <br>
 <br> 
 *Exhibitions<br>
@@ -73,7 +72,7 @@ ENG
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
-2018 'SUBI' Asia Triennial Manchester. Castlefield Gallery, Manchester, UK<br>  
+2018 'SUBI' Asia Triennial Manchester. Castlefield Gallery, Manchester, UK
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
 2015 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, KR<br> 
 2015 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, KR
@@ -93,7 +92,7 @@ ENG
 2019 Clay Workshop, Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br> 
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Yongin, KR<br> 
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br> 
-2018.01~ing Clay & Ceramic Workshop. Studio Pie, Seoul, KR<br>
+2018.01~ing Clay & Ceramic Workshop. Studio Pie, Seoul, KR
 <br>
 <br>
 <br>
@@ -103,7 +102,7 @@ ENG
 <br>
 <br>
 <br>
-*Award<br>
+*Awards<br>
 <br>   
 2019 Selected Artist. Anyang Foundation for Culture & Arts, Anyang, KR   
 2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
