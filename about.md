@@ -11,7 +11,9 @@ permalink: /contact/
 <br>
 <br>
 Eunji Briller Kim<br> 
-김 은 지 (b.1988)<br>
+김 은 지 
+<br>
+(b.1988)<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
