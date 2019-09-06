@@ -22,38 +22,57 @@ brillerkim@gmail.com<br>
 <br>
 *Exhibitions<br>
 <br>
-2019 DEGITAL – in your hands. 다시세운광장 하부 세운홀 Sewoon Sangga, Seoul, South Korea 
-2018 무형, 디지털, 파인아트 & 페어 Intangibility Digital Fine art & Fair. 뽕뽕브릿지 Space Ppong, Gwangju, South Korea<br>
-2018 Exhibition/Fair. Union Art Fair, Seoul, South Korea<br>
-2018 'SUBI' Group Exhibition. Castlefield Gallery, Manchester, UK<br> 
-2017 10회 청주공예비엔날레 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, South Korea<br>
-2015 굿-즈 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, South Korea<br> 
-2015 8요일에 눈이 밝아진다 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, South Korea<br>
+2019 DEGITAL – in your hands. 세운상가, 서울<br> 
+2019 DEGITAL – in your hands. Sewoon Sangga, Seoul, KR<br> 
+2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주광역시<br>  
+2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br>
+2018 유니온 아트페어. S-Factory, 서울<br> 
+2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
+2018 '수비' 아시아 트레인날레 맨체스터, Castlefield Gallery, 영국<br>
+2018 'SUBI' Asia Triennial Manchester. Castlefield Gallery, Manchester, UK<br> 
+2017 10회 청주공예비엔날레 기획전 참여작가. 청주<br> 
+2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br>
+2015 굿-즈. 세종문화회관, 서울<br> 
+2015 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, KR<br> 
+2015 8요일에 눈이 밝아진다. 전시/ 레지던시 프로그램, 바림, 광주광역시<br> 
+2015 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, KR<br>
+<br>
 <br>
 <br>
 *Projects<br>
 <br>
-2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK<br> 
-2017 Youtube on-demand streaming. 아카이브봄 Archive Bomm, Seoul, South Korea<br> 
-2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, South Korea<br>
+2018 한-영 국제 교류 레지던시 프로그램 참여. 바림-Castlefield gallery, 영국<br>    
+2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK<br>  
+2017 Youtube on-demand streaming. 아카이브 봄, 서울<br>
+2017 Youtube on-demand streaming. Archive Bomm, Seoul, KR<br> 
+2015 7회 언리미티드 에디션. 일민미술관, 서울<br>
+2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR<br>
 <br>
 <br>
 *Workshops<br>
 <br>
-2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, Yongin, South Korea<br>
-2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, Yongin, South Korea<br>
-2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Castlefield gallery), Manchester, UK<br>
-2018.01~  도자로 다른 것 만들기. 스튜디오 파이 Studio Pie, Seoul, South Korea<br>
+2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
+2019 Clay Workshop, Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br> 
+2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
+2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Yongin, KR<br>
+2018 흙-도자 워크샵. Plant with Joe Hartley, 영국<br> 
+2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br>
+2018.01~ ing 도자로 다른 것 만들기. 스튜디오 파이<br> 
+2018.01~ ing Clay & Ceramic Workshop. Studio Pie, Seoul, KR<br>
 <br>
 <br>
 *Collection<br> 
 <br>
+2018 맨체스터 시립 미술관, 소장<br>
 2018 Manchester art gallery, Manchester, UK<br> 
 <br>
 <br>
 *Award<br>
 <br>
-2013 10회 대한민국 도예공모전 입상 수상 Honorable Mention, 10th Ceramic Arts Award of Korea, Incheon, South Korea  
+2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양문화재단<br>   
+2019 Selected Artist. Anyang Foundation for Culture & Arts, Anyang, KR<br>  
+2013 10회 대한민국 도예공모전 입상 수상. 인천광역시 서구 <br> 
+2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR<br>  
 <br>
 <br>
 <br>
@@ -70,5 +89,6 @@ combining with other medium.
 [<U>homepage</U>](https://brillerkim.github.io)<br>
 [<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
 [<U>instagram</U>](https://www.instagram.com/eunji_briller)<br>
+<br>
 <br>
 <br>
