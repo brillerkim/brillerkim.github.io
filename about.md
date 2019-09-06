@@ -10,7 +10,6 @@ permalink: /contact/
 <br>
 <br>
 <br>
-<br>
 Eunji Briller Kim<br> 
 김 은 지 (b.1988)<br>
 <br>
@@ -19,9 +18,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-<br>
-<br>
-*Exhibitions<br>
+*Exhibitions
 <br>
 2019 DEGITAL – in your hands. 세운상가, 서울  
 2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주광역시  
@@ -33,7 +30,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Projects<br>
+*Projects
 <br>
 2018 한-영 국제 교류 레지던시 프로그램 참여. 바림-Castlefield gallery, 영국    
 2017 Youtube on-demand streaming. 아카이브 봄, 서울<br>
@@ -41,7 +38,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Workshops<br>
+*Workshops
 <br>
 2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
 2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
@@ -50,13 +47,13 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Collection<br> 
+*Collection 
 <br>
 2018 맨체스터 시립 미술관, 소장
 <br>
 <br>
 <br>
-*Awards<br>
+*Awards
 <br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양문화재단     
 2013 10회 대한민국 도예공모전 입상 수상. 인천광역시 서구 
@@ -66,8 +63,9 @@ brillerkim@gmail.com<br>
 <br>
 (ENG)
 <br>
+<br>
 <br> 
-*Exhibitions<br>
+*Exhibitions
 <br> 
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
@@ -79,7 +77,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Projects<br>
+*Projects
 <br>    
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK  
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, KR<br> 
@@ -87,7 +85,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Workshops<br>
+*Workshops
 <br>
 2019 Clay Workshop, Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br> 
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Yongin, KR<br> 
@@ -96,18 +94,16 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Collection<br> 
+*Collection 
 <br>
 2018 Manchester art gallery, Manchester, UK 
 <br>
 <br>
 <br>
-*Awards<br>
+*Awards
 <br>   
 2019 Selected Artist. Anyang Foundation for Culture & Arts, Anyang, KR   
 2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
-<br>
-<br>
 <br>
 <br>
 <br>
