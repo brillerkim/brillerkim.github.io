@@ -24,7 +24,7 @@ brillerkim@gmail.com<br>
 2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주광역시  
 2018 유니온 아트페어. S-Factory, 서울  
 2018 'SUBI' 아시아 트레인날레 맨체스터, Castlefield Gallery, 영국<br> 
-2017 10회 청주공예비엔날레 기획전 참여작가. 청주 
+2017 10회 청주공예비엔날레 기획전 참여작가. 청주<br> 
 2015 굿-즈. 세종문화회관, 서울  
 2015 8요일에 눈이 밝아진다. 전시/레지던시 프로그램, 바림, 광주광역시 
 <br>
@@ -41,6 +41,7 @@ brillerkim@gmail.com<br>
 *Workshops
 <br>
 2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
+2019 키즈 미디어아트 캠프, 국립아시아문화전당 어린이문화원, 광주광역시<br>
 2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
 2018 흙-도자 워크샵. Plant with Joe Hartley, 영국<br> 
 2018.01~ 도자로 다른 것 만들기. 스튜디오 파이 
@@ -61,6 +62,8 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
+<br>
+<br>
 (ENG)
 <br>
 <br>
@@ -70,7 +73,7 @@ brillerkim@gmail.com<br>
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
-2018 'SUBI' Asia Triennial Manchester. Castlefield Gallery, Manchester, UK
+2018 'SUBI' Asia Triennial Manchester. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
 2015 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, KR<br> 
 2015 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, KR
@@ -87,7 +90,8 @@ brillerkim@gmail.com<br>
 <br>
 *Workshops
 <br>
-2019 Clay Workshop, Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br> 
+2019 Clay Workshop, Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br>
+2019 Kids Media Arts Camp. ACC Children, Gwangju, KR  
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Yongin, KR<br> 
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br> 
 2018.01~ing Clay & Ceramic Workshop. Studio Pie, Seoul, KR
