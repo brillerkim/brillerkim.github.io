@@ -50,6 +50,7 @@ brillerkim@gmail.com<br>
 <br>
 *Workshops
 <br>
+2019 수상한 예술. 국립아시아문화전당 어린이문화원, 광주광역시<br>
 2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
 2019 키즈 미디어아트 캠프. 국립아시아문화전당 어린이문화원, 광주광역시<br>
 2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
@@ -103,6 +104,7 @@ BFA in Media art, Kaywon school of art & design, Gyeonggi-do, KR
 <br>
 *Workshops
 <br>
+2019 Children Program. ACC Children, Gwangju, KR<br> 
 2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br>
 2019 Kids Media Arts Camp. ACC Children, Gwangju, KR  
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Yongin, KR<br> 
