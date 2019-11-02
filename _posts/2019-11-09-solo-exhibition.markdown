@@ -1,19 +1,21 @@
 ---
 layout: post
 title:  "2019"
-date:   2019-03-23 00:00:00
+date:   2019-11-09 00:00:00
 preview: https://brillerkim.github.io/img/a11/2019-2_1.JPG
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a11/2019-2_2.JPG)
 
-![Picture 2](https://brillerkim.github.io/img/a11/2019-2_3.JPG)
+![Picture 2](https://brillerkim.github.io/img/a11/2019-2_7.JPG)
 
-![Picture 3](https://brillerkim.github.io/img/a11/2019-2_4.jpeg)
+![Picture 3](https://brillerkim.github.io/img/a11/2019-2_8.JPG)
 
-![Picture 4](https://brillerkim.github.io/img/a11/2019-2_5.jpeg)
+![Picture 4](https://brillerkim.github.io/img/a11/2019-2_4.jpeg)
 
-![Picture 5](https://brillerkim.github.io/img/a11/2019-2_6.jpeg)
+![Picture 5](https://brillerkim.github.io/img/a11/2019-2_5.jpeg)
+
+![Picture 6](https://brillerkim.github.io/img/a11/2019-2_6.jpeg)
 
 
 
