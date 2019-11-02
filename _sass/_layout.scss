@@ -68,7 +68,11 @@
 }
 
 .site-title {
-    padding-left: 25%;
+    display: flex;
+}
+
+.site-title>a {
+    flex: 1;
 }
 
 @include media-query($on-laptop) {
