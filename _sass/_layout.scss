@@ -68,11 +68,11 @@
 }
 
 .site-title {
-    display: flex;
+    display: block;
 }
 
-.site-title>a {
-    flex: 1;
+.site-title>img {
+    margin: 0px auto;
 }
 
 @include media-query($on-laptop) {
