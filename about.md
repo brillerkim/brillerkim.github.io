@@ -30,7 +30,7 @@ brillerkim@gmail.com<br>
 <br>
 *Exhibitions
 <br>
-2019 개인전 &#60;의심 이미지 Doubtful Image&#62;. 오픈스쿨, 안양
+2019 개인전 &#60;의심 이미지 Doubtful Image&#62;. 오픈스쿨, 안양<br>
 2019 DEGITAL – in your hands. 세운상가, 서울  
 2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주광역시  
 2018 유니온 아트페어. S-Factory, 서울  
@@ -86,7 +86,7 @@ BFA in Media art, Kaywon school of art & design, Gyeonggi-do, KR
 <br>
 *Exhibitions
 <br> 
-2019 Solo Exhibition &#60;Doubtful Image&#62;. Open School, Anyang, KR 
+2019 Solo Exhibition &#60;Doubtful Image&#62;. Open School, Anyang, KR<br> 
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
