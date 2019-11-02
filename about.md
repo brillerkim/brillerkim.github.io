@@ -17,8 +17,8 @@ Eunji Briller Kim<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
-흙과 도자의 매체성에 집중하고 그에 따른 재료의 밈을 재해석하며 작업합니다. 흙과 도자, 그 밖의 재료를 혼합하여 표현합니다. 주로 전시, 워크샵을 진행합니다.<br>
--2019. 11월 개인전이 예정되어 있습니다.   
+흙과 도자의 매체성에 집중하고 그에 따른 재료의 밈을 재해석하며 작업합니다. 주로 전시, 워크샵을 합니다.<br>
+-19년 11월 9일 ~ 11월 17일 개인전이 예정되어 있습니다.   
 <br>
 <br>
 <br>
@@ -30,6 +30,7 @@ brillerkim@gmail.com<br>
 <br>
 *Exhibitions
 <br>
+2019 개인전 &#60;의심 이미지 Doubtful Image&#62;. 오픈스쿨, 안양
 2019 DEGITAL – in your hands. 세운상가, 서울  
 2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주광역시  
 2018 유니온 아트페어. S-Factory, 서울  
@@ -85,6 +86,7 @@ BFA in Media art, Kaywon school of art & design, Gyeonggi-do, KR
 <br>
 *Exhibitions
 <br> 
+2019 Solo Exhibition &#60;Doubtful Image&#62;. Open School, Anyang, KR 
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
