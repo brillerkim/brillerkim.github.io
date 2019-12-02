@@ -17,8 +17,7 @@ Eunji Briller Kim<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
-흙과 도자의 매체성에 집중하고 그에 따른 재료의 밈을 재해석하며 작업합니다. 주로 전시, 워크샵을 합니다.<br>
--19년 11월 9일 ~ 11월 17일 개인전이 예정되어 있습니다.   
+흙과 도자의 재료성에 집중하고 그에 따른 재료의 밈을 재해석하며 작업합니다. 전시, 워크샵을 합니다.<br>  
 <br>
 <br>
 <br>
@@ -80,7 +79,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-BFA in Media art, Kaywon school of art & design, Gyeonggi-do, KR  
+BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR  
 <br>
 <br>
 <br>
