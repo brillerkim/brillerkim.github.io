@@ -19,7 +19,7 @@ preview: https://brillerkim.github.io/img/a10/2019-1_2.jpg
 
 <br>
 <br>
-Seoul, South Korea @다시세운광장 하부 세운홀 Sewoon Sangga<br>
+Seoul, South Korea @세운상가 Makercity Sewoon<br>
 <br>
 <br>
 *<br>
