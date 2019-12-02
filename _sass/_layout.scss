@@ -68,7 +68,12 @@
 }
 
 .site-title {
-    padding-left: 25%;
+    display: block;
+}
+
+.site-title>img {
+    display: block;
+    margin: 0px auto;
 }
 
 @include media-query($on-laptop) {
