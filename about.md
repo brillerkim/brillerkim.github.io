@@ -24,7 +24,10 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
+<br>
+<br>
 계원예술대학교 매체예술과 졸업 
+<br>
 <br>
 <br>
 <br>
@@ -51,7 +54,7 @@ brillerkim@gmail.com<br>
 <br>
 *Workshops
 <br>
-2019 문막 예술가 책방 프로젝트 <흙으로 질문하기>. 원주
+2019 문막 예술가 책방 프로젝트 &#60;흙으로 질문하기&#62;. 원주<br>
 2019 수상한 예술. 국립아시아문화전당 어린이문화원, 광주<br>
 2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
 2019 키즈 미디어아트 캠프. 국립아시아문화전당 어린이문화원, 광주<br>
@@ -107,7 +110,7 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 <br>
 *Workshops
 <br>
-2019 Artist Bookstore Project. Wonju, KR 
+2019 Artist Bookstore Project. Wonju, KR<br> 
 2019 Children Program. ACC Children, Gwangju, KR<br> 
 2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br>
 2019 Kids Media Arts Camp. ACC Children, Gwangju, KR  
