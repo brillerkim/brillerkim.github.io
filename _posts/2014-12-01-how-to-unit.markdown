@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2014"
+title:  "<span style="color:blue">2014</span>"
 date:   2014-12-01 00:00:00
 preview: https://brillerkim.github.io/img/a1/2015_2.png
 ---
