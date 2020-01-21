@@ -35,7 +35,6 @@ Low tech와 High tech, 두 기술의 작업 환경에서 발생되는 간극을 
 <br>
 <br>
 Mixed media<br>
-<br>
 2018 기술에게 질문합니다, Y/N .gif<br>
 <br>
 <br>
