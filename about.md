@@ -54,13 +54,14 @@ brillerkim@gmail.com<br>
 <br>
 *Workshops
 <br>
+2020 흙으로 질문하기. 이문 238, 서울<br>
 2019 문막 예술가 책방 프로젝트 &#60;흙으로 질문하기&#62;. 원주<br>
 2019 수상한 예술. 국립아시아문화전당 어린이문화원, 광주<br>
 2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
 2019 키즈 미디어아트 캠프. 국립아시아문화전당 어린이문화원, 광주<br>
 2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
 2018 흙-도자 워크샵. Plant with Joe Hartley, 영국<br> 
-2018.01~ 도자로 다른 것 만들기. 스튜디오 파이, 서울 
+2018.01~ 도자로 다른 것 만들기 2.0. 스튜디오 파이, 서울 
 <br>
 <br>
 <br>
@@ -110,6 +111,7 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 <br>
 *Workshops
 <br>
+2020 Clay Workshop. Different Doors 238, Seoul, KR<br>
 2019 Artist Bookstore Project. Wonju, KR<br> 
 2019 Children Program. ACC Children, Gwangju, KR<br> 
 2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br>
