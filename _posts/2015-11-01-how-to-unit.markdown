@@ -22,9 +22,14 @@ preview: https://brillerkim.github.io/img/a3_1/2015-3_2.png
 <br>
 <br>
 <br>
+<br>
+<br>
 Seoul @UE7<br>
 <br>
 [<U>7th unlimited edition - Seoul art book fair link</U>](http://unlimited-edition.org/archives/category/ue7)
+<br>
+<br>
+<br>
 <br>
 <br>
 2015 도시사물키트 Things in the Seoul KIT 
