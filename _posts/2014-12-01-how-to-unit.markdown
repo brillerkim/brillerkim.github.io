@@ -21,8 +21,8 @@ preview: https://brillerkim.github.io/img/a1/2015_2.png
 <br>
 <br>
 <br>
-Ceramic, Mixed media. 2014<br>
-#howtounit
+Ceramic, Mixed media.<br>
+2014 #howtounit<br>
 <br>
 <br>
 <br>
