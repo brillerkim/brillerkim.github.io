@@ -49,7 +49,7 @@ Gwangju @Barim<br>
 <br>
 <br>
 <br>
-Ceramic, Mixed media.
+Ceramic, Mixed media.<br>
 2015 #howtounit
 <br>
 <br>
