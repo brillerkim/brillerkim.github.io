@@ -2,7 +2,7 @@
 layout: post
 title:  "2018"
 date:   2018-06-27 00:00:00
-preview: https://brillerkim.github.io/img/a6/2018-2_pront.jpg
+preview: https://brillerkim.github.io/img/a6/2018-2_14.jpg
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a6/2018-2_1.jpg)
@@ -71,12 +71,6 @@ Session 2
 Session 3
 <br>
 <br>
-![Picture 12](https://brillerkim.github.io/img/a6/2018-2_20.jpg)
-<br>
-<br>
-Session 3
-<br>
-<br>
 ![Picture 13](https://brillerkim.github.io/img/a6/2018-2_22.jpg)
 <br>
 <br>
@@ -113,12 +107,6 @@ Session 4
 Session 5
 <br>
 <br>
-![Picture 19](https://brillerkim.github.io/img/a6/2018-2_31.jpg)
-<br>
-<br>
-Session 5
-<br>
-<br>
 ![Picture 20](https://brillerkim.github.io/img/a6/2018-2_32.jpg)
 <br>
 <br>
@@ -127,6 +115,8 @@ Session 5
 <br>
 
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -189,4 +179,6 @@ Code. Seung Bum Kim<br>
 <br>
 <br>
 2018 KOREA-UK Artists’ Residency Exchange Programme
+<br>
+<br>
 <br>
