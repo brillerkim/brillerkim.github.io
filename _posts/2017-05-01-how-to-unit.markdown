@@ -25,7 +25,7 @@ Seoul @Substance<br>
 <br>
 <br>
 <br>
-Ceramic, PLA, Mixed media. 2017<br>
+Ceramic, PLA, Mixed media.<br>
 2017 #howtounit<br>
 <br>
 <br>
