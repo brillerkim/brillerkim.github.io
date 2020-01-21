@@ -33,6 +33,7 @@ It was an exhibition that many people visited. Many images are uploaded on the I
 [<U>an interview link</U>](http://goods2015.com/artist_20.html)<br>
 <br>
 <br>
+Ceramic, Mixed media. Dimension Variable<br>
 2015 #howtounit
 <br>
 <br>
