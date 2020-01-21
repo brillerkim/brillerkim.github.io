@@ -32,7 +32,7 @@ preview: https://brillerkim.github.io/img/a4/2017_2.png
 <br>
 <br>
 <br>
-Seoul @아카이브봄 Archive Bomm
+Seoul @아카이브봄 Archive Bomm<br>
 <br>
 On-demand streaming work in 2017. You can watch short.ver video. This work was exhibited in '10th Cheongju Craft Biennale'.
 <br>
@@ -42,10 +42,14 @@ On-demand streaming work in 2017. You can watch short.ver video. This work was e
 <br>
 Video. Dong hyun Nam<br>
 Sound. Hoonida Kim<br> 
-Poster. Ji na Seo<br>
+Illust. Ji na Seo<br>
 <br>
 <br>
 <br>
 <br>
-Ceramic, Mixed media. Dimension Variable
+Ceramic, Mixed media. Dimension Variable<br>
 2017 #howtounits 
+<br>
+<br>
+<br>
+<br>
