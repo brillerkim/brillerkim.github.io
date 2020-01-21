@@ -32,6 +32,7 @@ Seoul @UE7<br>
 <br>
 <br>
 <br>
+Mixed media<br>
 2015 도시사물키트 Things in the Seoul KIT 
 <br>
 <br>
