@@ -15,11 +15,11 @@ preview: https://brillerkim.github.io/img/a1/2015_2.png
 
 ![Picture 5](https://brillerkim.github.io/img/a1/2015_5.png)
 
-![Picture 6](https://brillerkim.github.io/img/a1/2015_6.png)
+![Picture 6](https://brillerkim.github.io/img/a1/2015_7.png)
 
-![Picture 7](https://brillerkim.github.io/img/a1/2015_7.png)
+<br>
 <br>
 <br>
 <br>
 Ceramic, Mixed media. 2014<br>
-2014 #howtounit
+#howtounit
