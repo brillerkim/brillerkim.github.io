@@ -20,14 +20,13 @@ preview: https://brillerkim.github.io/img/a3_2/2017-3_6.png
 <br>
 Seoul @Substance<br>
 <br>
-<br>
 [<U>CC BY-NC thingiverse.com link</U>](https://www.thingiverse.com/thing:2301712)
 <br>
 <br>
 <br>
 <br>
-Ceramic, PLA, Mixed media. 2017
-2017 #howtounit
+Ceramic, PLA, Mixed media. 2017<br>
+2017 #howtounit<br>
 <br>
 <br>
 <br>
