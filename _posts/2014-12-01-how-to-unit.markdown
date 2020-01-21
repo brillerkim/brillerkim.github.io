@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**2014**"
+title:  "2014"
 date:   2014-12-01 00:00:00
 preview: https://brillerkim.github.io/img/a1/2015_2.png
 ---
@@ -18,9 +18,8 @@ preview: https://brillerkim.github.io/img/a1/2015_2.png
 ![Picture 6](https://brillerkim.github.io/img/a1/2015_6.png)
 
 ![Picture 7](https://brillerkim.github.io/img/a1/2015_7.png)
-
-
+<br>
+<br>
+<br>
 Ceramic, Mixed media. 2014<br>
-<br>
-<br>
 2014 #howtounit
