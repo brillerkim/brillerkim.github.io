@@ -105,8 +105,8 @@ ____________________________________________________________<br>
 김은지 개인전 &#60;의심 이미지 Doubtful Image&#62;<br>
 Eunji Briller Kim Solo Exhibition<br>
 <br>
-&#42;일정: 2019년 11/9(토) ~11/17(일)<br>
 <br>
+&#42;일정: 2019년 11/9(토) ~11/17(일)<br>
 <br>
 &#42;장소: APAP 오픈스쿨<br>
 <br>
@@ -122,8 +122,6 @@ Eunji Briller Kim Solo Exhibition<br>
 &#42;번역: 강민형<br>
 <br>
 &#42;후원: 경기도, 안양시, 경기문화재단, 안양문화예술재단, 한국문화예술위원회 <br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -163,7 +161,7 @@ The exhibition looks for the god of a kiln that no history has recorded and no o
 <br>
 <br>
 <br>
-Ceramic, Clay, Mixed media. Dimension Variable 
+Ceramic, Clay, Mixed media. Dimension Variable<br> 
 2019 Eunji Briller Kim Solo Exhibition<br>
 <br>
 <br>
