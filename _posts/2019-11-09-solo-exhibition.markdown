@@ -107,7 +107,6 @@ Eunji Briller Kim Solo Exhibition<br>
 <br>
 <br>
 &#42;일정: 2019년 11/9(토) ~11/17(일)<br>
-<br>
 &#42;장소: APAP 오픈스쿨<br>
 <br>
 <br>
