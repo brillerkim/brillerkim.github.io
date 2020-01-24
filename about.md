@@ -131,9 +131,9 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 <br>
 *Open Call
 <br>
-2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR<br>    
-2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR<br>   
-2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR<br>  
+2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR    
+2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
+2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
 <br>
 <br>
 <br>
