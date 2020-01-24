@@ -71,8 +71,9 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Awards
+*Open Call
 <br>
+2020 서울문화재단 서서울예술교육센터 예술놀이 LAB TA. 서울
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
 2013 10회 대한민국 도예공모전 입상 수상. 인천 
 <br>
@@ -128,9 +129,11 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 <br>
 <br>
 <br>
-*Awards   
-2019 Selected Artist. Anyang Foundation for Culture & Arts, Anyang, KR   
-2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
+*Open Call
+<br>
+2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR<br>    
+2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR<br>   
+2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR<br>  
 <br>
 <br>
 <br>
