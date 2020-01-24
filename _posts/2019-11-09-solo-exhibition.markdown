@@ -7,21 +7,41 @@ preview: https://brillerkim.github.io/img/a11/2019-2_1.JPG
 
 ![Picture 1](https://brillerkim.github.io/img/a11/2019-2_2.JPG)
 
-![Picture 2](https://brillerkim.github.io/img/a11/2019-2_7.JPG)
+![Picture 2](https://brillerkim.github.io/img/a11/2019-2_3.JPG)
 
-![Picture 3](https://brillerkim.github.io/img/a11/2019-2_8.JPG)
+![Picture 3](https://brillerkim.github.io/img/a11/2019-2_9.jpg)
 
-![Picture 4](https://brillerkim.github.io/img/a11/2019-2_4.jpeg)
+![Picture 4](https://brillerkim.github.io/img/a11/2019-2_10.jpg)
 
-![Picture 5](https://brillerkim.github.io/img/a11/2019-2_5.jpeg)
+![Picture 5](https://brillerkim.github.io/img/a11/2019-2_11.jpg)
 
-![Picture 6](https://brillerkim.github.io/img/a11/2019-2_6.jpeg)
+![Picture 6](https://brillerkim.github.io/img/a11/2019-2_12.jpg)
 
+![Picture 7](https://brillerkim.github.io/img/a11/2019-2_13.jpg)
+
+![Picture 8](https://brillerkim.github.io/img/a11/2019-2_14.jpg)
+
+![Picture 9](https://brillerkim.github.io/img/a11/2019-2_15.jpg)
+
+![Picture 10](https://brillerkim.github.io/img/a11/2019-2_5.jpeg)
+
+![Picture 11](https://brillerkim.github.io/img/a11/2019-2_16.jpg)
+
+![Picture 12](https://brillerkim.github.io/img/a11/2019-2_6.jpeg)
+
+![Picture 13](https://brillerkim.github.io/img/a11/2019-2_17.jpg)
+
+![Picture 14](https://brillerkim.github.io/img/a11/2019-2_7.JPG)
+
+![Picture 15](https://brillerkim.github.io/img/a11/2019-2_4.jpeg)
 
 
 <br>
 <br>
-Anyang, South Korea @오픈스쿨 Open School<br>
+<br>
+<br>
+Anyang @APAP 오픈스쿨 Open School<br>
+<br>
 <br>
 <br>
 “신에게 이 전시를 바칩니다.”<br>
@@ -88,20 +108,65 @@ Eunji Briller Kim Solo Exhibition<br>
 &#42;일정: 2019년 11/9(토) ~11/17(일)<br>
 <br>
 <br>
-&#42;장소: APAP, 오픈스쿨<br>
+&#42;장소: APAP 오픈스쿨<br>
 <br>
 <br>
 <br> 
 &#42;협력 기획: 강민형<br>
 &#42;디자인: 박은선<br>
-&#42;공간: 우희서<br> 
+&#42;공간 디자인: 우희서<br> 
 &#42;설치: 권이안<br>
-&#42;참여 작가: 강신영, 김민선, 김수미, 김세현, 김지혜, 권혜현, 서지나, 선의미, 신원동, 박민희, 박지은<br>
-&#42;도움 주신 분들: 릴리쿰, 박정민 교수님, 송보경, 정혜윤<br> 
+&#42;인터뷰: 강신영, 김민선, 김수미, 김세현, 김지혜, 권혜현, 서지나, 선의미, 신원동, 박민희, 박지은<br>
+&#42;도움 주신 분들: 릴리쿰, 박정민 교수님, 송보경, 정혜윤<br>
+&#42;사진: 김대훈<br>
+&#42;번역: 강민형<br>
 <br>
 &#42;후원: 경기도, 안양시, 경기문화재단, 안양문화예술재단, 한국문화예술위원회 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+Eunji Briller Kim Solo Exhibition &#60;Doubtful Image&#62;<br> 
+<br>
+<br>
+&#42;CURATORIAL SUPPORT / TEXT: Min-hyung Kang<br>
+&#42;DESIGN: Eunsun Park<br>
+&#42;SPACE DESIGN: Heeseo Woo<br>
+&#42;INSTALLATION: Ian Kwon<br>
+&#42;INTERVIEWEES: Shinyoung Kang, Minseon Kim, Sumi, Sehyun Kim, Jihae Kim, Hyehyeon Kwon, Gina Seo, Uimi Sun, Wondong Shin, Minhee Park, Ji-eun Park<br>
+&#42;SUPPORTS: Reliquum, Jungmin Park, Hyeyoun Jeong<br>
+&#42;PHOTOGRAPHY: Daehoon Kim<br>
+&#42;TRANSLATION: Min-hyung Kang<br>
+<br>
+&#42;SPONSORED BY Anyang Foundation for Culture&Arts, Gyeonggi Cultural Foundation, Korea Art Council, and Anyang city, Gyeonggi Province. <br>
+<br>
+<br>
+&#42;DATES: November 9 2019 - November 17 2019<br>
+&#42;VENUE: Open School, APAP<br>
+<br>
+<br>
+<br>
+Working on ceramic is considered sacred in Korea, however, the process of forming clay, drying it, and baking it in a kiln is far from the sacred action. In fact, we don’t have to create the paste from raw
+materials, nor make fire from firewood for wood-fired kilns, nor pray to the god of a kiln. A woman can make ceramic, and it is not forbidden
+to barbeque next to the kiln. (In the Chosun era, it is known in some areas that women are forbidden to make ceramic and couldn’t approach even close to kilns.) We are living in a day in which we still can create
+something but without those processes above.<br>
+<br>
+The exhibition focuses on a representative meme of ceramic. Since graduating from the Department of Fine Art, artist Eunji Briller Kim has worked on reinterpreting memes of ceramic as a material. Seeking the most potent meme on ceramic, she started to question why ceramic makers are considered masters and why masters are sacred beings. Where does this sacredness come from in ceramic?<br>
+<br>
+To transform clay into ceramic, we often use a device called a kiln. Kim focuses on the god of a kiln as a meme, which existed in the era of wood-fired kilns and even now, though we use electronic kilns. Wishing for the perfect results inside the kiln, we pray to the god of the kiln in front of holy water, and it applies the same for the electronic kilns.<br>
+<br>
+The exhibition looks for the god of a kiln that no history has recorded and no one has seen. Kim has interviewed eleven artists and attempts to materialize the shapes and forms of it, the one we have heard of but have never known for certain. Also, the audience is asked to think about ceramic, which has lasted as long as human beings, and its tradition and succession.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Ceramic, Clay, Mixed media. Dimension Variable 
 2019 Eunji Briller Kim Solo Exhibition<br>
+<br>
+<br>
+<br>
 <br>
 <br>
