@@ -87,7 +87,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR  
+BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR  
 <br>
 <br>
 <br>
@@ -100,8 +100,8 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
-2015 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, KR<br> 
-2015 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, KR
+2015 &#60;GOODS&#62; Exhibition/Fair. Sejong Center, Seoul, KR<br> 
+2015 &#60;8yoil noons&#62; Exhibition/Residency program. Barim, Gwangju, KR
 <br>
 <br>
 <br>
