@@ -32,11 +32,12 @@ brillerkim@gmail.com<br>
 <br>
 *Exhibitions
 <br>
+2020 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. Online Exhibition, 서울<br>
 2019 개인전 &#60;의심 이미지 Doubtful Image&#62;. APAP 오픈스쿨, 안양<br>
 2019 DEGITAL – in your hands. 세운상가, 서울  
 2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주  
 2018 유니온 아트페어. S-Factory, 서울  
-2018 'SUBI' 아시아 트레인날레 맨체스터. Castlefield Gallery, 영국<br> 
+2018 아시아 트레인날레 맨체스터 &#60;SUBI&#62;. Castlefield Gallery, 영국<br> 
 2017 10회 청주공예비엔날레 기획전 참여작가. 청주<br> 
 2015 굿-즈. 세종문화회관, 서울  
 2015 8요일에 눈이 밝아진다. 전시/레지던시 프로그램, 바림, 광주 
@@ -72,6 +73,7 @@ brillerkim@gmail.com<br>
 <br>
 *Open Call
 <br>
+2020 경기문화재단 경기도 예술인 지원사업. 경기<br>
 2020 서울문화재단 서서울예술교육센터 예술놀이 LAB TA. 서울<br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
 2013 10회 대한민국 도예공모전 입상 수상. 인천<br> 
@@ -90,12 +92,13 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 <br>
 <br>
 *Exhibitions
-<br> 
+<br>
+2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
 2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Anyang, KR<br> 
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
-2018 'SUBI' Asia Triennial Manchester. Castlefield Gallery, Manchester, UK<br>
+2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
 2015 ‘GOODS’ Exhibition/Fair. Sejong Center, Seoul, KR<br> 
 2015 '8yoil noons' Exhibition/Residency program. Barim, Gwangju, KR
@@ -130,6 +133,7 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi-do, KR
 <br>
 *Open Call
 <br>
+2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br> 
 2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR    
 2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
 2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
