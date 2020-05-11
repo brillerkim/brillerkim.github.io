@@ -7,21 +7,19 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 
 ![Picture 1](https://brillerkim.github.io/img/a13/2020-1_2.gif)
 
-![Picture 2](https://brillerkim.github.io/img/a13/2020-1_1.png)
+![Picture 2](https://brillerkim.github.io/img/a13/2020-1_4.png)
 
-![Picture 3](https://brillerkim.github.io/img/a13/2020-1_4.png)
+![Picture 3](https://brillerkim.github.io/img/a13/2020-1_5.JPG)
 
-![Picture 4](https://brillerkim.github.io/img/a13/2020-1_5.jpg)
+![Picture 4](https://brillerkim.github.io/img/a13/2020-1_6.JPG)
 
-![Picture 5](https://brillerkim.github.io/img/a13/2020-1_6.jpg)
+![Picture 5](https://brillerkim.github.io/img/a13/2020-1_7.JPG)
 
-![Picture 6](https://brillerkim.github.io/img/a13/2020-1_7.jpg)
+![Picture 6](https://brillerkim.github.io/img/a13/2020-1_8.JPG)
 
-![Picture 7](https://brillerkim.github.io/img/a13/2020-1_8.jpg)
+![Picture 7](https://brillerkim.github.io/img/a13/2020-1_9.JPG)
 
-![Picture 8](https://brillerkim.github.io/img/a13/2020-1_9.jpg)
-
-![Picture 9](https://brillerkim.github.io/img/a13/2020-1_10.jpg)
+![Picture 8](https://brillerkim.github.io/img/a13/2020-1_10.jpg)
 
 
 <br>
