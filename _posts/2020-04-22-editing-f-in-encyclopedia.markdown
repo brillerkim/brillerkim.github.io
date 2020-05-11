@@ -2,28 +2,26 @@
 layout: post
 title:  "2020"
 date:   2020-04-22 00:00:00
-preview: https://brillerkim.github.io/img/a13/2020-1_1.png
+preview: https://brillerkim.github.io/img/a13/2020-1_2.gif
 ---
 
-![Picture 1](https://brillerkim.github.io/img/a13/2020-1_1.png)
+![Picture 1](https://brillerkim.github.io/img/a13/2020-1_2.gif)
 
-![Picture 2](https://brillerkim.github.io/img/a13/2020-1_2.gif)
+![Picture 2](https://brillerkim.github.io/img/a13/2020-1_1.png)
 
-![Picture 3](https://brillerkim.github.io/img/a13/2020-1_3.jpge)
+![Picture 3](https://brillerkim.github.io/img/a13/2020-1_4.png)
 
-![Picture 4](https://brillerkim.github.io/img/a13/2020-1_4.png)
+![Picture 4](https://brillerkim.github.io/img/a13/2020-1_5.jpg)
 
-![Picture 5](https://brillerkim.github.io/img/a13/2020-1_5.jpg)
+![Picture 5](https://brillerkim.github.io/img/a13/2020-1_6.jpg)
 
-![Picture 6](https://brillerkim.github.io/img/a13/2020-1_6.jpg)
+![Picture 6](https://brillerkim.github.io/img/a13/2020-1_7.jpg)
 
-![Picture 7](https://brillerkim.github.io/img/a13/2020-1_7.jpg)
+![Picture 7](https://brillerkim.github.io/img/a13/2020-1_8.jpg)
 
-![Picture 8](https://brillerkim.github.io/img/a13/2020-1_8.jpg)
+![Picture 8](https://brillerkim.github.io/img/a13/2020-1_9.jpg)
 
-![Picture 9](https://brillerkim.github.io/img/a13/2020-1_9.jpg)
-
-![Picture 10](https://brillerkim.github.io/img/a13/2020-1_10.jpg)
+![Picture 9](https://brillerkim.github.io/img/a13/2020-1_10.jpg)
 
 
 <br>
@@ -63,7 +61,9 @@ f항목은 추가중이다. 이 프로젝트에서 페미니즘은 성차별과 
 <br>
 <br>
 글. 강민형<br>
-----------------------------------------------------------------<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 여성을 위한 열린 기술랩 소개<br>
@@ -102,7 +102,8 @@ f항목은 추가중이다. 이 프로젝트에서 페미니즘은 성차별과 
 <br>
 f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기술연구모임 (2019-)의 온라인 전시 및 스트리밍입니다. 여성(feminism)으로부터 출발은 했지만 결코 그 단어로 단순히 묶이지 않으며 더 다양한 종류의 변종 f(eminism)가 필요하다는 의미로, 마치 인권의 사전에 다양한 f-단어를 추가하는 과정처럼 이 스터디를 꾸렸음을 나타냅니다. 이 프로젝트에서 feminism은 어떤 한가지 사상이 아닌, 성차별과 소수자에 대한 억압, 압제에 도전하는 다양하고 넓은 범위의 프로젝트를 약칭하는 단어로만 쓰입니다. 오히려 이 프로젝트가 주목하는 것은 모든 것을 접촉(터치)으로 해결하면서도 서로에게 접근은 할 수 없는 바이러스의 시대, 신체와 정체성 등 형식과 본질이 일치하지 않아 배제되는 삭제 정정의 사회, 사회 규범과 범죄의 속도가 동떨어진 근시안적 기술과 아노미 현상 등을 여성 창작자의 시점으로 다루는것 입니다.<br>
 <br>
-<𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂> is an online exhibition and streaming project of a tech study group (2019-) organized and presented by Woman Open Tech LAB. Not surprisingly, we've started from feminism, however, what we've done is never simply tied to that term. We believe that we need a more diverse/variant kind of "f(eminism)s," and the title implies that this study was organized like we were editing various f-words in the encyclopedia of human rights. In this project, feminism is not a single thought but is employed only to indicate all the various projects that challenge sexism and oppression against minorities. Rather the project draws attention to the era of the virus in which we touch everything (digitally) but cannot approach to each other, to the society of erasure and correction in which we are excluded because our forms and essences are not matched such as body or identity, and lastly to the short-sighted technology and the anomie phenomenon in which the social norms and speed of crime are far from each other - all from perspectives of women creators.<br>
+&#60;𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂&#62; is an online exhibition and streaming project of a tech study group (2019-) organized and presented by Woman Open Tech LAB. Not surprisingly, we've started from feminism, however, what we've done is never simply tied to that term. We believe that we need a more diverse/variant kind of "f(eminism)s," and the title implies that this study was organized like we were editing various f-words in the encyclopedia of human rights. In this project, feminism is not a single thought but is employed only to indicate all the various projects that challenge sexism and oppression against minorities. Rather the project draws attention to the era of the virus in which we touch everything (digitally) but cannot approach to each other, to the society of erasure and correction in which we are excluded because our forms and essences are not matched such as body or identity, and lastly to the short-sighted technology and the anomie phenomenon in which the social norms and speed of crime are far from each other - all from perspectives of women creators.<br>
+<br>
 <br>
 <br>
 <br>
@@ -115,8 +116,6 @@ f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기�
 <br>
 <br>
 *해당 홈페이지에서 리서치 자료를 확인할 수 있습니다. [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br>
-<br>
-<br>
 <br>
 *뭉툭한 도구로 사냥하는 법_Workshop<br>
 <br>
