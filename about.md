@@ -33,7 +33,7 @@ brillerkim@gmail.com<br>
 *Exhibitions
 <br>
 2020 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. Online Exhibition, 서울<br>
-2019 개인전 &#60;의심 이미지 Doubtful Image&#62;. APAP 오픈스쿨, 안양<br>
+2019 개인전 &#60;의심 이미지&#62;. APAP 오픈스쿨, 안양<br>
 2019 DEGITAL – in your hands. 세운상가, 서울  
 2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주  
 2018 유니온 아트페어. S-Factory, 서울  
