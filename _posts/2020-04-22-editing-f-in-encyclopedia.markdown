@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "2020"
+date:   2020-04-22 00:00:00
+preview: https://brillerkim.github.io/img/a13/2020-1_1.png
+---
+
+![Picture 1](https://brillerkim.github.io/img/a13/2020-1_1.png)
+
+![Picture 2](https://brillerkim.github.io/img/a13/2020-1_2.gif)
+
+![Picture 3](https://brillerkim.github.io/img/a13/2020-1_3.jpge)
+
+![Picture 4](https://brillerkim.github.io/img/a13/2020-1_4.png)
+
+![Picture 5](https://brillerkim.github.io/img/a13/2020-1_5.jpg)
+
+![Picture 6](https://brillerkim.github.io/img/a13/2020-1_6.jpg)
+
+![Picture 7](https://brillerkim.github.io/img/a13/2020-1_7.jpg)
+
+![Picture 8](https://brillerkim.github.io/img/a13/2020-1_8.jpg)
+
+![Picture 9](https://brillerkim.github.io/img/a13/2020-1_9.jpg)
+
+
+
+<br>
+<br>
+<br>
+<br>
+&#60;Kiln God Wiki&#62; Exhibition Catalogue<br> 
+from Eunji Briller Kim Solo Exhibition ‘Doubtful Image’ 2019<br>
+<br>
+<br>
+<br>
+ISBN: 978-11-965347-2-1<br>
+40pgs<br>
+210x297mm<br>
+<br>
+<br>
+<br>
+한국에서 도자를 작업하는 행위는 대체로 신성한 행동으로 여겨진다. 허나, 흙으로 만들어 형태를 건조 시킨 뒤 가마에 굽는 소성 과정은 신성한 행위가 아니다. 고집스럽게 흙을 밟아 태토(胎土)를 만들지 않아도 되고, 장작가마의 장작을 불로 지피지 않아도 되며, 가마신께 절을 올리지 않아도 된다. 여자도 도자를 만들 수 있으며, 가마 옆에서 고기를 구워 먹어도 된다. -조선시대, 일부 도요지에서 여자는 도자를 만들 수 없었으며 근처에도 갈 수 없었다, 고 한다. 위 과정 없이 결과물을 만들 수 있는 시대에 살고있다. 이 전시는 도자의 대표적인 밈에 집중해본다. 순수 미술을 전공한 작가는 ‘도자’라는 재료의 밈을 재해석하며 작업해왔다. 도자에 대한 강력한 밈을 고민하던 작가는, 한 가지의 의문점을 발견하게 된다. 도자기를 잘~ 만드는 것은 장인이며, 장인은 왜 신성한 존재로 여겨지는가, 이다. 도자기의 ‘신성함’은 어디에서 기원된걸까. 흙을 도자로 바꾸기 위하여 ‘가마’가 사용된다. 장작가마를 사용하던 시대에도 통용되었으며, 전기가마를 사용하는 현재에도 존재하는 ‘가마신’ 에 대해 집중해본다. 장작가마 내부의 결과물을 위해, 가마신에게 물을 떠놓고 무사안녕을 빈다. 전기 가마 또한 마찬가지이다. 이 전시는 역사에 기록되지 않았던 형태를 알 수 없는, ‘가마신’이라는 신성한 존재를 찾아본다. ‘가마신’ 의 형태를 찾기 위해 11명의 작업자가 모였다. 듣긴 들었으나, 확신할 수 없는 존재 ‘가마신’에 대한 형태를 구현해본다. 인류의 역사와 함께 지속해왔던 ‘도자기’에 대한 전통과 승계에 대해 생각해볼 수 있는 전시이다.<br>
+<br>
+<br> 
+Working on ceramic is considered sacred in Korea, however, the process of forming clay, drying it, and baking it in a kiln is far from the sacred action. In fact, we don’t have to create the paste from raw materials, nor make fire from firewood for wood-fired kilns, nor pray to the god of a kiln. A woman can make ceramic, and it is not forbidden to barbeque next to the kiln. (In the Chosun era, it is known in some areas that women are forbidden to make ceramic and couldn’t approach even close to kilns.) We are living in a day in which we still can create something but without those processes above.<br>
+The exhibition focuses on a representative meme of ceramic. Since graduating from the Department of Fine Art, artist Eunji Briller Kim has worked on reinterpreting memes of ceramic as a material. Seeking the most potent meme on ceramic, she started to question why ceramic makers are considered masters and why masters are sacred beings. Where does this sacredness come from in ceramic? <br>
+To transform clay into ceramic, we often use a device called a kiln. Kim focuses on the god of a kiln as a meme, which existed in the era of wood-fired kilns and even now, though we use electronic kilns. Wishing for the perfect results inside the kiln, we pray to the god of the kiln in front of holy water, and it applies the same for the electronic kilns.<br> 
+The exhibition looks for the god of a kiln that no history has recorded and no one has seen. Kim has interviewed eleven artists and attempts to materialize the shapes and forms of it, the one we have heard of but have never known for certain. Also, the audience is asked to think about ceramic, which has lasted as long as human beings, and its tradition and succession.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+2019 김은지 Eunji Briller Kim 개인전 '의심 이미지 Doubtful Image' 도록<br> 
+&#60;가마신 위키 Kiln God Wiki&#62;<br>
+<br>
+<br> 
+&#42;협력 기획/ 글: 강민형<br>
+&#42;디자인: 박은선<br>
+&#42;공간 디자인: 우희서<br> 
+&#42;설치: 권이안<br>
+&#42;인터뷰: 강신영, 김민선, 김수미, 김세현, 김지혜, 권혜현, 서지나, 선의미, 신원동, 박민희, 박지은<br>
+&#42;도움 주신 분들: 릴리쿰, 박정민 교수님, 송보경, 정혜윤<br>
+&#42;사진: 김대훈, 송보경<br>
+&#42;번역: 강민형<br>
+<br>
+&#42;후원: 경기도, 안양시, 경기문화재단, 안양문화예술재단, 한국문화예술위원회 <br>
+<br>
+<br>
+<br>
+&#60;Kiln God Wiki&#62;<br> 
+Exhibition Catalogue from Eunji Briller Kim Solo Exhibition ‘Doubtful Image’ 2019<br>
+<br>
+<br>
+&#42;CURATORIAL SUPPORT / TEXT: Min-hyung Kang<br>
+&#42;DESIGN: Eunsun Park<br>
+&#42;SPACE DESIGN: Heeseo Woo<br>
+&#42;INSTALLATION: Ian Kwon<br>
+&#42;INTERVIEWEES: Shinyoung Kang, Minseon Kim, Sumi, Sehyun Kim, Jihae Kim, Hyehyeon Kwon, Gina Seo, Uimi Sun, Wondong Shin, Minhee Park, Ji-eun Park<br>
+&#42;SUPPORTS: Reliquum, Jungmin Park, Hyeyoun Jeong<br>
+&#42;PHOTOGRAPHY: Daehoon Kim, Bokyung Song<br>
+&#42;TRANSLATION: Min-hyung Kang<br>
+<br>
+&#42;SPONSORED BY Anyang Foundation for Culture&Arts, Gyeonggi Cultural Foundation, Korea Art Council, and Anyang city, Gyeonggi Province. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+**본 도록은 스튜디오 파이와 Adocs에서 구매할 수 있습니다**<br>
+**그 밖의 도록 구매 Contact > brillerkim@gmail.com 로 문의해주세요**<br> 
+<br>
+[<U>Catalogue E-Book Purchase link</U>](https://adocs.co/books/kiln-god-wiki/)<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+2019 &#60;Kiln God Wiki&#62; Exhibition Catalogue<br>
+<br>
+<br>
+<br>
+<br>
+<br>
