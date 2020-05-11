@@ -2,7 +2,7 @@
 layout: post
 title:  "2020"
 date:   2020-04-22 00:00:00
-preview: https://brillerkim.github.io/img/a13/2020-1_2.gif
+preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a13/2020-1_2.gif)
