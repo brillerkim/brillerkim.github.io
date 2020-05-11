@@ -26,7 +26,7 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 <br>
 <br>
 <br>
-@Online Exhibition [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br> 
+여성기술랩 @Online Exhibition [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br> 
 <br>
 <br>
 백신은 없다: 인간 멸종 예상도<br>
@@ -101,6 +101,9 @@ f항목은 추가중이다. 이 프로젝트에서 페미니즘은 성차별과 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기술연구모임 (2019-)의 온라인 전시 및 스트리밍입니다. 여성(feminism)으로부터 출발은 했지만 결코 그 단어로 단순히 묶이지 않으며 더 다양한 종류의 변종 f(eminism)가 필요하다는 의미로, 마치 인권의 사전에 다양한 f-단어를 추가하는 과정처럼 이 스터디를 꾸렸음을 나타냅니다. 이 프로젝트에서 feminism은 어떤 한가지 사상이 아닌, 성차별과 소수자에 대한 억압, 압제에 도전하는 다양하고 넓은 범위의 프로젝트를 약칭하는 단어로만 쓰입니다. 오히려 이 프로젝트가 주목하는 것은 모든 것을 접촉(터치)으로 해결하면서도 서로에게 접근은 할 수 없는 바이러스의 시대, 신체와 정체성 등 형식과 본질이 일치하지 않아 배제되는 삭제 정정의 사회, 사회 규범과 범죄의 속도가 동떨어진 근시안적 기술과 아노미 현상 등을 여성 창작자의 시점으로 다루는것 입니다.<br>
 <br>
 &#60;𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂&#62; is an online exhibition and streaming project of a tech study group (2019-) organized and presented by Woman Open Tech LAB. Not surprisingly, we've started from feminism, however, what we've done is never simply tied to that term. We believe that we need a more diverse/variant kind of "f(eminism)s," and the title implies that this study was organized like we were editing various f-words in the encyclopedia of human rights. In this project, feminism is not a single thought but is employed only to indicate all the various projects that challenge sexism and oppression against minorities. Rather the project draws attention to the era of the virus in which we touch everything (digitally) but cannot approach to each other, to the society of erasure and correction in which we are excluded because our forms and essences are not matched such as body or identity, and lastly to the short-sighted technology and the anomie phenomenon in which the social norms and speed of crime are far from each other - all from perspectives of women creators.<br>
@@ -114,8 +117,6 @@ f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기�
 <br>
 (텍스트 및 오프라인 생각 공유 워크숍) 4/26 2pm<br>
 자낳괴 인간은 생명을 자본으로 교환한다. 대상에 대한 자본화가 익숙하기 때문에 공격하는 행동에 대해 죄의식이 없다. 스마트 연어 양식장과 텔레그램 n번방 사태, 두가지 사례에서 관계성을 발견하고 리서치 과정 중인 자료를 공유한다. 이에 연계된 내용으로 ‘공격과 도구’를 연결하여 개인의 분노를 도구화하는 워크숍을 진행한다. 각자의 분노를 도구로 만든 후, 그것을 없애며 분노의 방향성에 대해 질문한다.<br>
-<br>
-<br>
 *해당 홈페이지에서 리서치 자료를 확인할 수 있습니다. [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br>
 <br>
 *뭉툭한 도구로 사냥하는 법_Workshop<br>
@@ -127,7 +128,8 @@ f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기�
 <br>
 ‘공격성'에 대해 생각해봅니다. 납작한 방법으로 화두를 꺼내 볼게요. 여성들의 분노는 남성들을 향해있으며, 남성들의 분노는 여성들을 향하여 발현됩니다. 트위터 내에서는 극단적인 공격 없이 대화가 진행될 수 없습니다. 또한, 그 밖의 다양한 방향의 분노들이 존재합니다. 분노의 방향을 생각하고 공유하며, 적절한 분노의 방향에 대해 설정해봅니다.<br>  
 <br>
-먼저 워크숍 신청자에게 우편으로 재료를 보내드립니다. 재료를 가지고 각자의 도구(분노의 형태)를 만든 후, 만든 도구를 26일 오프라인 워크숍에 가지고 와 주세요. 도구에 대해 이야기하고 손을 움직이는 행동을 반복합니다. 도구를 없애며 공격과 분노의 방향성에 대해 질문하고 다양한 색깔로 발현될 수 있는 여성주의에 대한 생각을 공유합니다.<br> 
+먼저 워크숍 신청자에게 우편으로 재료를 보내드립니다. 재료를 가지고 각자의 도구(분노의 형태)를 만든 후, 만든 도구를 26일 오프라인 워크숍에 가지고 와 주세요. 도구에 대해 이야기하고 손을 움직이는 행동을 반복합니다. 도구를 없애며 공격과 분노의 방향성에 대해 질문하고 다양한 색깔로 발현될 수 있는 여성주의에 대한 생각을 공유합니다.<br>
+본 워크샵은 마감되었습니다.<br>  
 <br>
 <br>
 <br>
