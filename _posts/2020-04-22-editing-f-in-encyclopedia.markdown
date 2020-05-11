@@ -23,85 +23,117 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 
 ![Picture 9](https://brillerkim.github.io/img/a13/2020-1_9.jpg)
 
+![Picture 10](https://brillerkim.github.io/img/a13/2020-1_10.jpg)
 
 
 <br>
 <br>
 <br>
 <br>
-&#60;Kiln God Wiki&#62; Exhibition Catalogue<br> 
-from Eunji Briller Kim Solo Exhibition ‘Doubtful Image’ 2019<br>
+Online Exhibition and Streaming Project [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br> 
 <br>
 <br>
+백신은 없다: 인간 멸종 예상도<br>
 <br>
-ISBN: 978-11-965347-2-1<br>
-40pgs<br>
-210x297mm<br>
+신종 코로나바이러스 감염증을 인간에게 전파한 매개체로 천산갑이라는 멸종 위기종이 유력 후보 중 하나로 부상했다. 2019년 말레이시아령 보르네오섬에서 29.8t 규모, 약 23억 원에 해당하는 분량의 천산갑 사체가 냉동된 채 발견됐다. 시작은 하나가 아니겠지만 그것이 무엇이든 인간이 멸종시킨 것이 원인이 되어 역으로 생명을 잃는 그림이다.<br>
 <br>
+개인 정보 보호를 무엇보다 강조했던 텔레그램은 이제 스스로 간수가 된 셈이다. 물론 그 간수는 많은 역사가 반복했듯 가해자를 수감한 것이 아니라 피해자를 수감한 수용소이으므로 폭력을 막기 위해 건설한 감옥은 폭력 그 자체이다. 그 방에 갇혀 영원히 아무도 나오지 못하는 것은 보호가 박제와 맞닿은 영원의 순간이다.<br>
 <br>
+어디로든 자유롭게 움직일 수 있다는 온라인 세상에서 로그아웃하면 현실은 아무 곳도 갈 수 없는 격리와 배제의 세상이다. 나를 현실 세계에서 지키기 위해서는 오직 가상 세계에만 존재해야 하지만 가상 세계에서는 수용소에 갇혀버린다.<br>
 <br>
-한국에서 도자를 작업하는 행위는 대체로 신성한 행동으로 여겨진다. 허나, 흙으로 만들어 형태를 건조 시킨 뒤 가마에 굽는 소성 과정은 신성한 행위가 아니다. 고집스럽게 흙을 밟아 태토(胎土)를 만들지 않아도 되고, 장작가마의 장작을 불로 지피지 않아도 되며, 가마신께 절을 올리지 않아도 된다. 여자도 도자를 만들 수 있으며, 가마 옆에서 고기를 구워 먹어도 된다. -조선시대, 일부 도요지에서 여자는 도자를 만들 수 없었으며 근처에도 갈 수 없었다, 고 한다. 위 과정 없이 결과물을 만들 수 있는 시대에 살고있다. 이 전시는 도자의 대표적인 밈에 집중해본다. 순수 미술을 전공한 작가는 ‘도자’라는 재료의 밈을 재해석하며 작업해왔다. 도자에 대한 강력한 밈을 고민하던 작가는, 한 가지의 의문점을 발견하게 된다. 도자기를 잘~ 만드는 것은 장인이며, 장인은 왜 신성한 존재로 여겨지는가, 이다. 도자기의 ‘신성함’은 어디에서 기원된걸까. 흙을 도자로 바꾸기 위하여 ‘가마’가 사용된다. 장작가마를 사용하던 시대에도 통용되었으며, 전기가마를 사용하는 현재에도 존재하는 ‘가마신’ 에 대해 집중해본다. 장작가마 내부의 결과물을 위해, 가마신에게 물을 떠놓고 무사안녕을 빈다. 전기 가마 또한 마찬가지이다. 이 전시는 역사에 기록되지 않았던 형태를 알 수 없는, ‘가마신’이라는 신성한 존재를 찾아본다. ‘가마신’ 의 형태를 찾기 위해 11명의 작업자가 모였다. 듣긴 들었으나, 확신할 수 없는 존재 ‘가마신’에 대한 형태를 구현해본다. 인류의 역사와 함께 지속해왔던 ‘도자기’에 대한 전통과 승계에 대해 생각해볼 수 있는 전시이다.<br>
+트로이 목마는 정상적인 프로그램으로 위장하여 램에 상주한다. 바이러스가 온라인과 오프라인을 점령하고 모두 자의적, 타의적으로 그것을 열심히 나르는 트롤이 된다. 그 형태가 정상인지 비정상인지 알 수 없는 세계가 온다면 그것은 인간 멸종일까. 정상과 생명성의 기준은? 어떤 백신은 아직도 없다.<br>
 <br>
-<br> 
-Working on ceramic is considered sacred in Korea, however, the process of forming clay, drying it, and baking it in a kiln is far from the sacred action. In fact, we don’t have to create the paste from raw materials, nor make fire from firewood for wood-fired kilns, nor pray to the god of a kiln. A woman can make ceramic, and it is not forbidden to barbeque next to the kiln. (In the Chosun era, it is known in some areas that women are forbidden to make ceramic and couldn’t approach even close to kilns.) We are living in a day in which we still can create something but without those processes above.<br>
-The exhibition focuses on a representative meme of ceramic. Since graduating from the Department of Fine Art, artist Eunji Briller Kim has worked on reinterpreting memes of ceramic as a material. Seeking the most potent meme on ceramic, she started to question why ceramic makers are considered masters and why masters are sacred beings. Where does this sacredness come from in ceramic? <br>
-To transform clay into ceramic, we often use a device called a kiln. Kim focuses on the god of a kiln as a meme, which existed in the era of wood-fired kilns and even now, though we use electronic kilns. Wishing for the perfect results inside the kiln, we pray to the god of the kiln in front of holy water, and it applies the same for the electronic kilns.<br> 
-The exhibition looks for the god of a kiln that no history has recorded and no one has seen. Kim has interviewed eleven artists and attempts to materialize the shapes and forms of it, the one we have heard of but have never known for certain. Also, the audience is asked to think about ceramic, which has lasted as long as human beings, and its tradition and succession.<br>
+그 흔한 감기에도 백신은 여전히 없는데, 한 가지 특정한 바이러스가 병을 일으키는 것이 아니라 몇백 여종의 바이러스가 원인이기 때문이다. f항목 추가중에서 다루고 있는 수많은 사회적 악성 바이러스도 종종 항체, 항원, 백신을 찾기 어렵다. 할 수 있는 것이라곤 마스크를 쓰고 나 자신을 격리하고 확진자의 동선을 따라가며 내가 혹시 노출되지 않았는지를 검사하는 것뿐이다. 마치 n번방에 내 사진이 올라왔을지를 지켜보며. 완벽한 방역이라 칭송받는 과정에서.<br>
 <br>
+f항목은 추가중이다. 이 프로젝트에서 페미니즘은 성차별과 소수자에 대한 억압, 압제, 배제에 도전하는 다양하고 넓은 범위의 프로젝트를 약칭하는 단어로 쓰였다. 바이러스의 개수가 늘어날수록 새로운 연구를 해야 하는 것처럼, 인권의 사전에 다양한 f-(eminism) 단어를 추가하는 것처럼, f항목은 추가중이다.<br>
 <br>
-<br>
+2019년부터 '기술을 활용해 여성이 직접, 여성을 위한 무언가를 만들어보자'라는 주제를 가지고, 7명의 여성 창작자, 개발자, 디자이너 등이 모여 각자의 연구를 진행했다. 백신 없는 불평등의 세상에서 이 프로젝트는 억압받는 자의 해방에만 집중하지 않는다. 새로운 백신을 모색하기 위해 새로운 기술을 습득한다. f항목은 추가중은 특히 이하를 여성 창작자의 시점으로 다루었다.<br>
 <br>
 <br>
-<br>
-2019 김은지 Eunji Briller Kim 개인전 '의심 이미지 Doubtful Image' 도록<br> 
-&#60;가마신 위키 Kiln God Wiki&#62;<br>
-<br>
-<br> 
-&#42;협력 기획/ 글: 강민형<br>
-&#42;디자인: 박은선<br>
-&#42;공간 디자인: 우희서<br> 
-&#42;설치: 권이안<br>
-&#42;인터뷰: 강신영, 김민선, 김수미, 김세현, 김지혜, 권혜현, 서지나, 선의미, 신원동, 박민희, 박지은<br>
-&#42;도움 주신 분들: 릴리쿰, 박정민 교수님, 송보경, 정혜윤<br>
-&#42;사진: 김대훈, 송보경<br>
-&#42;번역: 강민형<br>
-<br>
-&#42;후원: 경기도, 안양시, 경기문화재단, 안양문화예술재단, 한국문화예술위원회 <br>
+1. 모든 것을 접촉 (터치) 으로 해결하면서도 서로에게 접근은 할 수 없는 바이러스의 시대<br>
+#동물 #인공 #퍼포밍 #치유 #몸의지성 #움직임 #신체<br>
 <br>
 <br>
+1. 신체와 정체성 등 형식과 본질이 일치하지 않아 배제되는 삭제 정정의 사회<br>
+#품바 #장애 #인터섹슈얼 #젠더성 #결함 #포스트휴먼 #배제 #형태<br>
 <br>
-&#60;Kiln God Wiki&#62;<br> 
-Exhibition Catalogue from Eunji Briller Kim Solo Exhibition ‘Doubtful Image’ 2019<br>
+<br>
+1. 사회 규범과 범죄의 속도가 동떨어진 근시안적 기술과 아노미 현상<br>
+#n번방 #폭력 #법리 #스마트연어양식장 #생명 #자본 #젠더그래픽<br>
 <br>
 <br>
-&#42;CURATORIAL SUPPORT / TEXT: Min-hyung Kang<br>
-&#42;DESIGN: Eunsun Park<br>
-&#42;SPACE DESIGN: Heeseo Woo<br>
-&#42;INSTALLATION: Ian Kwon<br>
-&#42;INTERVIEWEES: Shinyoung Kang, Minseon Kim, Sumi, Sehyun Kim, Jihae Kim, Hyehyeon Kwon, Gina Seo, Uimi Sun, Wondong Shin, Minhee Park, Ji-eun Park<br>
-&#42;SUPPORTS: Reliquum, Jungmin Park, Hyeyoun Jeong<br>
-&#42;PHOTOGRAPHY: Daehoon Kim, Bokyung Song<br>
-&#42;TRANSLATION: Min-hyung Kang<br>
+글. 강민형<br>
+----------------------------------------------------------------<br>
 <br>
-&#42;SPONSORED BY Anyang Foundation for Culture&Arts, Gyeonggi Cultural Foundation, Korea Art Council, and Anyang city, Gyeonggi Province. <br>
+<br>
+여성을 위한 열린 기술랩 소개<br>
+<br>
+해시태그 운동과 미투 운동 이후 문화예술계 내에서 젠더적 관점의 작업이 많이 소개되고 그 관심이 증대되었지만, 기술이 중점이 되는 미디어아트, 기술문화영역에서는 여전히 여성의 참여도가 낮다. 이런 사회적 배경에서 여성을 위한 열린 기술랩은 여성들이 주체적으로 기술을 활용하고 기술문화에 대한 담론을 제기하면서 기존의 성차별적인 환경을 비판적으로 바라보는 스터디 그룹 활동을 지속해왔다. 2017년부터 이어진 활동을 통해 기술랩이 주목하는 문제는 결국 기술과 사회에 대한 다양한 관점의 부재이고 이는 기술을 활용한 여성주의적 연구와 작업의 여러 사례들을 소개하는 것으로부터 해결할 수 있다고 생각한다.<br>
+<br>
+이번 시즌의 스터디 연구들은 기술을 직간접적으로 활용하는 프로젝트뿐만 아니라, 사회가 정의내리는 기술의 범위와 방식을 질문하고 그 경계를 새롭게 제시하는 작업들도 있다. 첨단 기술로 대표되는 좁은 의미의 기술 외에도, 여성으로서 남성 중심의 사회에 대처하는 기술, 화려하게 전시용으로 활용되는 기술 이면에 가려진 기술 담론 등 기술이 우리 사회에서 어떤 식으로 매핑되고 필터링되고 도구화되는지 또한 생각하게 만든다.<br>
 <br>
 <br>
 <br>
 <br>
+사회적 거리두기로 인해 온라인 전시, 실시간 스트리밍, 비공개 오프라인 워크숍으로 진행합니다. 온라인 전시는 본 웹사이트에 공개되며, 실시간 스트리밍(트위치)으로 진행되는 토크/워크숍 프로그램은 아래를 참고하세요. 오프라인 워크숍은 사전 신청이 필요하며 그 외는 사전 신청이 필요 없습니다. 추후 영상 공유 없이 실시간으로만 스트리밍됩니다. 직접 오시지는 못하시지만, 그보다 더 편하게 개인적인 공간에서 자유롭게 접속해 즐겨주시길 바랍니다. 많은 실시간 참여를 부탁드립니다.<br>
 <br>
-**본 도록은 스튜디오 파이와 Adocs에서 구매할 수 있습니다**<br>
-**그 밖의 도록 구매 Contact > brillerkim@gmail.com 로 문의해주세요**<br> 
+전시일정<br>
+2020. 4. 22 (수) - 4.26 (일)<br>
+장소: http://womanopentechlab.kr/f/ 및 https://www.twitch.tv/wotl<br>
 <br>
-[<U>Catalogue E-Book Purchase link</U>](https://adocs.co/books/kiln-god-wiki/)<br> 
+실시간스트리밍 (트위치)<br>
+4/22(수) 8pm / 프로젝트 소개 토크 왜 f항목을 추가하는가 / 강민형, 전유진<br>
+4/22(수) 8:30pm / 아티스트 토크 없었던 몸들 / 성다움, 윤결, 이은희, 사회: 강민형<br>
+4/23(목) 8pm / 아티스트 토크 갇힘에서 벗어나기 / 김은지, 신수현, 정혜윤, 사회: 강민형<br>
+4/24(금) 8pm / 품바 토크 저쪽 아래, 낯선 환호들 / 윤결, 강민형<br>
+4/25(토) 2pm / 움직임 워크숍 사이버-샤-우-먼 (cyber-sha-wo-man) / 성다움<br>
+🎤 실시간 스트리밍은 생방송 이후에 다시 볼 수 없습니다. 이 곳에 따로 기록영상이 업로드되지 않으니 이 점 참고하세요.<br>
+<br>
+오프라인워크숍 (여성을 위한 열린 기술랩)<br>
+4/26 (일) 2pm / 생각 공유 워크숍 뭉툭한 도구로 사냥하는 법 / 김은지 Eunji Briller Kim<br>
+<br>
+참여작가<br>
+김은지, 성다움, 신수현, 윤결, 이은희, 정혜윤<br>
+<br>
+기획<br>
+여성을 위한 열린 기술랩 (강민형, 김솜이, 전유진)<br>
+<br>
+<br>
+<br>
+f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기술연구모임 (2019-)의 온라인 전시 및 스트리밍입니다. 여성(feminism)으로부터 출발은 했지만 결코 그 단어로 단순히 묶이지 않으며 더 다양한 종류의 변종 f(eminism)가 필요하다는 의미로, 마치 인권의 사전에 다양한 f-단어를 추가하는 과정처럼 이 스터디를 꾸렸음을 나타냅니다. 이 프로젝트에서 feminism은 어떤 한가지 사상이 아닌, 성차별과 소수자에 대한 억압, 압제에 도전하는 다양하고 넓은 범위의 프로젝트를 약칭하는 단어로만 쓰입니다. 오히려 이 프로젝트가 주목하는 것은 모든 것을 접촉(터치)으로 해결하면서도 서로에게 접근은 할 수 없는 바이러스의 시대, 신체와 정체성 등 형식과 본질이 일치하지 않아 배제되는 삭제 정정의 사회, 사회 규범과 범죄의 속도가 동떨어진 근시안적 기술과 아노미 현상 등을 여성 창작자의 시점으로 다루는것 입니다.<br>
+<br>
+<𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂> is an online exhibition and streaming project of a tech study group (2019-) organized and presented by Woman Open Tech LAB. Not surprisingly, we've started from feminism, however, what we've done is never simply tied to that term. We believe that we need a more diverse/variant kind of "f(eminism)s," and the title implies that this study was organized like we were editing various f-words in the encyclopedia of human rights. In this project, feminism is not a single thought but is employed only to indicate all the various projects that challenge sexism and oppression against minorities. Rather the project draws attention to the era of the virus in which we touch everything (digitally) but cannot approach to each other, to the society of erasure and correction in which we are excluded because our forms and essences are not matched such as body or identity, and lastly to the short-sighted technology and the anomie phenomenon in which the social norms and speed of crime are far from each other - all from perspectives of women creators.<br>
 <br>
 <br>
 <br>
 <br>
 <br>
+뭉툭한 도구로 사냥하는 법_김은지 Eunji Briller Kim<br>
+<br>
+(텍스트 및 오프라인 생각 공유 워크숍) 4/26 2pm<br>
+자낳괴 인간은 생명을 자본으로 교환한다. 대상에 대한 자본화가 익숙하기 때문에 공격하는 행동에 대해 죄의식이 없다. 스마트 연어 양식장과 텔레그램 n번방 사태, 두가지 사례에서 관계성을 발견하고 리서치 과정 중인 자료를 공유한다. 이에 연계된 내용으로 ‘공격과 도구’를 연결하여 개인의 분노를 도구화하는 워크숍을 진행한다. 각자의 분노를 도구로 만든 후, 그것을 없애며 분노의 방향성에 대해 질문한다.<br>
+<br>
+<br>
+*해당 홈페이지에서 리서치 자료를 확인할 수 있습니다. [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br>
 <br>
 <br>
 <br>
-2019 &#60;Kiln God Wiki&#62; Exhibition Catalogue<br>
+*뭉툭한 도구로 사냥하는 법_Workshop<br>
+<br>
+"당신의 분노는 어느 방향을 향해있나요? 어떤 방식으로 표출되고 있나요?"<br> 
+<br>
+최근의 뉴스를 보면 분노가 차오릅니다. 우리는 어떤 방향으로 분노를 표현해야 할까요.<br> 
+‘공격과 도구’를 연결하여 개인의 분노를 도구화하는 워크숍을 진행합니다. 각자의 분노를 도구로 만든 후, 그것을 없애며 분노의 방향성에 대한 생각을 공유합니다.<br>
+<br>
+‘공격성'에 대해 생각해봅니다. 납작한 방법으로 화두를 꺼내 볼게요. 여성들의 분노는 남성들을 향해있으며, 남성들의 분노는 여성들을 향하여 발현됩니다. 트위터 내에서는 극단적인 공격 없이 대화가 진행될 수 없습니다. 또한, 그 밖의 다양한 방향의 분노들이 존재합니다. 분노의 방향을 생각하고 공유하며, 적절한 분노의 방향에 대해 설정해봅니다.<br>  
+<br>
+먼저 워크숍 신청자에게 우편으로 재료를 보내드립니다. 재료를 가지고 각자의 도구(분노의 형태)를 만든 후, 만든 도구를 26일 오프라인 워크숍에 가지고 와 주세요. 도구에 대해 이야기하고 손을 움직이는 행동을 반복합니다. 도구를 없애며 공격과 분노의 방향성에 대해 질문하고 다양한 색깔로 발현될 수 있는 여성주의에 대한 생각을 공유합니다.<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+2020 &#60;𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂&#62; Online Exhibition<br>
 <br>
 <br>
 <br>
