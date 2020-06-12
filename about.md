@@ -54,6 +54,7 @@ brillerkim@gmail.com<br>
 <br>
 *Workshops
 <br>
+2020 Candy Carbon Project. 서울문화재단 서서울예술교육센터, 서울<br>
 2020 흙으로 질문하기. 이문 238, 서울<br>
 2019 문막 예술가 책방 프로젝트 &#60;흙으로 질문하기&#62;. 원주<br>
 2019 수상한 예술. 국립아시아문화전당 어린이문화원, 광주<br>
@@ -114,6 +115,7 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 *Workshops
 <br>
+2020 Candy Carbon Project. Seoul Foundation for Arts and Culture, Seoul, KR<br>
 2020 Clay Workshop. Different Doors 238, Seoul, KR<br>
 2019 Artist Bookstore Project. Wonju, KR<br> 
 2019 Children Program. ACC Children, Gwangju, KR<br> 
@@ -146,10 +148,12 @@ Based in Korea, Kim creates art works using clay and ceramic. She is interested 
 she creates narrative and context. As below, Kim creates a single form of clay/ceramic and transforms that form,
 combining with other medium.
 <br>
-<br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
 [<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
 [<U>instagram</U>](https://www.instagram.com/eunji_briller)<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
