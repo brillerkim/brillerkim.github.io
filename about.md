@@ -154,3 +154,8 @@ combining with other medium.
 <br>
 <br>
 <br>
+Copyright 2020. Eunji Briller Kim. all rights reserved.
+<br>
+<br>
+<br>
+<br>
