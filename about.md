@@ -144,6 +144,8 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 <br>
 <br>
+<br>
+<br>
 Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
 she creates narrative and context. As below, Kim creates a single form of clay/ceramic and transforms that form,
 combining with other medium.<br>
@@ -151,7 +153,7 @@ combining with other medium.<br>
 <br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
 [<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
-[<U>instagram</U>](https://www.instagram.com/eunji_briller)<br>
+[<U>instagram</U>](https://www.instagram.com/eunji.briller)<br>
 <br>
 <br>
 Copyright 2020. Eunji Briller Kim. all rights reserved.
