@@ -17,7 +17,7 @@ Eunji Briller Kim<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
-동시대의 뉴스, 기술 문화와 관련된 데이터를 유물화합니다. 데이터를 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만들고, 작업합니다. 주력 사업은 전시와 워크샵입니다.<br>  
+동시대의 뉴스, 기술 문화와 관련된 데이터를 유물화합니다. 데이터를 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만들고 작업합니다. 주력 사업은 전시와 워크샵입니다.<br>  
 <br>
 <br>
 <br>
@@ -146,17 +146,17 @@ BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
 she creates narrative and context. As below, Kim creates a single form of clay/ceramic and transforms that form,
-combining with other medium.
+combining with other medium.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
 [<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
 [<U>instagram</U>](https://www.instagram.com/eunji_briller)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 Copyright 2020. Eunji Briller Kim. all rights reserved.
 <br>
