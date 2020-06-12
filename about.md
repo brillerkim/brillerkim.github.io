@@ -149,14 +149,10 @@ she creates narrative and context. As below, Kim creates a single form of clay/c
 combining with other medium.<br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
 [<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
 [<U>instagram</U>](https://www.instagram.com/eunji_briller)<br>
+<br>
 <br>
 Copyright 2020. Eunji Briller Kim. all rights reserved.
 <br>
