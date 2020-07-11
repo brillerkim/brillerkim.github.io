@@ -79,7 +79,6 @@ brillerkim@gmail.com<br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
 <br>
 <br>
-<br>
 *Award
 <br>
 2013 10회 대한민국 도예공모전 입상 수상. 인천<br> 
@@ -103,15 +102,15 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Anyang, KR<br> 
 2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
-2018 Exhibition/Fair. Union Art Fair, Seoul, KR<br> 
+2018 Union Art Fair. Seoul, KR<br> 
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
-2015 &#60;GOODS&#62; Exhibition/Fair. Sejong Center, Seoul, KR<br> 
-2015 &#60;8yoil noons&#62; Exhibition. Barim, Gwangju, KR
+2015 GOODS. Sejong Center, Seoul, KR<br> 
+2015 8yoil noons. Barim, Gwangju, KR
 <br>
 <br>
 <br>
-*Projects<br>    
+*Projects    
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK  
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, KR<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR
@@ -143,7 +142,6 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br> 
 2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR    
 2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
-<br>
 <br>
 <br>
 *Award
