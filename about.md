@@ -40,7 +40,7 @@ brillerkim@gmail.com<br>
 2018 아시아 트레인날레 맨체스터 &#60;SUBI&#62;. Castlefield Gallery, 영국<br> 
 2017 10회 청주공예비엔날레 기획전 참여작가. 청주<br> 
 2015 굿-즈. 세종문화회관, 서울  
-2015 8요일에 눈이 밝아진다. 전시/레지던시 프로그램, 바림, 광주 
+2015 8요일에 눈이 밝아진다. 바림, 광주 
 <br>
 <br>
 <br>
@@ -72,11 +72,16 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-*Open Call
+*Grants
 <br>
 2020 경기문화재단 경기도 예술인 지원사업. 경기<br>
 2020 서울문화재단 서서울예술교육센터 예술놀이 LAB TA. 서울<br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
+<br>
+<br>
+<br>
+*Award
+<br>
 2013 10회 대한민국 도예공모전 입상 수상. 인천<br> 
 <br>
 <br>
@@ -102,11 +107,12 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
 2015 &#60;GOODS&#62; Exhibition/Fair. Sejong Center, Seoul, KR<br> 
-2015 &#60;8yoil noons&#62; Exhibition/Residency program. Barim, Gwangju, KR
+2015 &#60;8yoil noons&#62; Exhibition. Barim, Gwangju, KR
 <br>
 <br>
 <br>
-*Projects    
+*Projects
+<br>    
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK  
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, KR<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR
@@ -133,11 +139,16 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 <br>
 <br>
-*Open Call
+*Grants
 <br>
 2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br> 
 2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR    
 2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
+<br>
+<br>
+<br>
+*Award
+<br>
 2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
 <br>
 <br>
