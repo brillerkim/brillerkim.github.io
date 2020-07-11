@@ -88,7 +88,7 @@ brillerkim@gmail.com<br>
 <br>
 <br>
 <br>
-BFA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR  
+AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR  
 <br>
 <br>
 <br>
