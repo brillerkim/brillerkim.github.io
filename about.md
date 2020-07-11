@@ -111,8 +111,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 <br>
 <br>
-*Projects
-<br>    
+*Projects<br>    
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK  
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, KR<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR
