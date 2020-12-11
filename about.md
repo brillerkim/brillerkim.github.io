@@ -17,7 +17,7 @@ Eunji Briller Kim<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
-동시대의 뉴스, 현상, 믿음과 관련된 정보를 유물화합니다. 기이한 정보들을 수집한 후, 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만듭니다. 언어로 형용할 수 없는 기운을 형태화하여 미래를 위한 유물을 남깁니다. 주로, 전시와 워크숍을 합니다.<br>  
+동시대의 뉴스, 현상, 믿음과 관련된 정보를 유물 화합니다. 기이한 정보들을 수집한 후, 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만듭니다. 언어로 형용할 수 없는 기운을 형태 화하여 미래를 위한 유물을 남깁니다. 전시와 워크숍을 합니다.<br>  
 <br>
 <br>
 <br>
@@ -78,10 +78,7 @@ brillerkim@gmail.com<br>
 2020 서울문화재단 서서울예술교육센터 예술놀이 LAB TA. 서울<br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
 <br>
-<br>
-*Award
-<br>
-2013 10회 대한민국 도예공모전 입상 수상. 인천<br> 
+<br> 
 <br>
 <br>
 <br>
@@ -143,10 +140,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR    
 2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
 <br>
-<br>
-*Award
-<br>
-2013 Honorable Mention. 10th Ceramic Arts Award of Korea, Incheon, KR  
+<br>  
 <br>
 <br>
 <br>
