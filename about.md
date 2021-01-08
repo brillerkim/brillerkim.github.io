@@ -10,8 +10,8 @@ permalink: /contact/
 <br>
 <br>
 <br>
-Eunji Briller Kim<br> 
-김 은 지 
+Kim Du Gyung<br> 
+김 두 경 
 <br>
 (b.1988)<br>
 <br>
@@ -19,7 +19,7 @@ brillerkim@gmail.com<br>
 <br>
 지구의 마지막 날이 있다면 인간은 최후의 날을 결정할 수 있을까, 작가가 긴 시간 동안 고민하던 문장이었다. 문명이 사라져도 이상하지 않은 이 시기에 문득, 지구의 최후의 날을 상상해보았다. 인류는 이 행성의 마지막 날을 정하여 의식을 치른 후에 또 다른 행성으로 문명을 이동하지 않을까. 작가는 지구의 최후의 날을 위한 의식을 구상함과 동시에 이에 사용될 동시대 최신 유물을 만들기 시작했다.<br>
 <br>
-김은지 Eunji Briller Kim는 동시대의 뉴스, 현상, 믿음과 관련된 정보를 유물 화하는 미술가이다. 기이한 정보를 수집한 후, 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만들고 작업한다. 언어로 형용할 수 없는 기운을 형태 화하여 미래를 위한 유물을 남긴다. 주로 전시와 작업에 연계된 워크숍으로 이야기를 공유한다.<br>
+김두경은 동시대의 뉴스, 현상, 믿음과 관련된 정보를 유물 화하는 미술가이다. 기이한 정보를 수집한 후, 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만들고 작업한다. 언어로 형용할 수 없는 기운을 형태 화하여 미래를 위한 유물을 남긴다. 주로 전시와 작업에 연계된 워크숍으로 이야기를 공유한다.<br>
 <br> 
 <br>  
 <br>
@@ -158,11 +158,11 @@ combining with other medium.<br>
 <br>
 <br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
-[<U>facebook</U>](https://www.facebook.com/eunjibrillerkim)<br>
-[<U>instagram</U>](https://www.instagram.com/eunji.briller)<br>
+[<U>facebook</U>](https://www.facebook.com/kimdugyung)<br>
+[<U>instagram</U>](https://www.instagram.com/kimdugyung)<br>
 <br>
 <br>
-Copyright 2020. Eunji Briller Kim. all rights reserved.
+Copyright 2021. Kim Du Gyung. all rights reserved.
 <br>
 <br>
 <br>
