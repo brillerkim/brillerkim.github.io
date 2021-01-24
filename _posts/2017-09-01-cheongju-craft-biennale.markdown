@@ -48,13 +48,13 @@ Through her art, Kim tries to express the potential between the technological an
 <br>
 <br>
 <br>
-[<U>Cheongju Craft Biennale link</U>](http://www.okcj.org/)<br>
-[<U>10th Cheongju Craft Biennale main exhibition link</U>](http://recraft.kr/)<br> 
+<br>
+<br>
 <br>
 <br>
 <br>
 Ceramic, PLA, Mixed media. Dimension Variable<br>
-2017 #howtounits<br>
+2017 How To Make Units<br>
 <br>
 <br>
 <br>
