@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2018"
+title:  "Studio Pie Workshop"
 date:   2018-01-01 00:00:00
 preview: https://brillerkim.github.io/img/a5_1/2018-1_13.png
 ---
@@ -59,7 +59,7 @@ Seoul @스튜디오 파이 Studio Pie
 <br>
 5주 | 킨츠기Kintsugi 金継ぎ 기법 + 결과물 확인<br> 
 재벌(2차 가마) 후 과정입니다. 결과물을 확인하며 가마의 온도, 흙의 성질 등을 파악합니다.<br>
-깨진 도자를 수정하는 기법인, 일본의 킨츠기 기법을 본인 결과물에 활용합니다. *킨츠기: 수미 선생님<br>
+깨진 도자를 수정하는 기법인, 일본의 킨츠기 기법을 본인 결과물에 활용합니다. *킨츠기: 수미 작가<br>
 <br>
 <br> 
 <br>
