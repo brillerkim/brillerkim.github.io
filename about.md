@@ -17,11 +17,12 @@ Kim Du Gyung<br>
 <br>
 brillerkim@gmail.com<br>
 <br>
-지구의 마지막 날이 있다면 인간은 최후의 날을 결정할 수 있을까, 작가가 긴 시간 동안 고민하던 문장이었다. 문명이 사라져도 이상하지 않은 이 시기에 문득, 지구의 최후의 날을 상상해보았다. 인류는 이 행성의 마지막 날을 정하여 의식을 치른 후에 또 다른 행성으로 문명을 이동하지 않을까. 작가는 지구의 최후의 날을 위한 의식을 구상함과 동시에 이에 사용될 동시대 최신 유물을 만들기 시작했다.<br>
+지구의 마지막 날이 있다면 인간은 최후의 날을 결정할 수 있을까, 작가가 긴 시간 동안 고민하던 문장이었다. 문명이 사라져도 이상하지 않은 이 시기에 문득, 지구의 최후의 날을 상상해보았다. 인류는 이 행성의 마지막 날을 정하여 의식을 치른 후에 또 다른 행성으로 문명을 이동하지 않을까. 작가는 지구의 최후의 날을 위한 의식을 구상함과 동시에 이에 사용될 동시대 "최신 유물(2019~)"을 만들기 시작했다.<br>
 <br>
-김두경은 동시대의 뉴스, 현상, 믿음과 관련된 정보를 유물 화하는 미술가이다. 기이한 정보를 수집한 후, 박제(剝製, taxidermy)하여 작위적인 최신 유물을 만들고 작업한다. 언어로 형용할 수 없는 기운을 형태 화하여 미래를 위한 유물을 남긴다. 주로 전시와 작업에 연계된 워크숍으로 이야기를 공유한다.<br>
+김두경은 동시대의 뉴스, 현상, 믿음과 관련된 정보를 유물 화하는 미술가이다. 정보를 수집한 후, 자료를 박제(剝製, taxidermy)하여 작위적인 "최신 유물-시리즈"를 만든다. 또한, 자료를 형태 화하여 미래를 위한 유물을 남긴다. 주로 전시와 작업에 연계된 워크숍으로 이야기를 공유한다.<br>
 <br> 
-<br>  
+<br> 
+◍ P.S. 개명했습니다 ✸ 
 <br>
 <br>
 <br>
@@ -152,9 +153,17 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 <br>
 <br>
-Based in Korea, Kim creates art works using clay and ceramic. She is interested in reinterpretation of ceramic in contemporary art. Combining ceramic/clay with other medium,
-she creates narrative and context. As below, Kim creates a single form of clay/ceramic and transforms that form,
-combining with other medium.<br>
+I am an artist based in Korea and usually create and install artifacts dealing with contemporary news, phenomena, and beliefs. I share stories through workshops related to exhibitions and artworks.<br>
+<br>
+Experts say the end is near. The series "The Latest Relic" (2019~) conceives the last day of the Earth and its ritual for humanity's retrospect.<br>
+<br>
+In this series, I emphasize the importance of the artist's social role, especially in a crisis. What artists can do and what artists should do are the key questions, and by answering them, I create artifacts that document the contemporary issues.<br>
+<br>
+<br>
+◍ P.S. Change my name by Kim Du Gyung ✸ 
+<br>
+<br>
+<br>
 <br>
 <br>
 [<U>homepage</U>](https://brillerkim.github.io)<br>
