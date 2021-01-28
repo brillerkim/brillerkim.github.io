@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020"
+title:  "최신 유물 The Latest Relic Ver.3"
 date:   2020-04-22 00:00:00
 preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 ---
