@@ -140,7 +140,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 *Grants
 <br>
-2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>     
+2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR   
 2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
 <br>
 <br>  
