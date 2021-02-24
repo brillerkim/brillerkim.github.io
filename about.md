@@ -80,7 +80,6 @@ brillerkim@gmail.com<br>
 *Grants
 <br>
 2020 경기문화재단 경기도 예술인 지원사업. 경기<br>
-2020 서울문화재단 서서울예술교육센터 예술놀이 LAB TA. 서울<br>
 2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
 <br>
 <br> 
@@ -141,8 +140,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 *Grants
 <br>
-2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br> 
-2020 TA(Teaching Artist). Seoul Foundation for Arts and Culture, Seoul, KR    
+2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>     
 2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
 <br>
 <br>  
