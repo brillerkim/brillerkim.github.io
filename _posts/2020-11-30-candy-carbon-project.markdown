@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Researched in the online exhibition"
+title:  "The Latest Relic Ver.3"
 date:   2020-04-22 00:00:00
 preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 ---
@@ -87,7 +87,7 @@ f항목은 추가중이다. 이 프로젝트에서 페미니즘은 성차별과 
 <br>
 <br>
 *전시 일정<br>
-2020. 4.22 (수) - 4.26 (일)<br>
+4.22 (수) - 4.26 (일)<br>
 <br>
 *장소: http://womanopentechlab.kr/f/ 및 https://www.twitch.tv/wotl<br>
 <br>
