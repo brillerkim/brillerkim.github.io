@@ -22,7 +22,7 @@ preview: https://brillerkim.github.io/img/a10/2019-1_2.jpg
 Seoul @세운상가 Makercity Sewoon<br>
 <br>
 <br>
-*<br>
+<br>
 <br>
 金銀智(김은지 Eunji Briller Kim)<br>
 最新遺物(최신유물)<br>
@@ -43,7 +43,12 @@ Seoul @세운상가 Makercity Sewoon<br>
 <br>
 <br>
 <br>
-**<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>  
 DEGITAL – in your hands<br> 
 이 전시는 디지털 기술을 다루는 예술의 다른 형태를 고민합니다.<br>
