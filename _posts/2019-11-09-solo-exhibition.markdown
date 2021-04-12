@@ -17,23 +17,15 @@ preview: https://brillerkim.github.io/img/a11/2019-2_1.JPG
 
 ![Picture 6](https://brillerkim.github.io/img/a11/2019-2_12.jpg)
 
-![Picture 7](https://brillerkim.github.io/img/a11/2019-2_13.jpg)
+![Picture 7](https://brillerkim.github.io/img/a11/2019-2_14.jpg)
 
-![Picture 8](https://brillerkim.github.io/img/a11/2019-2_14.jpg)
+![Picture 8](https://brillerkim.github.io/img/a11/2019-2_15.jpg)
 
-![Picture 9](https://brillerkim.github.io/img/a11/2019-2_15.jpg)
+![Picture 9](https://brillerkim.github.io/img/a11/2019-2_17.jpg)
 
-![Picture 10](https://brillerkim.github.io/img/a11/2019-2_5.jpeg)
+![Picture 10](https://brillerkim.github.io/img/a11/2019-2_7.JPG)
 
-![Picture 11](https://brillerkim.github.io/img/a11/2019-2_16.jpg)
-
-![Picture 12](https://brillerkim.github.io/img/a11/2019-2_6.jpeg)
-
-![Picture 13](https://brillerkim.github.io/img/a11/2019-2_17.jpg)
-
-![Picture 14](https://brillerkim.github.io/img/a11/2019-2_7.JPG)
-
-![Picture 15](https://brillerkim.github.io/img/a11/2019-2_4.jpeg)
+![Picture 11](https://brillerkim.github.io/img/a11/2019-2_4.jpeg)
 
 
 <br>
@@ -70,27 +62,9 @@ Anyang @APAP 오픈스쿨 Open School<br>
 <br>
 <br>
 <br>
-____________________________________________________________<br>
+<br>
 <br> 
 <br>
-&#42;전시 연계 워크샵: &#60;흙으로 질문하기: 가마신 만들기&#62;<br> 
-<br>
-오래전부터 전해지던 이야기가 있습니다. 가마에 넣은 모두의 작업, 그 결과물을 훌륭히 나올 수 있게 도와주는 신이 있다는 이야기입니다. 우리는 최상의 결과물을 위해 가마 앞에서 고사를 지내며 가마신에게 가마 안의 안녕과 번영을 기원했습니다. 김은지 작가는 가마 앞에서 고사를 지내본 적이 없다고 말합니다. 하지만 종종 전기 가마 앞에서 기도했다고 고백했습니다. 작가는 가마신의 모습이 궁금했습니다. 사료에 없는 가마신의 모양을 찾아보기 시작했습니다. 한국의 '카더라~' 에피소드 중 하나는 가마신이 여자라는 썰입니다. 조선 시대 때, 여성들은 도자기를 만들지 못하였습니다. 가마 근처에 여성이 등장하면 가마신이 질투를 한다나요. 일본은 가마신이 소년이라 믿습니다. 김은지 작가는 가마신을 조우한 사람을 만나고 싶었습니다. 그 중, 김민선 작가는 가마신이 '한전(한국전력공사)인 것 같다'는 말씀을 해주셨습니다. 가마신은 어떻게 생겼을까요? 모습을 알 수 없는 가마신의 모양을 함께 찾아봅니다.<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-&#42;전시 연계 토크: &#60;가마가마신 썰 풀기&#62;<br>
-<br>
-9월 어느 날, 작가들과 함께 비공개 워크샵을 진행하였습니다. 가마신에 관련된 썰을 함께 풀어보았는데요.분위기가 매우 좋았습니다. 가마신에 대한 에피소드와 자료를 공유하며 긴 이야기로 워크샵을 진행했었죠. 가마신은 도자 가마를 지키는 신입니다. 가마신에 관련된 재밌는 이야기 알려드릴까요. 한국어로 된 #가마신 태그 수보다 #kilngod 태그 수가 더 많다는 썰입니다.
-김은지 작가는 개인전을 위해 가마신과 관련된 인터뷰를 진행하였습니다. 11명의 작가를 만나 인터뷰를 진행했죠. 도자로 작업하는 작가와 역사성이 오래된 재료로 작업하는 작가를 만났습니다. 다들 인터뷰를 위해 어찌나 공부를 많이 해오셨는지. 가마신의 신상정보가 마구마구 공개되었습니다. 비공개 워크샵과 인터뷰에 참여했던 작가들이 가마신의 신상정보를 정리하고자 다시 모였습니다. 5명의 작업자를 초대하여, 사료에 없는 가마신에 대한 썰을 모아모아 털어보려합니다. 이름하여 가마가마신 썰풀기.<br>    
-<br>
--참여 작가: 강신영, 김은지, 김지혜, 권혜현, 수미<br>
-<br>
-<br>
-<br>
-____________________________________________________________<br>
 <br>
 <br>
 김은지 Eunji Briller Kim 개인전 &#60;의심 이미지 Doubtful Image&#62;<br>
