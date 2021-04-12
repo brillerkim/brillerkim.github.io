@@ -27,11 +27,12 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 여성기술랩 @Online Exhibition [<U>womanopentechlab.kr/f</U>](http://womanopentechlab.kr/f/)<br> 
 <br>
 <br>
-뭉툭한 도구로 사냥하는 법<br>
+<br>
+*뭉툭한 도구로 사냥하는 법<br>
 (텍스트 및 오프라인 생각 공유 워크숍)<br>
 <br>
 자낳괴 인간은 생명을 자본으로 교환한다. 대상에 대한 자본화가 익숙하기 때문에 공격하는 행동에 대해 죄의식이 없다. 스마트 연어 양식장과 텔레그램 n번방 사태, 두가지 사례에서 관계성을 발견하고 리서치 과정 중인 자료를 공유한다. 이에 연계된 내용으로 ‘공격과 도구’를 연결하여 개인의 분노를 도구화하는 워크숍을 진행한다. 각자의 분노를 도구로 만든 후, 그것을 없애며 분노의 방향성에 대해 질문한다.<br>
-*해당 홈페이지에서 리서치 자료를 확인할 수 있습니다.<br>
+-해당 홈페이지에서 리서치 자료를 확인할 수 있습니다.<br>
 <br>
 <br>
 <br>
@@ -42,7 +43,7 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 <br>
 <br>
 <br>
-*뭉툭한 도구로 사냥하는 법_Workshop<br>
+**뭉툭한 도구로 사냥하는 법_Workshop<br>
 <br>
 <br>
 "당신의 분노는 어느 방향을 향해있나요? 어떤 방식으로 표출되고 있나요?"<br> 
@@ -58,6 +59,19 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기술연구모임 (2019-)의 온라인 전시 및 스트리밍입니다. 여성(feminism)으로부터 출발은 했지만 결코 그 단어로 단순히 묶이지 않으며 더 다양한 종류의 변종 f(eminism)가 필요하다는 의미로, 마치 인권의 사전에 다양한 f-단어를 추가하는 과정처럼 이 스터디를 꾸렸음을 나타냅니다. 이 프로젝트에서 feminism은 어떤 한가지 사상이 아닌, 성차별과 소수자에 대한 억압, 압제에 도전하는 다양하고 넓은 범위의 프로젝트를 약칭하는 단어로만 쓰입니다. 오히려 이 프로젝트가 주목하는 것은 모든 것을 접촉(터치)으로 해결하면서도 서로에게 접근은 할 수 없는 바이러스의 시대, 신체와 정체성 등 형식과 본질이 일치하지 않아 배제되는 삭제 정정의 사회, 사회 규범과 범죄의 속도가 동떨어진 근시안적 기술과 아노미 현상 등을 여성 창작자의 시점으로 다루는것 입니다.<br>
+<br>
+&#60;𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂&#62; is an online exhibition and streaming project of a tech study group (2019-) organized and presented by Woman Open Tech LAB. Not surprisingly, we've started from feminism, however, what we've done is never simply tied to that term. We believe that we need a more diverse/variant kind of "f(eminism)s," and the title implies that this study was organized like we were editing various f-words in the encyclopedia of human rights. In this project, feminism is not a single thought but is employed only to indicate all the various projects that challenge sexism and oppression against minorities. Rather the project draws attention to the era of the virus in which we touch everything (digitally) but cannot approach to each other, to the society of erasure and correction in which we are excluded because our forms and essences are not matched such as body or identity, and lastly to the short-sighted technology and the anomie phenomenon in which the social norms and speed of crime are far from each other - all from perspectives of women creators.<br>
 <br>
 <br>
 <br>
@@ -86,11 +100,6 @@ preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 여성을 위한 열린 기술랩 (강민형, 김솜이, 전유진)<br>
 <br>
 <br>
-<br>
-<br>
-f항목 추가중 은 여성을 위한 열린 기술랩에서 진행했던 기술연구모임 (2019-)의 온라인 전시 및 스트리밍입니다. 여성(feminism)으로부터 출발은 했지만 결코 그 단어로 단순히 묶이지 않으며 더 다양한 종류의 변종 f(eminism)가 필요하다는 의미로, 마치 인권의 사전에 다양한 f-단어를 추가하는 과정처럼 이 스터디를 꾸렸음을 나타냅니다. 이 프로젝트에서 feminism은 어떤 한가지 사상이 아닌, 성차별과 소수자에 대한 억압, 압제에 도전하는 다양하고 넓은 범위의 프로젝트를 약칭하는 단어로만 쓰입니다. 오히려 이 프로젝트가 주목하는 것은 모든 것을 접촉(터치)으로 해결하면서도 서로에게 접근은 할 수 없는 바이러스의 시대, 신체와 정체성 등 형식과 본질이 일치하지 않아 배제되는 삭제 정정의 사회, 사회 규범과 범죄의 속도가 동떨어진 근시안적 기술과 아노미 현상 등을 여성 창작자의 시점으로 다루는것 입니다.<br>
-<br>
-&#60;𝑬𝒅𝒊𝒕𝒊𝒏𝒈 𝒇 𝒊𝒏 𝑬𝒏𝒄𝒚𝒄𝒍𝒐𝒑𝒆𝒅𝒊𝒂&#62; is an online exhibition and streaming project of a tech study group (2019-) organized and presented by Woman Open Tech LAB. Not surprisingly, we've started from feminism, however, what we've done is never simply tied to that term. We believe that we need a more diverse/variant kind of "f(eminism)s," and the title implies that this study was organized like we were editing various f-words in the encyclopedia of human rights. In this project, feminism is not a single thought but is employed only to indicate all the various projects that challenge sexism and oppression against minorities. Rather the project draws attention to the era of the virus in which we touch everything (digitally) but cannot approach to each other, to the society of erasure and correction in which we are excluded because our forms and essences are not matched such as body or identity, and lastly to the short-sighted technology and the anomie phenomenon in which the social norms and speed of crime are far from each other - all from perspectives of women creators.<br>
 <br>
 <br>
 <br>
