@@ -2,20 +2,20 @@
 layout: post
 title:  "The Latest Relic Ver.3"
 date:   2020-11-30 00:00:00
-preview: https://brillerkim.github.io/img/a14/2020-2_5.jpg
+preview: https://brillerkim.github.io/img/a14/2020-2_3.jpg
 ---
 
-![Picture 1](https://brillerkim.github.io/img/a14/2020-2_1.jpg)
+![Picture 1](https://brillerkim.github.io/img/a14/2020-2_6.jpg)
 
-![Picture 2](https://brillerkim.github.io/img/a14/2020-2_2.jpg)
+![Picture 2](https://brillerkim.github.io/img/a14/2020-2_1.jpg)
 
-![Picture 3](https://brillerkim.github.io/img/a14/2020-2_3.JPG)
+![Picture 3](https://brillerkim.github.io/img/a14/2020-2_2.JPG)
 
-![Picture 4](https://brillerkim.github.io/img/a14/2020-2_4.JPG)
+![Picture 4](https://brillerkim.github.io/img/a14/2020-2_5.JPG)
 
-![Picture 5](https://brillerkim.github.io/img/a14/2020-2_5.JPG)
+![Picture 5](https://brillerkim.github.io/img/a14/2020-2_3.JPG)
 
-![Picture 6](https://brillerkim.github.io/img/a14/2020-2_6.JPG)
+![Picture 6](https://brillerkim.github.io/img/a14/2020-2_4.JPG)
 
 ![Picture 7](https://brillerkim.github.io/img/a14/2020-2_7.png)
 
