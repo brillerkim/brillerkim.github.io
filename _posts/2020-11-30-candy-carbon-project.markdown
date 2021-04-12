@@ -24,13 +24,13 @@ preview: https://brillerkim.github.io/img/a14/2020-2_3.jpg
 <br>
 <br>
 <br>
-Seoul @서울문화재단 서서울예술교육센터 Seoul Foundation for Arts and Culture<br> 
-[<U>candycarbon-proj.info</U>](http://candycarbon-proj.info/)<br> 
+Seoul @서울문화재단 서서울예술교육센터 Seoul Foundation for Arts and Culture<br>  
 <br>
 <br>
 <br>
 <br>
 Candy Carbon Project<br>
+[<U>candycarbon-proj.info</U>](http://candycarbon-proj.info/)<br>
 <br>
 <br>
 지구의 마지막 날이 있다면 인간은 최후의 날을 결정할 수 있을까, 작가가 긴 시간 동안 고민하던 문장이었다. 문명이 사라져도 이상하지 않은 이 시기에 문득, 지구의 최후의 날을 상상해보았다. 인류는 이 행성의 마지막 날을 정하여 의식을 치른 후에 또 다른 행성으로 문명을 이동하지 않을까. 작가는 지구의 최후의 날을 위한 의식을 구상하며, 의식에 쓰일 동시대 "최신 유물"을 만들기 시작했다. 작가는 동시대 뉴스, 현상, 믿음과 관련된 정보를 유물화하는 미술가이다. 4차 산업혁명을 위하여 투자된 국가 예산 그래프를 박제하여 유물을 만들거나, 사료에 기록되지 않았던 ‘가마신’의 형태를 찾아보며 신에 대한 질문을 유물화했다. 우리 주변부에서 발견할 수 있으나 기록되지 않은 정보를 유물 화하여 인류의 회고를 위한 의식에 설치될 유물을 시리즈로 작업하고 있다.<br>
@@ -40,13 +40,13 @@ Candy Carbon Project<br>
 <br>
 썩지 않는 재료를 활용한 프로젝트<br>
 <br>
-1. ‘Candy Carbon Project 1.0’<br> 
+‘Candy Carbon Project 1.0’<br> 
 — 상반기 비대면 워크숍<br> 
 참여자들은 신종 코로나바이러스 감염증으로 인하여 발현되는 에피소드를 토템으로 만들어 기록했다.<br>
-2. ‘Candy Carbon Project with 신원초’<br> 
+‘Candy Carbon Project with 신원초’<br> 
 — 중반기 대면 워크숍<br>
 1.0 기록의 연장선으로, 신원초 학생들과 최신 유물을 만들고 전시를 진행했다.<br> 
-3. ‘Candy Carbon Project 2.0’<br> 
+‘Candy Carbon Project 2.0’<br> 
 — 하반기 대면 워크숍
 양식되는 연어의 인공적인 색에 대한 이야기를 공유한 후, 참여자들과 함께 연어의 색을 유물화하여 기록했다.<br>
 <br>
@@ -69,6 +69,9 @@ Workshop E-Book "2020 Relics" <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 주관/ 주최: 서울문화재단 서서울예술교육센터<br>
 작가: 김은지 Eunji Briller Kim<br>
 <br>
@@ -78,7 +81,6 @@ Workshop E-Book "2020 Relics" <br>
 사진: 송보경<br>
 보조 강사: 강지원<br>
 <br>
-<br>
 장소: 서서울예술교육센터, 신원초등학교, 바림
 <br>
 <br>
@@ -86,7 +88,7 @@ Workshop E-Book "2020 Relics" <br>
 <br>
 <br>
 <br>
-I have been researching and choosing one of the contemporary issues. The information that is undocumented yet found around us becomes a relic in this series. This artwork is “The Latest Relics”.<br>  
+I have been researching and choosing one of the contemporary issues. The information that is undocumented yet found around us becomes a relic in this series. This artwork is “The Latest Relics”.
 In this series, I emphasize the importance of the artist's social role, especially in a crisis. In addition, this artwork was supported by the Seoul Foundation for Arts and Culture last year. I will keep working on this concept.<br>
 <br>
 <br>
