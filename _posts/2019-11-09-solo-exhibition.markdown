@@ -36,7 +36,7 @@ Anyang @APAP 오픈스쿨 Open School<br>
 <br>
 <br>
 <br>
-*전시 서문<br>
+전시 서문<br>
 <br>
 “신에게 이 전시를 바칩니다.”<br>
 <br>
