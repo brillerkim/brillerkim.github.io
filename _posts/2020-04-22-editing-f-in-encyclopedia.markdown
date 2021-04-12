@@ -98,7 +98,7 @@ f항목은 추가중이다. 이 프로젝트에서 페미니즘은 성차별과 
 <br>
 <br>
 *전시 일정<br>
-2020. 4.22 (수) - 2020. 4.26 (일)<br>
+4.22 (수) - 4.26 (일)<br>
 <br>
 *장소: http://womanopentechlab.kr/f/ 및 https://www.twitch.tv/wotl<br>
 <br>
