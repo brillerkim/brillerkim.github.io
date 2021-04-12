@@ -97,9 +97,6 @@ Workshop E-Book "2020 Relics" <br>
 <br>
 <br>
 <br>
-I have been researching and choosing one of the contemporary issues. The information that is undocumented yet found around us becomes a relic in this series. This artwork is “The Latest Relics”.
-In this series, I emphasize the importance of the artist's social role, especially in a crisis. In addition, this artwork was supported by the Seoul Foundation for Arts and Culture last year. I will keep working on this concept.<br>
-<br>
 <br>
 <br>
 Candy Carbon Project<br>
