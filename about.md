@@ -185,6 +185,12 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 **Experts say the end is near. The series "The Latest Relic" (2019~) conceives the last day of the Earth and its ritual for humanity's retrospect.**<br>
 <br>
+**The information that is undocumented yet found around us becomes a relic in this series. The themes are as follows.**<br>
+**- Government and enterprise budget invested in the 4th industrial revolution**<br>
+**-The Kiln God, which is not recorded in Korean history**<br>
+**-An episode of hate and discrimination emerged from the pandemic**<br>
+**-The artificial pink color of salmon**<br>
+<br>
 **In this series, I emphasize the importance of the artist's social role, especially in a crisis. What artists can do and what artists should do are the key questions, and by answering them, I create artifacts that document the contemporary issues.**<br>
 <br>
 <br>
