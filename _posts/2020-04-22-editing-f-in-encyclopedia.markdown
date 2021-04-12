@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Researched in the online exhibition"
+title:  "Researched in an online exhibition"
 date:   2020-04-22 00:00:00
 preview: https://brillerkim.github.io/img/a13/2020-1_1.png
 ---
