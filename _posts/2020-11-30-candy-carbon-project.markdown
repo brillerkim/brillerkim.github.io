@@ -19,6 +19,7 @@ preview: https://brillerkim.github.io/img/a14/2020-2_5.jpg
 
 ![Picture 7](https://brillerkim.github.io/img/a14/2020-2_7.png)
 
+![Picture 8](https://brillerkim.github.io/img/a14/2020-2_8.png)
 
 
 <br>
