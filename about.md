@@ -74,9 +74,9 @@ brillerkim@gmail.com<br>
 <br>
 *Projects
 <br>
-2018 한-영 국제 교류 레지던시 프로그램 참여. 바림-Castlefield gallery, 영국    
-2017 Youtube on-demand streaming. 아카이브 봄, 서울<br>
-2015 #UE7 언리미티드 에디션. 일민미술관, 서울
+2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br>   
+2018 한-영 국제 교류 레지던시 프로그램 참여. 바림-Castlefield gallery, 영국<br>    
+2015 #UE7 언리미티드 에디션. 일민미술관, 서울<br>
 <br>
 <br>
 <br>
@@ -134,7 +134,9 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 <br>
 <br>
 <br>
-*Projects    
+*Projects
+<br>
+2021 Public Art Project. E.J.Domoso-ARCO, Anyang, KR<br>     
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK  
 2017 Youtube on-demand streaming. Archive Bomm, Seoul, KR<br> 
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR
