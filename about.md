@@ -37,7 +37,7 @@ brillerkim@gmail.com<br>
 **유물 혹은 유적은 후대에 남을만한 이야기를 기록하거나, 남겨진 것들을 일컫는다. 작가는 기록되지 않는 이야기에 집중하여 유물을 남기려 한다. 과연 "최신 유물”은 100년 뒤에 남겨질 수 있을까. 우리는 각자의 자리에서 더 나은 사회와 환경을 위해 무엇을 할 수 있을까. 작가는 우리 주변에 도래한 위기 상황 속에서 미술가가 할 수 있는 일이 무엇인가 고민하며, 동시대의 모습을 기록하고 있다.**<br>
 <br> 
 <br> 
-◍ P.S. 개명했습니다 ✸ 
+P.S. 개명했습니다 ✸ 
 <br>
 <br>
 <br>
@@ -193,7 +193,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 **In this series, I emphasize the importance of the artist's social role, especially in a crisis. What artists can do and what artists should do are the key questions, and by answering them, I create artifacts that document the contemporary issues.**<br>
 <br>
 <br>
-◍ P.S. Change my name by Kim Du Gyung ✸ 
+P.S. Changed my name by Kim Du Gyung ✸ 
 <br>
 <br>
 <br>
