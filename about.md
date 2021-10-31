@@ -196,7 +196,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 **In this series, I emphasize the importance of the artist's social role, especially in a crisis. What artists can do and what artists should do are the key questions, and by answering them, I create artifacts that document the contemporary issues.**<br>
 <br>
 <br>
-P.S. Changed my name by Kim Du Gyung ✸ 
+P.S. Changed my name since 2021 ✸ 
 <br>
 <br>
 <br>
