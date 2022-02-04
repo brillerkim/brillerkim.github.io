@@ -10,7 +10,7 @@ permalink: /contact/
 <br>
 <br>
 <br>
-Kim Du Gyung<br> 
+Kim Dugyung<br> 
 김 두 경 
 <br>
 <br>
@@ -25,19 +25,18 @@ P.S. 개명했습니다 ✸
 <br>
 <br>
 <br>
-brillerkim@gmail.com<br>
 <br>
 <br>
-**동시대의 정보를 유물화하는 미술가. 주변의 뉴스, 현상, 믿음과 관련된 정보를 수집한 후, 자료를 형태화하여 미래를 위한 “최신 유물”을 만든다. 주로 전시와 작업에 연계된 워크숍으로 이야기를 공유한다. 순수 미술을 전공했으며 졸업 후에 수년간 도자 기술을 사사했다.**<br>
-<br>
-<br>
+**동시대의 정보를 유물화하는 미술가. 뉴스와 관련된 정보를 수집한 후, 자료를 형태화하여 미래를 위한 “최신 유물”을 만든다. 주로 전시와 작업에 연계된 워크숍으로 이야기를 공유한다. 순수 미술을 전공했으며 졸업 후에 수년간 도자 기술을 사사했다.**<br>
 <br>
 <br>
 <br>
 <br>
-**작가는 문명이 사라져도 이상하지 않은 이 시기에 문득, 지구의 최후의 날을 상상해보았다. 또한, 지구의 마지막 날을 위한 의식(儀式, ritual)을 구상하고 이에 사용될 유물을 만들기 시작했다. 우리 주변부에서 발견할 수 있으나 기록되지 않은 정보를 유물화하여 인류의 회고를 위한 유물을 작업하고 있다.**<br>
 <br>
-**유물 혹은 유적은 후대에 남을만한 이야기를 기록하거나 남겨진 것들을 일컫는다. 작가는 기록되지 않는 이야기에 집중하여 유물을 남기려 한다. "최신 유물”은 100년 뒤에 남겨질 수 있을까. 우리는 각자의 자리에서 더 나은 사회와 환경을 위해 무엇을 할 수 있을까.**<br>
+<br>
+**작가는 문명이 사라져도 이상하지 않은 이 시기에 문득, 지구의 최후의 날을 상상해보았다. 또한, 지구의 마지막 날을 위한 의식(儀式, ritual)을 구상하고 이에 사용될 유물을 만들기 시작했다. 주변부에서 발견할 수 있으나 기록되지 않은 정보를 유물화하여 인류의 회고를 위한 유물을 작업하고 있다.**<br>
+<br>
+**유물 혹은 유적은 후대에 남을만한 이야기를 기록하거나 남겨진 것들을 일컫는다. 작가는 기억되지 않을 이야기에 집중하여 유물을 남기려 한다. "최신 유물”은 100년 뒤에 남겨질 수 있을까. 우리는 각자의 자리에서 더 나은 사회와 환경을 위해 무엇을 할 수 있을까.**<br>
 <br> 
 <br> 
 <br>  
@@ -196,7 +195,7 @@ AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR
 **In this series, I emphasize the importance of the artist's social role, especially in a crisis. What artists can do and what artists should do are the key questions, and by answering them, I create artifacts that document the contemporary issues.**<br>
 <br>
 <br>
-P.S. Changed my name since 2021 ✸ 
+P.S. Changed my name in 2021 ✸ 
 <br>
 <br>
 <br>
@@ -211,7 +210,7 @@ P.S. Changed my name since 2021 ✸
 <br>
 <br>
 <br>
-Copyright 2021. Kim Du Gyung. all rights reserved.
+Copyright 2022. Kim Dugyung. all rights reserved.
 <br>
 <br>
 <br>
