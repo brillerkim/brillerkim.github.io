@@ -173,7 +173,6 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-<br>
 **⋆✴︎˚｡⋆Changed my name in 2021⋆✴︎˚｡⋆** 
 <br>
 <br>
@@ -187,6 +186,14 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
