@@ -111,6 +111,8 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
+<br>
+<br> 
 2012 AA in Fine Arts, Kaywon University of Art & Design. Gyeonggi, KR<br>
 2014 Studied ceramics under Euimi Sun and Sehyun Kim. Gyeonggi, KR.<br>
 2026 MA in Geo-Design, Design Academy Eindhoven, Eindhoven. NL<br>
@@ -180,6 +182,11 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br> 
 <br>
 <br>
 <br>
