@@ -50,11 +50,18 @@ $on-laptop:        800px;
         "layout",
         "path"
 ;
+.navbar .navbar-nav {
+  border: 2pt solid #333333;
+  background-color: #ffffff;
+}
+
 .navbar .navbar-nav > li > a {
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
   font-weight: 400;
+  color: #333333 !important;
 }
+
 body {
   font-family: "Times New Roman", Times, serif;
   font-style: normal;
