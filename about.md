@@ -6,6 +6,7 @@ permalink: /cv/
 김 두 경 (b.1988) 
 <br>
 <br>
+**[<U>Instagram</U>](https://www.instagram.com/dugyungkim)<br>**
 <br>
 <br>
 <br>
@@ -39,9 +40,9 @@ ENG BELOW<br>
 <br>
 <br>
 <br>
-2012 계원예술대학교 매체예술과 졸업 (AA)<br>
+2012 계원예술대학교 매체예술과 졸업, AA<br>
 2014 선의미, 김세현 도예가에게 도자 공예 사사<br>
-2026 디자인 아카데미 아인트호벤 (네덜란드, 유럽), 지오 디자인 졸업 (MA)<br>
+2026 디자인 아카데미 아인트호벤-네덜란드, 지오 디자인 졸업, MA<br>
 <br>
 <br>
 <br>
@@ -100,105 +101,83 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br> 
 <br>
+**2021년, 개명했습니다.**<br>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-AA in Fine Art, Kaywon School of Art & Design, Gyeonggi, KR  
+<br>
+2012 AA in Fine Arts, Kaywon University of Art & Design. Gyeonggi, KR<br>
+2014 Studied ceramics under Euimi Sun and Sehyun Kim. Gyeonggi, KR.<br>
+2026 MA in Geo-Design, Design Academy Eindhoven, Eindhoven. NL<br>
 <br>
 <br>
 <br>
-*Exhibitions
+**Exhibition And Event**
 <br>
+2026 Duo Exhibition &#60;Witnesses&#62;, GONG-gan TOU, Seoul, KR<br> 
+2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
-2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Anyang, KR<br> 
-2019 DEGITAL – in your hands. Makercity Sewoon, Seoul, KR   
+2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Gyeonggi, KR (Supported by the Gyeonggi Cultural Foundation and the Anyang Foundation for Culture & Arts)<br> 
+2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Union Art Fair. Seoul, KR<br> 
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
 2015 GOODS. Sejong Center, Seoul, KR<br> 
-2015 8yoil noons. Barim, Gwangju, KR
+2015 8yoil noons. Barim, Gwangju, KR<br>
+2013 10th Ceramic Arts Award of Korea Exhibition (Juried Selection), Incheon Foundation for Arts & Culture, KR<br>
 <br>
 <br>
 <br>
-*Projects
+**Project**
 <br>
-2021 Public Art Project. E.J.Domoso-ARCO, Anyang, KR     
-2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK   
-2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR
+2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>     
+2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK (Supported by Barim)<br>   
+2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR<br>
 <br>
 <br>
 <br>
-*Workshops
+**Workshop**
 <br>
+2018 - 2023 Clay & Ceramic Workshop. Studio Pie, Seoul, KR<br>
 2020 Candy Carbon Project. Seoul Foundation for Arts and Culture, Seoul, KR<br>
-2020 Clay Workshop. Different Doors 238, Seoul, KR<br>
-2019 Artist Bookstore Project. Wonju, KR<br> 
-2019 Children Program. ACC Children, Gwangju, KR<br> 
-2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Yongin, KR<br>
+2020 Asking Questions through Clay. Different Doors 238, Seoul, KR<br>
+2020 How to Hunt with a Blunt Tool. Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Sewoon Plaza, KR<br>
+2019 Asking Questions through Clay. Artist Bookstore Project, Wonju, KR<br> 
+2019 Asking Questions through Clay. ACC Children, Gwangju, KR<br> 
+2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Gyeonggi, KR<br>
 2019 Kids Media Arts Camp. ACC Children, Gwangju, KR  
-2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Yongin, KR<br> 
+2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Gyeonggi, KR<br> 
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br> 
-2018.01~ing Clay & Ceramic Workshop. Studio Pie, Seoul, KR
 <br>
 <br>
 <br>
-*Collection 
+**Collection** 
 <br>
-2018 Manchester art gallery. Manchester, UK 
+2018 Manchester art gallery. Manchester, UK<br> 
 <br>
 <br>
 <br>
-*Grants
+**Grant**
 <br>
-2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR   
-2019 Selected Artist. Anyang Foundation for Culture and Arts, Anyang, KR   
-<br>
-<br>  
-<br>
+2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>   
+2019 Selected Artist. Gyeonggi Cultural Foundation - Anyang Foundation for Culture and Arts, Gyeonggi, KR<br>   
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-**I am an artist based in Korea and usually create and install artifacts dealing with contemporary news, phenomena, and beliefs. I share stories through workshops related to exhibitions and artworks.**<br>
-<br>
-**Experts say the end is near. The series "The Latest Relic" (2019~) conceives the last day of the Earth and its ritual for humanity's retrospect.**<br>
-<br>
-**The information that is undocumented yet found around us becomes a relic in this series. The themes are as follows.**<br>
-**- Government and enterprise budget invested in the 4th industrial revolution**<br>
-**-The Kiln God, which is not recorded in Korean history**<br>
-**-An episode of hate and discrimination emerged from the pandemic**<br>
-**-The artificial pink color of salmon**<br>
-<br>
-**In this series, I emphasize the importance of the artist's social role, especially in a crisis. What artists can do and what artists should do are the key questions, and by answering them, I create artifacts that document the contemporary issues.**<br>
-<br>
-<br>
-P.S. Changed my name in 2021 ✸ 
-<br>
-<br>
-<br>
-<br>
-<br>
-[<U>homepage</U>](https://brillerkim.github.io)<br>
-[<U>facebook</U>](https://www.facebook.com/kimdugyung)<br>
-[<U>instagram</U>](https://www.instagram.com/kimdugyung)<br>
+**Changed my name in 2021** 
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-Copyright 2022. Kim Dugyung. all rights reserved.
+**Copyright 2026. Dugyung Kim. all rights reserved.**
 <br>
 <br>
 <br>
