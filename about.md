@@ -46,7 +46,8 @@ ENG BELOW<br>
 <br>
 <br>
 <br>
-**Exhibition And Event**
+**Exhibition And Event**<br>
+<br>
 <br>
 2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br> 
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
@@ -64,7 +65,8 @@ ENG BELOW<br>
 <br>
 <br>
 <br>
-**Project**
+**Project**<br>
+<br>
 <br>
 2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br>   
 2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림 지원)<br>    
@@ -72,7 +74,8 @@ ENG BELOW<br>
 <br>
 <br>
 <br>
-**Workshop**
+**Workshop**<br>
+<br>
 <br>
 2018 - 2023 도자로 다른 것 만들기. 스튜디오 파이, 서울<br> 
 2020 Candy Carbon Project. 서울문화재단 서서울예술교육센터, 서울<br>
@@ -88,19 +91,20 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Collection** 
+**Collection**<br>
+<br>
 <br>
 2018 맨체스터 시립 미술관. 소장, UK<br>
 <br>
 <br>
 <br>
-**Grant**
+**Grant**<br>
+<br>
 <br>
 2020 경기문화재단 경기도 예술인 지원사업, 경기<br>
 2019 경기문화재단-안양문화재단 예술활동프로젝트 지원사업 선정작가, 안양<br>     
 <br>
 <br> 
-<br>
 **2021년, 개명했습니다.**<br>
 <br>
 <br>
@@ -115,13 +119,14 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Exhibition And Event**
+**Exhibition And Event**<br>
+<br>
 <br>
 2026 Duo Exhibition &#60;Witnesses&#62;, GONG-gan TOU, Seoul, KR<br> 
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
 2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Gyeonggi, KR (Supported by the Gyeonggi Cultural Foundation and the Anyang Foundation for Culture & Arts)<br> 
-2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR   
+2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR<br>   
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Union Art Fair. Seoul, KR<br> 
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
@@ -132,7 +137,8 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Project**
+**Project**<br>
+<br>
 <br>
 2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>     
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK (Supported by Barim)<br>   
@@ -140,7 +146,8 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Workshop**
+**Workshop**<br>
+<br>
 <br>
 2018 - 2023 Clay & Ceramic Workshop. Studio Pie, Seoul, KR<br>
 2020 Candy Carbon Project. Seoul Foundation for Arts and Culture, Seoul, KR<br>
@@ -149,19 +156,21 @@ Castlefield gallery), Manchester, UK<br>
 2019 Asking Questions through Clay. Artist Bookstore Project, Wonju, KR<br> 
 2019 Asking Questions through Clay. ACC Children, Gwangju, KR<br> 
 2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Gyeonggi, KR<br>
-2019 Kids Media Arts Camp. ACC Children, Gwangju, KR  
+2019 Kids Media Arts Camp. ACC Children, Gwangju, KR<br>  
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Gyeonggi, KR<br> 
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br> 
 <br>
 <br>
 <br>
-**Collection** 
+**Collection**<br> 
+<br>
 <br>
 2018 Manchester art gallery. Manchester, UK<br> 
 <br>
 <br>
 <br>
-**Grant**
+**Grant**<br>
+<br>
 <br>
 2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>   
 2019 Selected Artist. Gyeonggi Cultural Foundation - Anyang Foundation for Culture and Arts, Gyeonggi, KR<br>   
@@ -177,7 +186,7 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Copyright 2026. Dugyung Kim. all rights reserved.**
+**Copyright 2026. Dugyung Kim. All Rights Reserved.**
 <br>
 <br>
 <br>
