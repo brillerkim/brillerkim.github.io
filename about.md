@@ -35,69 +35,74 @@ Her recent work, EXOYELLOW (2026), connects the Post-it notes left as expression
 <br>
 <br>
 <br>
+ENG BELOW<br>
 <br>
 <br>
 <br>
-2012 계원예술대학교 매체예술과(AA) 졸업 
-2026 디자인 아카데미 아인트호벤, 지오디자인(MA) 졸업
+2012 계원예술대학교 매체예술과 졸업 (AA)<br>
+2014 선의미, 김세현 도예가에게 도자 공예 사사<br>
+2026 디자인 아카데미 아인트호벤 (네덜란드, 유럽), 지오 디자인 졸업 (MA)<br>
 <br>
 <br>
 <br>
-**Exhibitions
+**Exhibition And Event**
 <br>
+2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br> 
+2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
+2020 서울문화재단 서서울예술교육센터 결과공유회, 서서울예술교육센터, 서울<br>
 2020 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. Online Exhibition, 서울<br>
-2019 개인전 &#60;의심 이미지&#62;. APAP 오픈스쿨, 안양<br>
-2019 DEGITAL – in your hands. 세운상가, 서울  
-2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주  
-2018 유니온 아트페어. S-Factory, 서울  
-2018 아시아 트레인날레 맨체스터 &#60;SUBI&#62;. Castlefield Gallery, 영국<br> 
+2019 개인전 &#60;의심 이미지&#62;. APAP 오픈스쿨, 안양. (경기문화재단-안양문화재단 지원)<br>
+2019 DEGITAL – in your hands. 세운상가, 서울<br>  
+2018 무형, 디지털, 파인아트 & 페어. 뽕뽕브릿지, 광주<br>  
+2018 유니온 아트페어. S-Factory, 서울<br>  
+2018 아시아 트레인날레 맨체스터 &#60;SUBI&#62;. Castlefield Gallery, Manchester UK<br> 
 2017 10회 청주공예비엔날레 기획전 참여작가. 청주<br> 
-2015 굿-즈. 세종문화회관, 서울  
-2015 8요일에 눈이 밝아진다. 바림, 광주 
+2015 굿-즈. 세종문화회관, 서울<br>  
+2015 8요일에 눈이 밝아진다. 바림, 광주<br>
+2013 10회 대한민국 도예공모전 수상 전시 (입상), 인천문화재단, 인천<br> 
 <br>
 <br>
 <br>
-*Projects
+**Project**
 <br>
-2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양   
-2018 한-영 국제 교류 레지던시 프로그램 참여. 바림-Castlefield gallery, 영국    
-2015 #UE7 언리미티드 에디션. 일민미술관, 서울
+2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br>   
+2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림 지원)<br>    
+2015 #UE7 언리미티드 에디션. 일민미술관, 서울<br>
 <br>
 <br>
 <br>
-*Workshops
+**Workshop**
 <br>
+2018 - 2023 도자로 다른 것 만들기. 스튜디오 파이, 서울<br> 
 2020 Candy Carbon Project. 서울문화재단 서서울예술교육센터, 서울<br>
 2020 흙으로 질문하기. 이문 238, 서울<br>
-2019 문막 예술가 책방 프로젝트 &#60;흙으로 질문하기&#62;. 원주<br>
+2020 뭉툭한 도구로 사냥하는 법. 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. 세운상가, 서울<br>
+2019 &#60;흙으로 질문하기&#62;. 문막 예술가 책방 프로젝트 - 후용공연예술센터, 원주<br>
 2019 수상한 예술. 국립아시아문화전당 어린이문화원, 광주<br>
-2019 흙의 비밀. 작가연계 프로그램, 경기도 어린이 박물관, 용인<br>
+2019 흙의 비밀. 작가 연계 프로그램, 경기도 어린이 박물관, 용인<br>
 2019 키즈 미디어아트 캠프. 국립아시아문화전당 어린이문화원, 광주<br>
 2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
-2018 흙-도자 워크샵. Plant with Joe Hartley, 영국<br> 
-2018.01~ 도자로 다른 것 만들기 2.0. 스튜디오 파이, 서울 
+2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, 
+Castlefield gallery), Manchester, UK<br> 
 <br>
 <br>
 <br>
-*Collection 
+**Collection** 
 <br>
-2018 맨체스터 시립 미술관. 소장
+2018 맨체스터 시립 미술관. 소장, UK<br>
 <br>
 <br>
 <br>
-*Grants
+**Grant**
 <br>
-2020 경기문화재단 경기도 예술인 지원사업. 경기<br>
-2019 안양문화재단 안양예술활동프로젝트 지원사업 선정작가. 안양     
+2020 경기문화재단 경기도 예술인 지원사업, 경기<br>
+2019 경기문화재단-안양문화재단 예술활동프로젝트 지원사업 선정작가, 안양<br>     
 <br>
 <br> 
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-(ENG)
 <br>
 <br>
 <br>
