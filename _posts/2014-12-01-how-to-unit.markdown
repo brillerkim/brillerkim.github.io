@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ ｡⋆☄︎｡˚ 𖦹 ˚｡⋆｡✴︎˚｡⋆.⋆.⊹ ⋆｡˚~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ Poetry of Objects (2014)"
+title:  "~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ ｡⋆☄︎｡˚ 𖦹 ˚｡⋆｡✴︎˚｡⋆.⋆.⊹ ⋆｡˚~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊  ⊹ Poetry of Objects (2014)"
 date:   2014-12-01 00:00:00
 preview: https://brillerkim.github.io/img/a1/2015_2.jpg
 ---
@@ -19,11 +19,15 @@ preview: https://brillerkim.github.io/img/a1/2015_2.jpg
 
 <br>
 <br>
+“라이너 마리아 릴케의 시를 사물로 만든다면 어떤 형태가 될까요."<br>
+"What forms might Rainer Maria Rilke’s poems take if they were made into objects?"<br>
+<br>
+Ceramic and Thread, Mixed media.<br>
+Poetry of Objects (2014)<br>
 <br>
 <br>
-Ceramic, Mixed media.<br>
-2014 #howtounit<br>
 <br>
 <br>
+
 <br>
 <br>
