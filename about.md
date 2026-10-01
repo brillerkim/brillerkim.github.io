@@ -5,7 +5,8 @@ permalink: /cv/
 ---  
 <br>
 <br>
-**[<U>Instagram</U>](https://www.instagram.com/dugyungkim)<br>**
+**[<U>Instagram</U>](https://www.instagram.com/dugyungkim)**<br>
+**[<u>Email</u>](mailto:dugyungkim@outlook.com)**<br>
 <br>
 <br>
 <br>
