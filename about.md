@@ -68,21 +68,20 @@ ENG BELOW<br>
 **Project**<br>
 <br>
 2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br> 
-2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림 지원)<br>    
+2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림 지원)   
 2015 #UE7 언리미티드 에디션. 일민미술관, 서울<br>
 <br>
 <br>
 <br>
 **Workshop**<br>
 <br>
-<br>
 2018 - 2023 도자로 다른 것 만들기. 스튜디오 파이, 서울<br>
 2020 Candy Carbon Project. 서울문화재단 서서울예술교육센터, 서울<br>
 2020 흙으로 질문하기. 이문 238, 서울<br>
-2020 뭉툭한 도구로 사냥하는 법. 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. 세운상가, 서울<br>
-2019 &#60;흙으로 질문하기&#62;. 문막 예술가 책방 프로젝트 - 후용공연예술센터, 원주<br>
+2020 뭉툭한 도구로 사냥하는 법-여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;, 세운상가, 서울<br>
+2019 &#60;흙으로 질문하기&#62;-문막 예술가 책방 프로젝트. 후용공연예술센터, 원주<br>
 2019 수상한 예술. 국립아시아문화전당 어린이문화원, 광주<br>
-2019 흙의 비밀. 작가 연계 프로그램, 경기도 어린이 박물관, 용인<br>
+2019 흙의 비밀 - 작가 연계 프로그램, 경기도 어린이 박물관, 용인<br>
 2019 키즈 미디어아트 캠프. 국립아시아문화전당 어린이문화원, 광주<br>
 2019 흙과 빛 프로젝트. 시범운영 프로그램, 경기도 어린이 박물관, 용인<br>
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, 
@@ -104,7 +103,9 @@ Castlefield gallery), Manchester, UK<br>
 2019 경기문화재단-안양문화재단 예술활동프로젝트 지원사업 선정작가, 안양<br>     
 <br>
 <br> 
-**2021년, 개명했습니다.**<br>
+**⋆✴︎˚｡⋆2021년에 개명했습니다⋆✴︎˚｡⋆**<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -125,7 +126,7 @@ Castlefield gallery), Manchester, UK<br>
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
 2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Gyeonggi, KR (Supported by the Gyeonggi Cultural Foundation and the Anyang Foundation for Culture & Arts)<br> 
-2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR<br>   
+2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR<br>
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Union Art Fair. Seoul, KR<br> 
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
@@ -139,8 +140,8 @@ Castlefield gallery), Manchester, UK<br>
 **Project**<br>
 <br>
 <br>
-2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>     
-2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK (Supported by Barim)<br>   
+2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>
+2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK (Supported by Barim)<br>
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR<br>
 <br>
 <br>
@@ -155,7 +156,7 @@ Castlefield gallery), Manchester, UK<br>
 2019 Asking Questions through Clay. Artist Bookstore Project, Wonju, KR<br> 
 2019 Asking Questions through Clay. ACC Children, Gwangju, KR<br> 
 2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Gyeonggi, KR<br>
-2019 Kids Media Arts Camp. ACC Children, Gwangju, KR<br>  
+2019 Kids Media Arts Camp. ACC Children, Gwangju, KR<br>
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Gyeonggi, KR<br> 
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br> 
 <br>
@@ -171,14 +172,20 @@ Castlefield gallery), Manchester, UK<br>
 **Grant**<br>
 <br>
 <br>
-2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>   
-2019 Selected Artist. Gyeonggi Cultural Foundation - Anyang Foundation for Culture and Arts, Gyeonggi, KR<br>   
+2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>
+2019 Selected Artist. Gyeonggi Cultural Foundation - Anyang Foundation for Culture and Arts, Gyeonggi, KR<br>
 <br>
 <br>
 <br>
 <br>
 <br>
-**Changed my name in 2021** 
+**⋆✴︎˚｡⋆Changed my name in 2021⋆✴︎˚｡⋆** 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
