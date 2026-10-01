@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ ｡⋆☄︎｡˚ 𖦹 ˚｡⋆｡✴︎˚｡⋆.⋆.⊹ ⋆｡˚ 𖦹 Poetry of Objects (2014)"
+title:  "~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ ｡⋆☄︎｡˚ 𖦹 ˚｡⋆｡✴︎˚｡⋆.⋆.⊹ ⋆｡˚~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ Poetry of Objects (2014)"
 date:   2014-12-01 00:00:00
 preview: https://brillerkim.github.io/img/a1/2015_2.jpg
 ---
