@@ -101,7 +101,7 @@ Castlefield gallery), Manchester, UK<br>
 2019 경기문화재단-안양문화재단 예술활동프로젝트 지원사업 선정작가, 안양<br>     
 <br>
 <br> 
-**⋆✴︎˚｡⋆ 2021년에 개명했습니다 ⋆✴︎˚｡⋆**<br>
+**⋆✴︎˚｡⋆✴︎˚｡⋆ 2021년에 개명했습니다 ⋆✴︎˚｡⋆✴︎˚｡⋆**<br>
 <br>
 <br>
 <br>
@@ -173,7 +173,7 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**⋆✴︎˚｡⋆ Changed my name in 2021 ⋆✴︎˚｡⋆** 
+**⋆✴︎˚｡⋆✴︎˚｡⋆ Changed my name in 2021 ⋆✴︎˚｡⋆✴︎˚｡⋆** 
 <br>
 <br>
 <br>
