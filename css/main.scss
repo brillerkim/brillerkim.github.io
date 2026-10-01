@@ -13,7 +13,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #808080;
 $background-color: #fdfdfd;
 $brand-color:      #2e3192;
 
@@ -61,8 +61,12 @@ $on-laptop:        800px;
   font-weight: 400;
   color: #808080 !important;
 }
-
 body {
   font-family: "Times New Roman", Times, serif;
   font-style: normal;
+}
+body,
+h1, h2, h3, h4, h5, h6,
+a, a:visited, a:hover, a:active {
+  color: #808080;
 }
