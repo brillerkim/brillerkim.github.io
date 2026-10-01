@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dugyung Kim 김 두 경
+title: Dugyung Kim
 permalink: /cv/
 ---
 <br>
