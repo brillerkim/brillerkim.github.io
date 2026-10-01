@@ -21,10 +21,10 @@ permalink: /cv/
 **Dugyung Kim is a design researcher and artist who holds a master’s degree in Geo-Design from Design Academy Eindhoven in the Netherlands. She researches collective death resulting from contemporary wars and disasters, and the lives that follow.<br> 
 She currently focuses on the collective affect that successive large-scale disasters in South Korea have left on a generation. With short fiction at the core of her practice, she brings together hand-drawn animation, ceramics, and performance to trace the invisible sensations that remain in our everyday lives after tragedy.<br> 
 Her recent work, EXOYELLOW(2026), connects the Post-it notes left as expressions of mourning at the site of the Itaewon crowd crush on 29 October 2022 with the emotions shared by people in their twenties and thirties in South Korea. Through this work, she questions diverse ways of mourning and explores their everyday lives, fractured by tragedy.**<br> 
-<br> 
+<br>
 ENG BELOW<br>
-<br> 
-<br>  
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -49,7 +49,7 @@ ENG BELOW<br>
 <br>
 **Exhibition And Event**<br>
 <br>
-2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br> 
+2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br>
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2020 서울문화재단 서서울예술교육센터 결과공유회, 서서울예술교육센터, 서울<br>
 2020 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. Online Exhibition, 서울<br>
