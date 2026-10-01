@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
-permalink: /contact/
+title: Dugyung Kim 김 두 경
+permalink: /cv/
 ---
 <br>
 <br>
