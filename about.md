@@ -67,7 +67,6 @@ ENG BELOW<br>
 <br>
 **Project**<br>
 <br>
-<br>
 2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br> 
 2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림 지원)<br>    
 2015 #UE7 언리미티드 에디션. 일민미술관, 서울<br>
