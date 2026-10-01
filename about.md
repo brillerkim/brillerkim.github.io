@@ -46,8 +46,8 @@ ENG BELOW<br>
 <br>
 <br>
 <br>
-**Exhibition And Event**<br>
 <br>
+**Exhibition And Event**<br>
 <br>
 2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br> 
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
@@ -91,13 +91,11 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 **Collection**<br>
 <br>
-<br>
 2018 맨체스터 시립 미술관. 소장, UK<br>
 <br>
 <br>
 <br>
 **Grant**<br>
-<br>
 <br>
 2020 경기문화재단 경기도 예술인 지원사업, 경기<br>
 2019 경기문화재단-안양문화재단 예술활동프로젝트 지원사업 선정작가, 안양<br>     
@@ -121,7 +119,6 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 **Exhibition And Event**<br>
 <br>
-<br>
 2026 Duo Exhibition &#60;Witnesses&#62;, GONG-gan TOU, Seoul, KR<br> 
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
@@ -139,7 +136,6 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 **Project**<br>
 <br>
-<br>
 2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>
 2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK (Supported by Barim)<br>
 2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR<br>
@@ -147,7 +143,6 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 **Workshop**<br>
-<br>
 <br>
 2018 - 2023 Clay & Ceramic Workshop. Studio Pie, Seoul, KR<br>
 2020 Candy Carbon Project. Seoul Foundation for Arts and Culture, Seoul, KR<br>
@@ -162,15 +157,13 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Collection**<br> 
-<br>
+**Collection**<br>
 <br>
 2018 Manchester art gallery. Manchester, UK<br> 
 <br>
 <br>
 <br>
 **Grant**<br>
-<br>
 <br>
 2020 Selected Artist. Gyeonggi Cultural Foundation, Gyeonggi, KR<br>
 2019 Selected Artist. Gyeonggi Cultural Foundation - Anyang Foundation for Culture and Arts, Gyeonggi, KR<br>
