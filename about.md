@@ -51,6 +51,7 @@ ENG BELOW<br>
 <br>
 2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br>
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
+2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br>
 2020 서울문화재단 서서울예술교육센터 결과공유회, 서서울예술교육센터, 서울<br>
 2020 여성을 위한 열린 기술랩 &#60;f항목 추가중&#62;. Online Exhibition, 서울<br>
 2019 개인전 &#60;의심 이미지&#62;. APAP 오픈스쿨, 안양. (경기문화재단-안양문화재단 지원)<br>
@@ -59,17 +60,16 @@ ENG BELOW<br>
 2018 유니온 아트페어. S-Factory, 서울  
 2018 아시아 트레인날레 맨체스터 &#60;SUBI&#62;. Castlefield Gallery, Manchester UK<br> 
 2017 10회 청주공예비엔날레 기획전 참여작가. 청주<br>
+2015 #UE7 언리미티드 에디션. 일민미술관, 서울<br>
 2015 굿-즈. 세종문화회관, 서울<br>
-2015 8요일에 눈이 밝아진다. 바림, 광주<br>
 2013 10회 대한민국 도예공모전 수상 전시 - 입상, 인천문화재단, 인천<br> 
 <br>
 <br>
 <br>
-**Project**<br>
+**Residency**<br>
 <br>
-2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br> 
-2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림 지원)   
-2015 #UE7 언리미티드 에디션. 일민미술관, 서울<br>
+2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림-한국문화예술위원회 지원)<br>   
+2015 8요일에 눈이 밝아진다. 바림, 광주<br>
 <br>
 <br>
 <br>
@@ -121,8 +121,9 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 **Exhibition And Event**<br>
 <br>
-2026 Duo Exhibition &#60;Witnesses&#62;, GONG-gan TOU, Seoul, KR<br> 
+2026 Duo Exhibition &#60;Witnesses&#62;, GONG-gan TOU, Seoul, KR<br>
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
+2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>
 2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
 2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Gyeonggi, KR (Supported by the Gyeonggi Cultural Foundation and the Anyang Foundation for Culture & Arts)<br> 
 2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR<br>
@@ -130,17 +131,16 @@ Castlefield gallery), Manchester, UK<br>
 2018 Union Art Fair. Seoul, KR<br> 
 2018 Asia Triennial Manchester &#60;SUBI&#62;. Castlefield Gallery, Manchester, UK<br>
 2017 10th Cheongju Craft Biennale. Main Exhibition. Cheongju, KR<br> 
+2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR<br>
 2015 GOODS. Sejong Center, Seoul, KR<br> 
-2015 8yoil noons. Barim, Gwangju, KR<br>
 2013 10th Ceramic Arts Award of Korea Exhibition (Juried Selection), Incheon Foundation for Arts & Culture, KR<br>
 <br>
 <br>
 <br>
-**Project**<br>
+**Residency**<br>
 <br>
-2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>
-2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, and British Art Council, Manchester, UK (Supported by Barim)<br>
-2015 #UE7 UNLIMITED EDITION Seoul Book Fair. Ilmin Museum of Art, Seoul, KR<br>
+2018 Artists’ Residency Exchange Programme. Supported by Barim, Castlefield gallery, Arts Council Korea and British Art Council, Manchester, UK<br>
+2015 8yoil noons. Barim, Gwangju, KR<br>
 <br>
 <br>
 <br>
