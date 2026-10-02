@@ -68,7 +68,7 @@ ENG BELOW<br>
 <br>
 **Residency**<br>
 <br>
-2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림-한국문화예술위원회 지원)<br>   
+2018 한-영 국제 교류 레지던시. 바림-Castlefield gallery, UK. (바림-한국문화예술위원회 지원)<br>
 2015 8요일에 눈이 밝아진다. 바림, 광주<br>
 <br>
 <br>
