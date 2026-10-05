@@ -3,6 +3,7 @@ layout: post
 title:  "2017"
 date:   2017-05-01 00:00:00
 preview: https://brillerkim.github.io/img/a3_2/2017-3_6.jpg
+published: false
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a3_2/2017-3_2.jpg)
