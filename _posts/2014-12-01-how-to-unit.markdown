@@ -3,6 +3,7 @@ layout: post
 title:  "~ ⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊ ⊹ ｡⋆☄︎｡˚ 𖦹 ˚｡⋆｡✴︎˚｡⋆.⋆.⊹ ⋆｡˚~⋆｡˚⋆｡˚~ ~⋆｡⋆✴︎˚｡⋆. ݁₊⊹ Poetry of Objects (2014)"
 date:   2014-12-01 00:00:00
 preview: https://brillerkim.github.io/img/a1/2015_2.jpg
+published: false
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a1/2015_1.jpg)
