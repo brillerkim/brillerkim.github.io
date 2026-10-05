@@ -3,6 +3,7 @@ layout: post
 title:  "A Solo Exhibition Catalogue"
 date:   2019-12-17 00:00:00
 preview: https://brillerkim.github.io/img/a12/2019-3_1.jpg
+published: false
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a12/2019-3_1.jpg)
