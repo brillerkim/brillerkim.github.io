@@ -3,6 +3,7 @@ layout: post
 title:  "The Latest Relic Ver.3"
 date:   2020-11-30 00:00:00
 preview: https://brillerkim.github.io/img/a14/2020-2_3.jpg
+published: false
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a14/2020-2_6.jpg)
