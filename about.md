@@ -151,9 +151,9 @@ Castlefield gallery), Manchester, UK<br>
 2020 Asking Questions through Clay. Different Doors 238, Seoul, KR<br>
 2020 How to Hunt with a Blunt Tool. Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Sewoon Plaza, KR<br>
 2019 Asking Questions through Clay. Artist Bookstore Project, Wonju, KR<br> 
-2019 Asking Questions through Clay. ACC Children, Gwangju, KR<br> 
+2019 Asking Questions through Clay. Asia Culture Center, Gwangju, KR<br> 
 2019 Clay Workshop. Artist Workshop, Gyeonggi Children’s Museum, Gyeonggi, KR<br>
-2019 Kids Media Arts Camp. ACC Children, Gwangju, KR<br>
+2019 Kids Media Arts Camp. Asia Culture Center, Gwangju, KR<br>
 2019 Clay & Light art Project. Pilot Program, Gyeonggi Children’s Museum, Gyeonggi, KR<br> 
 2018 Play & Process Summer Workshops. Plant with Joe Hartley (organized by Barim, Castlefield gallery), Manchester, UK<br> 
 <br>
