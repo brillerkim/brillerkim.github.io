@@ -24,6 +24,9 @@ preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 핸드 드로잉-스톱모션 영상과 세라믹으로 구성된 EXOYELLOW는 포스트잇에 남겨진 애도의 흔적을 통해 한 세대가 공유하는 정동을 가시화한다. 이 작업은 재난 이후에도 일상에 남아 있지만 가시화되지 않는 감각을 기록하고, 다양한 애도의 가능성을 통해 반복되는 재난과 함께 삶을 지속하는 조건을 탐색한다.<br>
 이 작업은 2026년 Dutch Design Week 기간에 열리는 Design Academy Eindhoven 졸업 전시에서 퍼포먼스와 함께 공개될 예정이다.**<br>
 <br>
+<br>
+<br>
+<br>
 **EXOYELLOW (2026) explores the collective affect of those who came to be known as the “disaster generation” following the 2022 Itaewon disaster in Seoul. Through interviews with a psychiatrist who researches large-scale disasters and with South Koreans in their 20s and 30s, the artist examines the emotions that persist in everyday life after the event and the social conditions that shape them.<br>
 Post-it notes left by citizens at the site serve as both a central visual language and research material for the work. Written voluntarily and anonymously, their messages reveal forms of collective mourning at the site of the disaster. In conversation with an NGO activist who has documented these messages since 2022, Kim examines different practices of mourning. Drawing on this research, she writes a work of fiction and translates its narrative and affect into moving image and ceramics.<br>
 Combining hand-drawn stop-motion animation and ceramic works, EXOYELLOW makes visible the affect shared by a generation through traces of mourning left on the Post-it notes. It documents feelings that persist in everyday life after disaster but remain invisible, and explores how life can be sustained amid recurring disasters through different forms of mourning.<br>
