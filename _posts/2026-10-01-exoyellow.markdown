@@ -42,8 +42,8 @@ The work will be presented with a performance at the Design Academy Eindhoven Gr
 <br>
 <br>
 <br>
-Single-channel video (hand-drawn animation, sound, 10 min), ceramics, LED lighting, and performance<br>
-<span style="color: #e6b800;">EXOYELLOW (2026)</span><br>
+<span style="color: #FFD700;">Single-channel video (hand-drawn animation, sound, 10 min), ceramics, LED lighting, and performance</span><br>
+<span style="color: #FFD700;">EXOYELLOW (2026)</span><br>
 <br>
 <br>
 <br>
