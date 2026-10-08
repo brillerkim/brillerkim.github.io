@@ -49,6 +49,8 @@ ENG BELOW<br>
 <br>
 **Exhibition And Event**<br>
 <br>
+2026 The Stories We Are Still Living, Dutch Design Week 2026, Eindhoven, NL<br>
+2026 Design Academy Eindhoven Graduation Show, Dutch Design Week 2026, Eindhoven, NL<br>
 2026 2인전 &#60;Witnesses&#62;, 공간투, 서울<br>
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2021 공공 미술 프로젝트. 이모저모 도모소-한국문화예술위원회, 안양<br>
@@ -121,11 +123,13 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 **Exhibition And Event**<br>
 <br>
+2026 The Stories We Are Still Living, Dutch Design Week 2026, Eindhoven, NL<br>
+2026 Design Academy Eindhoven Graduation Show, Dutch Design Week 2026, Eindhoven, NL<br>
 2026 Duo Exhibition &#60;Witnesses&#62;, GONG-gan TOU, Seoul, KR<br>
 2026 A Reading Session with landscape of positions, Foundation We Are, Eindhoven, NL<br>
 2021 Public Art Project. E.J.Domoso-Arts Council Korea, Gyeonggi, KR<br>
-2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br> 
-2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Gyeonggi, KR (Supported by the Gyeonggi Cultural Foundation and the Anyang Foundation for Culture & Arts)<br> 
+2020 Woman Open Tech Lab &#60;Editing f in Encyclopedia&#62;. Online Exhibition, KR<br>
+2019 Solo Exhibition &#60;Doubtful Image&#62;. APAP Open School, Gyeonggi, KR (Supported by the Gyeonggi Cultural Foundation and the Anyang Foundation for Culture & Arts)<br>
 2019 DEGITAL – in your hands. Sewoon Plaza, Seoul, KR<br>
 2018 Intangibility Digital Fine art & Fair. Space Ppong, Gwangju, KR<br> 
 2018 Union Art Fair. Seoul, KR<br> 
