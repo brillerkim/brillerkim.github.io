@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EXOYELLOW (2026)                      
+title:                                                             EXOYELLOW (2026)                      
 date:   2026-10-01
 preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 ---
