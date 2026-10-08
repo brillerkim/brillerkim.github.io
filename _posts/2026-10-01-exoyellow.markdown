@@ -40,6 +40,12 @@ Combining hand-drawn stop-motion animation and ceramic works, EXOYELLOW makes vi
 The work will be presented with a performance at the Design Academy Eindhoven Graduation Show during Dutch Design Week 2026.**<br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Sound. Sangrok Kwon<br>
 <br>
 Interview Participants.<br> 
