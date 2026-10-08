@@ -1,13 +1,13 @@
 ---
 layout: post
-title:                          
+title:  ⠀⠀⠀                        
 date:   2026-10-01
 preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 ---
 
 ![Picture 1](https://brillerkim.github.io/img/a16/2026_1.jpg)
 
-![Picture 2](https://brillerkim.github.io/img/a16/2026_2.jpg)
+![Picture 2](https://brillerkim.github.io/img/a16/2026_2.JPG)
 
 ![Picture 3](https://brillerkim.github.io/img/a16/2026_4.jpg)
 
