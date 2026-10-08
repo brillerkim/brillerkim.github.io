@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  <br>                      
-date:   2026-10
+date:   2026-10-01
 preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 ---
 
