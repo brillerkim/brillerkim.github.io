@@ -9,6 +9,8 @@ preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 
 ![Picture 2](https://brillerkim.github.io/img/a16/2026_5.jpg)
 
+![Picture 4](https://brillerkim.github.io/img/a16/2026_6.jpg)
+
 ![Picture 3](https://brillerkim.github.io/img/a16/2026_4.jpg)
 
 ![Picture 4](https://brillerkim.github.io/img/a16/2026_2.JPG)
