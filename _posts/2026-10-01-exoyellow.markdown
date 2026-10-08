@@ -73,7 +73,6 @@ Yewon Dong<br>
 <br>
 <br>
 <span style="color: #FFD700;">Single-channel video (hand-drawn animation, sound, 10 min), ceramics, LED lighting, and performance</span><br>
-<span style="color: #FFD700;">EXOYELLOW (2026)</span><br>
 <br>
 <br>
 <br>
