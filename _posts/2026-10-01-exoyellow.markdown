@@ -42,6 +42,20 @@ The work will be presented with a performance at the Design Academy Eindhoven Gr
 <br>
 Sound. Sangrok Kwon<br>
 <br>
+Interview Participants.<br> 
+Chanseung Jung<br>
+Achim Ko<br>
+Anonymous (2)<br>
+Boram Goh<br>
+Gyeongjin Bae<br>
+Heeseo Woo<br>
+Hyejeong Yoon<br>
+Jina Seo<br>
+Joongwoo Park<br>
+Kihyun Ahn<br>
+Soogyung Lee<br>
+Yewon Dong<br>
+<br>
 <br>
 <br>
 <br>
