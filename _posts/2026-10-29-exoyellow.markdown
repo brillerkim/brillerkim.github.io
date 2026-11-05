@@ -49,6 +49,8 @@ Combining hand-drawn stop-motion animation and ceramic works, EXOYELLOW makes vi
 <br>
 <br>
 Sound. Sangrok Kwon<br>
+Photo. Femke Reijerman / Chloé Terrée<br>
+<br>
 <br>
 Interview Participants.<br> 
 Chanseung Jung<br>
@@ -69,7 +71,8 @@ Yewon Dong<br>
 <br>
 <br>
 <br>
-Photo. Femke Reijerman / Chloé Terrée
+<br>
+<br>
 <br>
 <br>
 <span style="color: #FFD700;">Single-channel video (hand-drawn animation, sound, 10 min), ceramics, LED lighting, and performance</span><br>
