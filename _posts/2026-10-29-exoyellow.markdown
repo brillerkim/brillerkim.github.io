@@ -16,7 +16,6 @@ preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 ![Picture 4](https://brillerkim.github.io/img/a16/2026_2.JPG)
 
 
-
 <br>
 <br>
 <br>
@@ -40,6 +39,17 @@ Post-it notes left by citizens at the site serve as both a central visual langua
 Combining hand-drawn stop-motion animation and ceramic works, EXOYELLOW makes visible the affect shared by a generation through traces of mourning left on the Post-it notes. It documents feelings that persist in everyday life after disaster but remain invisible, and considers how life can be sustained amid recurring disasters through different forms of mourning.**<br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Picture 5](https://brillerkim.github.io/img/a16/2026_8.jpg)
+
+![Picture 6](https://brillerkim.github.io/img/a16/2026_7.jpg)
+
 <br>
 <br>
 <br>
