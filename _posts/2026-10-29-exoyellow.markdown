@@ -15,6 +15,9 @@ preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 
 ![Picture 4](https://brillerkim.github.io/img/a16/2026_2.JPG)
 
+![Picture 5](https://brillerkim.github.io/img/a16/2026_8.jpg)
+
+![Picture 6](https://brillerkim.github.io/img/a16/2026_7.jpg)
 
 
 <br>
