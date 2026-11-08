@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dugyung Kim
+title: Dugyung Kim ●●●●●●●●●●●
 permalink: /cv/
 class: cv-page
 ---  
