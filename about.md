@@ -204,7 +204,7 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br>
 <br>
-**Copyright 2026, Dugyung Kim. All Rights Reserved.**
+<p class="cv-copyright">Copyright 2026, Dugyung Kim. All Rights Reserved.</p>
 <br>
 <br>
 <br>
