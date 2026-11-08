@@ -40,9 +40,9 @@ ENG BELOW<br>
 <br>
 <br>
 <br>
-2012 계원예술대학교 매체예술과 졸업, AA<br>
-2014 선의미, 김세현 도예가에게 도자 공예 사사<br>
-2026 디자인 아카데미 아인트호벤-네덜란드, 지오 디자인 졸업, MA<br>
+2012 AA 매체예술과, 계원예술대학교 졸업<br>
+2014 선의미 / 김세현 도예가에게 도자 공예 사사<br>
+2026 MA 지오 디자인, 디자인 아카데미 아인트호벤 졸업<br>
 <br>
 <br>
 <br>
@@ -116,7 +116,7 @@ Castlefield gallery), Manchester, UK<br>
 <br>
 <br> 
 2012 AA in Fine Arts, Kaywon University of Art & Design. Gyeonggi, KR<br>
-2014 Studied ceramics under Euimi Sun and Sehyun Kim. Gyeonggi, KR.<br>
+2014 Studied ceramics under Euimi Sun and Sehyun Kim. Gyeonggi, KR<br>
 2026 MA in Geo-Design, Design Academy Eindhoven, Eindhoven. NL<br>
 <br>
 <br>
