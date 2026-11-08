@@ -72,11 +72,16 @@ a, a:visited, a:hover, a:active {
 /* Image titles */
 .preview-panel {
   color: #5000FF !important;
-  font-weight: 300 !important;
+  font-weight: 1000 !important;
 }
 .cv-page .post-title {
   color: #5000FF !important;
 }
 .cv-page .cv-copyright {
+  color: #39FF14 !important;
+}
+.cv-page .cv-contact-link,
+.cv-page .cv-contact-link:visited,
+.cv-page .cv-contact-link:hover {
   color: #39FF14 !important;
 }
