@@ -70,11 +70,9 @@ h1, h2, h3, h4, h5, h6,
 a, a:visited, a:hover, a:active {
   color: #808080;
 }
-/* Image captions: yellow + bold */
-figcaption,
-.wp-caption-text,
-.image-caption,
-.caption {
+/* Image titles */
+.post-content img + em,
+.post-content figcaption {
   color: #FFD700 !important;
   font-weight: 700 !important;
 }
