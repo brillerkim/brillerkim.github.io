@@ -6,8 +6,8 @@ class: cv-page
 ---  
 <br>
 <br>
-**[<U>Instagram</U>](https://www.instagram.com/dugyungkim)**<br>
-**[<u>Email</u>](mailto:dugyungkim@outlook.com)**<br>
+<strong><a class="cv-contact-link" href="https://www.instagram.com/dugyungkim">Instagram</a></strong><br>
+<strong><a class="cv-contact-link" href="mailto:dugyungkim@outlook.com">Email</a></strong><br>
 <br>
 <br>
 <br>
