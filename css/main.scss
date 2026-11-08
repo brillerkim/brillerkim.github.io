@@ -70,9 +70,10 @@ h1, h2, h3, h4, h5, h6,
 a, a:visited, a:hover, a:active {
   color: #808080;
 }
-/* Image titles */
-.post-content img + em,
-.post-content figcaption {
+/* Image title */
+img + p,
+figure + p,
+figure figcaption {
   color: #FFD700 !important;
   font-weight: 700 !important;
 }
