@@ -2,6 +2,7 @@
 layout: page
 title: Dugyung Kim
 permalink: /cv/
+class: cv-page
 ---  
 <br>
 <br>
