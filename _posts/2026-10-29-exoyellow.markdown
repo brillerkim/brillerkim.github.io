@@ -1,6 +1,6 @@
 ---
 layout: post
-title: E X O Y E L L O W  (2026)                      
+title: ●                      
 date:   2026-10-29
 preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 ---
