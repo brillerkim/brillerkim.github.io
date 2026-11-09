@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●                 
+title: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●                 
 date:   2026-10-29
 preview: https://brillerkim.github.io/img/a16/2026_3.jpg
 ---
